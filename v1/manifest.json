@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 1780502619327,
+  "contentVersion": 1780502619350,
   "language": "ru",
-  "generatedAt": "2026-06-07T12:45:33.000Z",
+  "generatedAt": "2026-06-07T17:03:53.000Z",
   "counts": {
     "categories": 23,
     "guides": 600,
@@ -82,8 +82,8 @@
         },
         {
           "name": "guides.en.json",
-          "size": 5494136,
-          "sha256": "85a6a54098bd143cd4023596b9ab83392271085dc72dd6ac61ec9d572acee273"
+          "size": 5503716,
+          "sha256": "4206275fbce938ad9d63aed1677b7d0297070c3ec418e0964094013a881c7fd9"
         },
         {
           "name": "catalog.en.json",
@@ -114,8 +114,8 @@
         },
         {
           "name": "guides.de.json",
-          "size": 5473826,
-          "sha256": "0d22bd680ef909f224406848b2abf0896fb192df95bfa4ea5629193e80d94780"
+          "size": 5478656,
+          "sha256": "71fcc23b95f7c9167d5bc3ced050049e4887b735d0c24b501e5f124049bd29a3"
         },
         {
           "name": "catalog.de.json",
