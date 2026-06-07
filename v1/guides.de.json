@@ -3008,7 +3008,7 @@
       {
         "title": "Abmeldung — How to deregister your address in Berlin (AllAboutBerlin)",
         "url": "https://allaboutberlin.com/guides/abmeldung-deregister-in-berlin",
-        "kind": "article",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
@@ -3186,14 +3186,14 @@
       {
         "title": "Wohnungsgeberbestätigung in English — Settle in Berlin",
         "url": "https://www.settle-in-berlin.com/anmeldung/wohnungsgeberbestatigung-english/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "The Anmeldung — AllAboutBerlin",
         "url": "https://allaboutberlin.com/guides/anmeldung-in-english-berlin",
-        "kind": "article",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
@@ -3568,7 +3568,7 @@
       {
         "title": "The Anmeldung — How to register your address in Berlin",
         "url": "https://allaboutberlin.com/guides/anmeldung-in-english-berlin",
-        "kind": "article",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       }
@@ -4919,7 +4919,7 @@
       {
         "title": "Stadt München — Terminvereinbarung in den Bürgerbüros",
         "url": "https://stadt.muenchen.de/infos/terminvereinbarung-buergerbueros.html",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -6071,7 +6071,7 @@
       {
         "title": "service.berlin.de — Wohnung ummelden / anmelden",
         "url": "https://service.berlin.de/dienstleistung/120686/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -6243,7 +6243,7 @@
       {
         "title": "service.berlin.de — Wohnungsgeberbestätigung (Vordruck)",
         "url": "https://service.berlin.de/dienstleistung/120686/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -6664,7 +6664,7 @@
       {
         "title": "asyl.net — Basiswissen Asylverfahren",
         "url": "https://basiswissen.asyl.net/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -6862,14 +6862,14 @@
       {
         "title": "ProAsyl — Tipps zur Anhörung",
         "url": "https://www.proasyl.de/thema/asylverfahren/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "asyl.net — Die Anhörung im Asylverfahren",
         "url": "https://basiswissen.asyl.net/wissen-kompakt/das-asylverfahren",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -17114,7 +17114,7 @@
       {
         "title": "StepStone Gehaltsreport 2025",
         "url": "https://www.stepstone.de/wissen/gehaltsreport/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -17324,7 +17324,7 @@
       {
         "title": "Deutsche Welle — Dialekte in Deutschland",
         "url": "https://www.dw.com/de/deutsche-dialekte/a-58095340",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -21330,7 +21330,7 @@
       {
         "title": "Doctolib – Online-Terminbuchung und Arztsuche",
         "url": "https://www.doctolib.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -21699,14 +21699,14 @@
       {
         "title": "Doctolib – Online-Terminbuchung",
         "url": "https://www.doctolib.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "jameda – Arztsuche und Bewertungen",
         "url": "https://www.jameda.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -23023,7 +23023,7 @@
       {
         "title": "Bundespsychotherapeutenkammer — Wege zur Psychotherapie",
         "url": "https://www.bptk.de/ratgeber/wege-zur-psychotherapie/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -23269,7 +23269,7 @@
       {
         "title": "ImmobilienScout24 — Selbstauskunftsformular",
         "url": "https://www.immobilienscout24.de/wissen/vermieten.html",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -23501,7 +23501,7 @@
       {
         "title": "ImmobilienScout24 — Übergabeprotokoll Vorlage",
         "url": "https://www.immobilienscout24.de/wissen/mieten.html",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -24330,21 +24330,21 @@
       {
         "title": "Verivox — Stromvergleich",
         "url": "https://www.verivox.de/strom/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Check24 — Strom Vergleich",
         "url": "https://www.check24.de/strom/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Stromauskunft — Anbietervergleich",
         "url": "https://www.stromauskunft.de/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -24567,7 +24567,7 @@
       {
         "title": "ImmobilienScout24 — Wohnatlas und Marktdaten",
         "url": "https://www.immobilienscout24.de/wohnen/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -25198,14 +25198,14 @@
       {
         "title": "Deutscher Mieterbund — Mietkaution",
         "url": "https://mieterbund.de/service/checks-formulare/mietvertrag/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Mietkaution: Was Mieter wissen müssen",
         "url": "https://www.verbraucherzentrale.de/buecher-und-ebooks/mieter-handbuch",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -25321,14 +25321,14 @@
       {
         "title": "Verbraucherzentrale — Mietkautionsbürgschaft: teuer und oft unnötig",
         "url": "https://www.verbraucherzentrale.de/buecher-und-ebooks/mieter-handbuch",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Deutscher Mieterbund — Mietkaution",
         "url": "https://mieterbund.de/service/checks-formulare/mietvertrag/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -25454,14 +25454,14 @@
       {
         "title": "Deutscher Mieterbund — Kündigung durch den Mieter",
         "url": "https://mieterbund.de/service/checks-formulare/mietvertrag/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Mietvertrag kündigen",
         "url": "https://www.verbraucherzentrale.de/buecher-und-ebooks/mieter-handbuch",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -25573,21 +25573,21 @@
       {
         "title": "Deutscher Mieterbund — offizielle Website",
         "url": "https://mieterbund.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-05-29"
       },
       {
         "title": "Deutscher Mieterbund — Mitglied werden / Mieterverein finden",
         "url": "https://mieterbund.de/service/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-05-29"
       },
       {
         "title": "Verbraucherzentrale — Hilfe im Mietrecht",
         "url": "https://www.verbraucherzentrale.de/buecher-und-ebooks/mieter-handbuch",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-05-29"
       },
@@ -25699,14 +25699,14 @@
       {
         "title": "Deutscher Mieterbund — Selbstauskunft des Mieters",
         "url": "https://mieterbund.de/service/checks-formulare/mietvertrag/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Mieterselbstauskunft: Diese Fragen sind erlaubt",
         "url": "https://www.verbraucherzentrale.de/buecher-und-ebooks/mieter-handbuch",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -25882,14 +25882,14 @@
       {
         "title": "Deutscher Mieterbund — Mietpreisbremse",
         "url": "https://mieterbund.de/service/checks-formulare/mietvertrag/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Mietpreisbremse: Wo sie gilt und wie sie wirkt",
         "url": "https://www.verbraucherzentrale.de/buecher-und-ebooks/mieter-handbuch",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -26011,14 +26011,14 @@
       {
         "title": "Deutscher Mieterbund — Mietspiegel und Mieterhöhung",
         "url": "https://mieterbund.de/service/checks-formulare/mietvertrag/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Mieterhöhung prüfen",
         "url": "https://www.verbraucherzentrale.de/buecher-und-ebooks/mieter-handbuch",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -27993,7 +27993,7 @@
       {
         "title": "Verbraucherzentrale — Girokonto vergleichen",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/girokonto-was-sie-darueber-wissen-sollten-4990",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -28161,7 +28161,7 @@
       {
         "title": "Finanztip — Freistellungsauftrag erklärt",
         "url": "https://www.finanztip.de/freistellungsauftrag/",
-        "kind": "media",
+        "kind": "news",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -28325,21 +28325,21 @@
       {
         "title": "Verbraucherzentrale — Tagesgeld und Festgeld",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/zinsen-fuer-tagesgeld-und-festgeld-so-finden-sie-sicher-das-beste-angebot-102422",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Girokonto",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/girokonto-was-sie-darueber-wissen-sollten-4990",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Finanztip — Tagesgeld vs Festgeld",
         "url": "https://www.finanztip.de/tagesgeld/",
-        "kind": "media",
+        "kind": "news",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -28504,7 +28504,7 @@
       {
         "title": "Verbraucherzentrale — Sparen und Anlegen (Überblick: Konto, Überweisung, SEPA)",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -28669,7 +28669,7 @@
       {
         "title": "Verbraucherzentrale — Girokonto vergleichen",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/girokonto-was-sie-darueber-wissen-sollten-4990",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -28793,7 +28793,7 @@
       {
         "title": "Verbraucherzentrale — Scoring mit Kundendaten: Auskunft bei Schufa & Co. verlangen",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/scoring-mit-kundendaten-so-verlangen-sie-auskunft-bei-schufa-co-12756",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -32912,14 +32912,14 @@
       {
         "title": "Bundesarbeitsgericht — Pressemitteilungen zu Sonderzahlungen",
         "url": "https://www.bundesarbeitsgericht.de/",
-        "kind": "court",
+        "kind": "law",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ver.di — Weihnachtsgeld und Urlaubsgeld im Tarifvertrag",
         "url": "https://www.verdi.de/themen/geld-tarif",
-        "kind": "union",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -34082,7 +34082,7 @@
       {
         "title": "DGB — Ratgeber Arbeitsrecht (Arbeitsvertrag, Rechtsschutz)",
         "url": "https://www.dgb.de/service/ratgeber/arbeitsrecht/",
-        "kind": "union",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -34313,7 +34313,7 @@
       {
         "title": "ver.di — Betriebsrat gründen",
         "url": "https://www.verdi.de/themen/mitbestimmung/betriebsrat",
-        "kind": "union",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -35425,21 +35425,21 @@
       {
         "title": "Mindspace — Locations in Germany",
         "url": "https://www.mindspace.me/berlin/",
-        "kind": "blog",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "betahaus",
         "url": "https://www.betahaus.com/",
-        "kind": "blog",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "WeWork Germany",
         "url": "https://www.wework.com/l/coworking-space/berlin",
-        "kind": "blog",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
@@ -40503,7 +40503,7 @@
       {
         "title": "Marburger Bund — Deutschkenntnisse für die Approbation (B2 + C1 Fachsprache, je Bundesland)",
         "url": "https://www.marburger-bund.de/bundesverband/service/auslaendische-aerzte/foreign-physicians/anforderungen-deutschkenntnisse",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -43997,7 +43997,7 @@
       {
         "title": "Bundesagentur für Arbeit — KiZ-Lotse (Online-Rechner)",
         "url": "https://www.arbeitsagentur.de/familie-und-kinder/kiz-lotse",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -44409,7 +44409,7 @@
       {
         "title": "Stiftung Warentest — Automobilclubs im Test",
         "url": "https://www.test.de/",
-        "kind": "review",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -44654,7 +44654,7 @@
       {
         "title": "Stiftung Warentest — Automobilclubs 2025",
         "url": "https://www.test.de/",
-        "kind": "review",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -45029,7 +45029,7 @@
       {
         "title": "Bußgeldkatalog 2026 — Autobahn",
         "url": "https://www.bussgeldkatalog.org/autobahn/",
-        "kind": "reference",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -45241,14 +45241,14 @@
       {
         "title": "mobile.de — Gebrauchtwagen",
         "url": "https://www.mobile.de/",
-        "kind": "marketplace",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "AutoScout24 — Gebrauchtwagenkauf",
         "url": "https://www.autoscout24.de/",
-        "kind": "marketplace",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -45482,7 +45482,7 @@
       {
         "title": "ADAC — Gebrauchtwagencheck Vergleich",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/gebrauchtwagenkauf/",
-        "kind": "review",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -45924,7 +45924,7 @@
       {
         "title": "Bussgeldkatalog.org — Aktuelle Bußgelder",
         "url": "https://www.bussgeldkatalog.org/",
-        "kind": "reference",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -46132,7 +46132,7 @@
       {
         "title": "ADAC — Punktesystem Flensburg: so funktioniert es",
         "url": "https://www.adac.de/verkehr/recht/bussgeld-punkte/punktesystem/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -46261,7 +46261,7 @@
       {
         "title": "ADAC — Umschreibung ausländischer Führerscheine",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -46379,7 +46379,7 @@
       {
         "title": "ADAC — Ausländischer Führerschein: wie lange gültig",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -46531,14 +46531,14 @@
       {
         "title": "ADAC — Was kostet der Führerschein?",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/kosten/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "TÜV / DEKRA — Gebühren für die Prüfungen (Führerscheinprüfung)",
         "url": "https://www.dekra.de/de/fuehrerscheinpruefung/",
-        "kind": "commercial",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -46681,7 +46681,7 @@
       {
         "title": "ADAC – Ausländischen Führerschein umschreiben",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -46815,7 +46815,7 @@
       {
         "title": "ADAC – Britischer Führerschein nach dem Brexit",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -46945,7 +46945,7 @@
       {
         "title": "ADAC – Ukrainischer Führerschein: Umtausch und Fristen für Geflüchtete",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -48020,7 +48020,7 @@
       {
         "title": "ADFC – Verkehrsregeln für Radfahrende",
         "url": "https://www.adfc.de/artikel/verkehrsregeln-fuer-radfahrende",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -48524,7 +48524,7 @@
       {
         "title": "Verbraucherzentrale – BahnCard Falle",
         "url": "https://www.verbraucherzentrale.de/wissen/reise-mobilitaet/unterwegs-sein/nach-klage-der-verbraucherzentrale-kuendigungsfrist-fuer-bahncard-verkuerzt-97596",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -48845,7 +48845,7 @@
       {
         "title": "Deutsche Bahn - Deutschlandticket (was enthalten ist)",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
-        "kind": "commercial",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -48989,7 +48989,7 @@
       {
         "title": "Deutsche Bahn - Deutschlandticket Kauf und Kündigung",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
-        "kind": "commercial",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -49134,7 +49134,7 @@
       {
         "title": "ADAC - E-Scooter: Regeln, Versicherung, Bußgelder",
         "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/e-kleinstfahrzeuge/e-scooter/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -49254,7 +49254,7 @@
       {
         "title": "Deutsche Bahn - Fahrradmitnahme",
         "url": "https://www.bahn.de/angebot/zusatzticket/fahrrad",
-        "kind": "commercial",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -49282,7 +49282,7 @@
       {
         "title": "ADFC - Verkehrsregeln für Radfahrende",
         "url": "https://www.adfc.de/artikel/verkehrsregeln-fuer-radfahrende",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -49984,7 +49984,7 @@
       {
         "title": "Verbraucherzentrale - Muster für DSGVO-Anfragen",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -50154,7 +50154,7 @@
       {
         "title": "Verbraucherzentrale - Was wird aus De-Mail",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -51921,7 +51921,7 @@
       {
         "title": "Verbraucherzentrale — Mobilfunk kündigen",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -52264,7 +52264,7 @@
       {
         "title": "Verbraucherzentrale — Rufnummer mitnehmen",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -52459,7 +52459,7 @@
       {
         "title": "Verbraucherzentrale — Prepaid-Tarife vergleichen",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -52648,7 +52648,7 @@
       {
         "title": "Verbraucherzentrale — Roaming-Regeln",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/roaming-im-eu-ausland-43687",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -53488,14 +53488,14 @@
       {
         "title": "Helpling — offizielle Website",
         "url": "https://www.helpling.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "BOOK A TIGER — Reinigungsservice",
         "url": "https://www.bookatiger.com/de-de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -53913,35 +53913,35 @@
       {
         "title": "dm-drogerie markt — offizielle Website",
         "url": "https://www.dm.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Rossmann — offizielle Website",
         "url": "https://www.rossmann.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Müller — offizielle Website",
         "url": "https://www.mueller.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Shop-Apotheke — Online-Apotheke",
         "url": "https://www.shop-apotheke.com/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "DocMorris — Online-Apotheke und E-Rezept",
         "url": "https://www.docmorris.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -53955,7 +53955,7 @@
       {
         "title": "Verbraucherzentrale — Nahrungsergänzungsmittel: was Drogerien verkaufen dürfen",
         "url": "https://www.verbraucherzentrale.de/wissen/lebensmittel/nahrungsergaenzungsmittel",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -54279,7 +54279,7 @@
       {
         "title": "Verbraucherzentrale — Ratenkauf und Finanzierung",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -54300,7 +54300,7 @@
       {
         "title": "Verbraucherzentrale — Widerrufsrecht beim Online-Kauf (14 Tage)",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/onlinehandel/widerrufsrecht-bei-onlinekaeufen-13539",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -54440,7 +54440,7 @@
       {
         "title": "Verbraucherzentrale — Ladenöffnungszeiten und Sonntagsverkauf",
         "url": "https://www.verbraucherzentrale.de",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -54559,14 +54559,14 @@
       {
         "title": "Deutscher Mieterbund — Hausordnung",
         "url": "https://www.mieterbund.de/mietrecht/hausordnung.html",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Ruhezeiten und Lärm in der Wohnung",
         "url": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/laerm-ruhezeiten-und-nachbarschaft-13572",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -54699,14 +54699,14 @@
       {
         "title": "Verbraucherzentrale — Waschen und Energie sparen",
         "url": "https://www.verbraucherzentrale.de/wissen/energie/sparen/waschmaschine-und-trockner-energie-sparen-12345",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Deutscher Mieterbund — Waschküche und Hausordnung",
         "url": "https://www.mieterbund.de/mietrecht/hausordnung.html",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -54843,14 +54843,14 @@
       {
         "title": "Mülltrennung wirkt — Initiative der dualen Systeme",
         "url": "https://www.muelltrennung-wirkt.de",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Mülltrennung richtig gemacht",
         "url": "https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/abfall/muelltrennung-13573",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -55057,7 +55057,7 @@
       {
         "title": "Pro Asyl — Sozialleistungen für Geflüchtete",
         "url": "https://www.proasyl.de/hintergrund/das-asylbewerberleistungsgesetz-asylblg/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -55071,7 +55071,7 @@
       {
         "title": "Caritas — Beratung für Geflüchtete",
         "url": "https://www.caritas.de/hilfeundberatung/onlineberatung/migration/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -55787,7 +55787,7 @@
       {
         "title": "Tacheles e.V. — Sozialrecht-Portal",
         "url": "https://tacheles-sozialhilfe.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -56360,7 +56360,7 @@
       {
         "title": "BAG Landesjugendämter — Aufgaben der Jugendämter",
         "url": "https://www.bag-landesjugendaemter.de/de/ueber-uns/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -56589,7 +56589,7 @@
       {
         "title": "Frauenhauskoordinierung e.V.",
         "url": "https://www.frauenhauskoordinierung.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -56603,7 +56603,7 @@
       {
         "title": "Weisser Ring e.V.",
         "url": "https://weisser-ring.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -57579,14 +57579,14 @@
       {
         "title": "Bundesverband Deutscher Bestatter — Ratgeber",
         "url": "https://www.bestatter.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — Todesfall: Schritte für Hinterbliebene",
         "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/pflege-im-heim/todesfall-im-pflegeheim-die-wichtigsten-schritte-fuer-hinterbliebene-10804",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -57759,7 +57759,7 @@
       {
         "title": "Sozialverband VdK — Grundsicherung Ratgeber",
         "url": "https://www.vdk.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -57928,7 +57928,7 @@
       {
         "title": "Verbraucherzentrale — Erben und Vererben",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/erbe-ausschlagen-das-muessen-sie-wissen-32411",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -58815,7 +58815,7 @@
       {
         "title": "Sozialverband VdK: Erwerbsminderungsrente — Hilfe beim Antrag",
         "url": "https://www.vdk.de/deutschland/pages/themen/rente/79213/erwerbsminderungsrente",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -59979,7 +59979,7 @@
       {
         "title": "Stiftung Warentest — Rechtsschutzversicherung im Vergleich",
         "url": "https://www.test.de/thema/rechtsschutzversicherungen/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -59993,14 +59993,14 @@
       {
         "title": "GDV — Rechtsschutzversicherung (Gesamtverband der Versicherer)",
         "url": "https://www.gdv.de/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Finanztip — Rechtsschutzversicherung sinnvoll?",
         "url": "https://www.finanztip.de/rechtsschutzversicherung/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -61008,7 +61008,7 @@
       {
         "title": "DGB Rechtsschutz",
         "url": "https://www.dgbrechtsschutz.de/",
-        "kind": "support",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -61250,7 +61250,7 @@
       {
         "title": "DAV — Strafverteidiger-Notdienst",
         "url": "https://anwaltauskunft.de/",
-        "kind": "support",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -61458,14 +61458,14 @@
       {
         "title": "Caritas — Rechtshilfe",
         "url": "https://www.caritas.de/",
-        "kind": "support",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "DAV Anwaltauskunft",
         "url": "https://anwaltauskunft.de/",
-        "kind": "support",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -62171,14 +62171,14 @@
       {
         "title": "Caritas — Schuldner- und Insolvenzberatung",
         "url": "https://www.caritas.de/",
-        "kind": "support",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "meine-schulden.de — Portal der Caritas",
         "url": "https://www.meine-schulden.de/",
-        "kind": "support",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -62199,7 +62199,7 @@
       {
         "title": "Diakonie — Schuldnerberatung",
         "url": "https://www.diakonie.de/",
-        "kind": "support",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -63001,7 +63001,7 @@
       {
         "title": "Rauchmelder-Lebensretter — Initiative zur Rauchmelderpflicht",
         "url": "https://www.rauchmelder-lebensretter.de/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -67073,21 +67073,21 @@
       {
         "title": "Botschaft Russlands in Deutschland — germany.mid.ru",
         "url": "https://germany.mid.ru/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Konsulardepartement des russischen Außenministeriums — Terminbuchung (kdmid.ru)",
         "url": "https://kdmid.ru/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Auswärtiges Amt — Vertretungen der Russischen Föderation in Deutschland",
         "url": "https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/vertretungenrussischefoederation-201544",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -67224,14 +67224,14 @@
       {
         "title": "Anlage 11 FeV — Staatenliste zu den Sonderbestimmungen (gesetze-im-internet.de)",
         "url": "https://www.gesetze-im-internet.de/fev_2010/anlage_11.html",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ADAC — Ausländischen Führerschein umschreiben",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -67363,21 +67363,21 @@
       {
         "title": "Botschaft Russlands in Deutschland — Passangelegenheiten (germany.mid.ru)",
         "url": "https://germany.mid.ru/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Konsulardepartement des russischen Außenministeriums — Terminbuchung (kdmid.ru)",
         "url": "https://kdmid.ru/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Konsularisches Informationsportal des russischen Außenministeriums",
         "url": "https://www.kdmid.ru/docs/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       }
@@ -67511,21 +67511,21 @@
       {
         "title": "SFR — Rentenzahlung an im Ausland lebende Personen",
         "url": "https://sfr.gov.ru/grazhdanam/pensionres/pens_zagran/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Botschaft Russlands in Deutschland — Rentenangelegenheiten (germany.mid.ru)",
         "url": "https://germany.mid.ru/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Bundeszentralamt für Steuern — Doppelbesteuerungsabkommen",
         "url": "https://www.bzst.de/DE/Unternehmen/Internationales/DBA/dba_node.html",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -67662,28 +67662,28 @@
       {
         "title": "Botschaft Russlands in Deutschland — Notarielle Angelegenheiten (germany.mid.ru)",
         "url": "https://germany.mid.ru/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Auswärtiges Amt — Apostille und Legalisation",
         "url": "https://www.auswaertiges-amt.de/de/service/konsularinfo/internationale-urkunden",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Bundesnotarkammer — Aufgaben des Notars",
         "url": "https://www.bnotk.de/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "HCCH — Apostille Convention (Haager Übereinkommen 1961)",
         "url": "https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille",
-        "kind": "gov",
+        "kind": "official",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       }
@@ -67806,35 +67806,35 @@
       {
         "title": "anabin — Schulabschlüsse mit Hochschulzugang (KMK)",
         "url": "https://anabin.kmk.org/anabin/schulabschluesse-mit-hochschulzugang.html",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ZAB / KMK — Zeugnisbewertung für ausländische Hochschulabschlüsse",
         "url": "https://zab.kmk.org/",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "KMK — Anerkennung ausländischer Bildungsabschlüsse",
         "url": "https://www.kmk.org/themen/anerkennung-auslaendischer-abschluesse.html",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "uni-assist — Bewerbung internationaler Studierender",
         "url": "https://www.uni-assist.de/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "DAAD — Studienkolleg und Hochschulzugang",
         "url": "https://www.daad.de/de/studieren-und-forschen-in-deutschland/studium-planen/studienkolleg/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -67959,14 +67959,14 @@
       {
         "title": "Auswärtiges Amt — Internationale Urkunden, Apostille",
         "url": "https://www.auswaertiges-amt.de/de/service/konsularinfo/internationale-urkunden",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Russische Botschaft in Deutschland — Beglaubigung von Dokumenten (germany.mid.ru)",
         "url": "https://germany.mid.ru/",
-        "kind": "gov",
+        "kind": "official",
         "language": "ru",
         "lastRetrieved": "2026-06-03"
       }
@@ -68270,14 +68270,14 @@
       {
         "title": "gov.uk — Living in Germany (UK nationals)",
         "url": "https://www.gov.uk/guidance/living-in-germany",
-        "kind": "gov",
+        "kind": "official",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "BMI — Brexit und Aufenthaltsrecht britischer Staatsangehöriger",
         "url": "https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/migration/brexit/brexit-faq-liste.html",
-        "kind": "gov",
+        "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -68427,14 +68427,14 @@
       {
         "title": "gov.uk — Driving in Germany (UK licence exchange)",
         "url": "https://www.gov.uk/guidance/living-in-germany",
-        "kind": "gov",
+        "kind": "official",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ADAC — Britischen Führerschein umschreiben",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -71436,7 +71436,7 @@
       {
         "title": "einbuergerungstest-online.de — kostenloser Übungstest",
         "url": "https://www.einbuergerungstest-online.de/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -71587,7 +71587,7 @@
       {
         "title": "krankenkassen.de — EHIC: Was leistet die Karte im Ausland",
         "url": "https://www.krankenkassen.de/ausland/Europaeische-Krankenversicherungskarte/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -73797,7 +73797,7 @@
       {
         "title": "service.berlin.de — Anmeldung einer Wohnung (Termin)",
         "url": "https://service.berlin.de/dienstleistung/120686/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -73935,7 +73935,7 @@
       {
         "title": "Stadt Stuttgart — Online-Terminvergabe Bürgerbüros",
         "url": "https://stuttgart.konsentas.de/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -74096,7 +74096,7 @@
       {
         "title": "Service Berlin — Meldebescheinigung beantragen (Dienstleistung 120702)",
         "url": "https://service.berlin.de/dienstleistung/120702/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -74277,7 +74277,7 @@
       {
         "title": "Service Berlin — Zweitwohnsitz oder Nebenwohnung anmelden (351783)",
         "url": "https://service.berlin.de/dienstleistung/351783/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -74568,7 +74568,7 @@
       {
         "title": "Bußgeldkatalog — Russischen Führerschein umschreiben",
         "url": "https://www.bussgeldkatalog.org/russischen-fuehrerschein-umschreiben/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -76038,7 +76038,7 @@
       {
         "title": "ADAC – Auto anmelden: Kfz-Zulassung Schritt für Schritt",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-zulassung/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -76209,7 +76209,7 @@
       {
         "title": "ADAC – Kfz-Steuer: So wird sie berechnet",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-steuer/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -76357,7 +76357,7 @@
       {
         "title": "ADAC – Schadenfreiheitsklasse (SF-Klasse) erklärt",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/versicherung/schadenfreiheitsklasse/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -76497,7 +76497,7 @@
       {
         "title": "ADAC — Ausländischen Führerschein umschreiben (EU/EWR)",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/gueltigkeit/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -76663,7 +76663,7 @@
       {
         "title": "ADAC — Führerschein aus Nicht-EU-Staaten umschreiben",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/gueltigkeit/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -76807,7 +76807,7 @@
       {
         "title": "ADAC — Führerschein machen: Ablauf, Kosten, Dauer",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/kosten/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -76821,7 +76821,7 @@
       {
         "title": "TÜV — Theoretische und praktische Fahrprüfung",
         "url": "https://www.tuev-nord.de/de/privatkunden/verkehr/fuehrerschein/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -76941,14 +76941,14 @@
       {
         "title": "DEKRA — Umweltplakette / Feinstaubplakette beantragen",
         "url": "https://www.dekra.de/de/feinstaubplakette/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ADAC — Umweltplakette und Umweltzonen: Regeln und Bußgelder",
         "url": "https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/fahrverbote-umweltzonen/umweltplaketten/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -77072,7 +77072,7 @@
       {
         "title": "ADAC — Winterreifenpflicht: Regeln, Kennzeichnung, Bußgelder",
         "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/sicherheit/winterreifenpflicht-deutschland/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -77086,7 +77086,7 @@
       {
         "title": "TÜV — Winterreifen: Kennzeichnung und Profiltiefe",
         "url": "https://www.tuev-nord.de/de/privatkunden/verkehr/auto-motorrad-caravan/reifen/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -77274,7 +77274,7 @@
       {
         "title": "Verbraucherzentrale — Girokonto eröffnen: Worauf achten",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/girokonto-was-sie-darueber-wissen-sollten-4990",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -77295,7 +77295,7 @@
       {
         "title": "Deutsche Post — PostIdent Verfahren",
         "url": "https://www.deutschepost.de/de/p/postident.html",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -77455,7 +77455,7 @@
       {
         "title": "Verbraucherzentrale — Basiskonto: Girokonto für alle",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/fragen-und-antworten-zum-basiskonto-16610",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -77640,7 +77640,7 @@
       {
         "title": "Verbraucherzentrale — Neobroker: Was Anleger wissen sollten",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/neobroker-kosten-und-risiken-des-schnellen-wertpapierhandels-per-app-62408",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -77799,7 +77799,7 @@
       {
         "title": "Verbraucherzentrale — ETF-Sparplan: So funktioniert er",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/welche-vorteile-und-nachteile-haben-etfs-16603",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -77973,7 +77973,7 @@
       {
         "title": "Verbraucherzentrale — Auslandsüberweisung: Kosten vergleichen",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/geldtransferdienste-koennen-sehr-teuer-werden-12270",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -78296,7 +78296,7 @@
       {
         "title": "Verbraucherzentrale — Girokonto: Filialbank oder Direktbank?",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/girokonto-was-sie-darueber-wissen-sollten-4990",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -80998,7 +80998,7 @@
       {
         "title": "Bundesverband für Kindertagespflege e.V.",
         "url": "https://www.bvktp.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -81645,7 +81645,7 @@
       {
         "title": "Wohngeld.org — Wohngeldrechner und Voraussetzungen 2026",
         "url": "https://www.wohngeld.org/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -83215,14 +83215,14 @@
       {
         "title": "Rauchmelder retten Leben — Initiative zur Rauchmelderpflicht",
         "url": "https://www.rauchmelder-lebensretter.de/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Stiftung Warentest — Rauchmelder: Pflicht und Test",
         "url": "https://www.test.de/Rauchmelder-im-Test-4957385-0/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -84034,14 +84034,14 @@
       {
         "title": "Verbraucherzentrale – Einkaufen am Sonntag und an Feiertagen",
         "url": "https://www.verbraucherzentrale.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Handelsverband Deutschland (HDE) – Ladenöffnungszeiten",
         "url": "https://einzelhandel.de/",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -84251,7 +84251,7 @@
       {
         "title": "Verbraucherzentrale – Gebrauchte Möbel kaufen",
         "url": "https://www.verbraucherzentrale.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -85511,7 +85511,7 @@
       {
         "title": "Netzwerk IQ — Anerkennung reglementierter Berufe",
         "url": "https://www.netzwerk-iq.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -85704,7 +85704,7 @@
       {
         "title": "Netzwerk IQ — Anerkennung in Pflegeberufen",
         "url": "https://www.netzwerk-iq.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -85905,7 +85905,7 @@
       {
         "title": "Netzwerk IQ — Anerkennung reglementierter Berufe",
         "url": "https://www.netzwerk-iq.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -86296,7 +86296,7 @@
       {
         "title": "Netzwerk IQ — Beratung zur Anerkennung",
         "url": "https://www.netzwerk-iq.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -86486,7 +86486,7 @@
       {
         "title": "Netzwerk IQ — Anpassungsqualifizierung",
         "url": "https://www.netzwerk-iq.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -86695,7 +86695,7 @@
       {
         "title": "Netzwerk IQ — Anerkennungsverfahren und Prüfungen",
         "url": "https://www.netzwerk-iq.de/",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -87521,7 +87521,7 @@
       {
         "title": "Verbraucherzentrale – Schwarzfahren: Bußgeld und Folgen",
         "url": "https://www.verbraucherzentrale.de/unfreiwillig-schwarzfahren",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -87664,7 +87664,7 @@
       {
         "title": "ADAC – Taxi: Rechte, Pflichten und Tarife",
         "url": "https://www.adac.de/verkehr/recht/verkehrsmittel/taxi-rechte-pflichten/",
-        "kind": "article",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -87964,7 +87964,7 @@
       {
         "title": "Anki – offizielle Website (Spaced Repetition)",
         "url": "https://apps.ankiweb.net/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
@@ -88103,7 +88103,7 @@
       {
         "title": "Tandem – App für den Sprachaustausch",
         "url": "https://www.tandem.net/",
-        "kind": "service",
+        "kind": "secondary",
         "language": "en",
         "lastRetrieved": "2026-06-03"
       },
@@ -88719,7 +88719,7 @@
       {
         "title": "studienkollegs.de — Überblick und Suche Studienkolleg, Kursschwerpunkte, FSP",
         "url": "https://www.studienkollegs.de/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -89581,7 +89581,7 @@
       {
         "title": "Verbraucherzentrale — Elektronische Patientenakte: Widerspruch",
         "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerzte-und-kliniken/elektronische-patientenakte-epa-das-muessen-sie-wissen-75025",
-        "kind": "ngo",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -90680,21 +90680,21 @@
       {
         "title": "Netflix Germany — Tarife",
         "url": "https://www.netflix.com/de/",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "DAZN Germany",
         "url": "https://www.dazn.com/de-DE/",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "WOW (Sky Deutschland)",
         "url": "https://www.wowtv.de/",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -90869,7 +90869,7 @@
       {
         "title": "Verbraucherzentrale — Internet-Umzug und Kündigung",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/telefon-und-internet",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -91028,7 +91028,7 @@
       {
         "title": "Verbraucherzentrale — Handyvertrag vs Prepaid",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -91042,7 +91042,7 @@
       {
         "title": "Telekom / Vodafone / O2 — offizielle Tarife",
         "url": "https://www.telekom.de/",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -91201,7 +91201,7 @@
       {
         "title": "Verbraucherzentrale — Festnetz und VoIP",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/telefon-und-internet",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -91215,7 +91215,7 @@
       {
         "title": "Telekom — DSL- und Festnetz-Tarife",
         "url": "https://www.telekom.de/festnetz",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -91385,14 +91385,14 @@
       {
         "title": "Verbraucherzentrale — Roaming außerhalb der EU und Schutz vor Rechnungen",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/handy-im-ausland-nutzen-so-vermeiden-sie-hohe-kosten-11340",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Telekom Travel & Surf — Pakete für das Ausland",
         "url": "https://www.telekom.de/unterwegs/tarife-und-optionen/im-ausland-telefonieren",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -91591,7 +91591,7 @@
       {
         "title": "Verbraucherzentrale — unerlaubte Werbeanrufe und Betrug",
         "url": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/unerlaubte-werbeanrufe-was-tun-13278",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -91758,7 +91758,7 @@
       {
         "title": "Freifunk — offene Netze der Gemeinschaft",
         "url": "https://freifunk.net/",
-        "kind": "industry",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -97935,7 +97935,7 @@
       {
         "title": "Deutscher Hebammenverband — Hebammensuche und Leistungen",
         "url": "https://www.hebammenverband.de/familie/hebammensuche/",
-        "kind": "guide",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -98175,7 +98175,7 @@
       {
         "title": "aponet.de — Apotheken-Notdienstsuche (ABDA)",
         "url": "https://www.aponet.de/apotheke/notdienstsuche",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -98724,14 +98724,14 @@
       {
         "title": "Zentralwohlfahrtsstelle der Juden in Deutschland (ZWST)",
         "url": "https://www.zwst.org/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Zentralrat der Juden in Deutschland — Zuwanderung",
         "url": "https://www.zentralratderjuden.de/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -98904,7 +98904,7 @@
       {
         "title": "ADAC — Ausländische Führerscheine umschreiben",
         "url": "https://www.adac.de/verkehr/rund-um-den-fuehrerschein/auslaendische-fuehrerscheine/staaten-auserhalb/",
-        "kind": "org",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -102574,7 +102574,7 @@
       {
         "title": "ADAC — Verhalten bei einem Verkehrsunfall (Checkliste, Unfallbericht)",
         "url": "https://www.adac.de/verkehr/rund-um-den-verkehr/unfall/verhalten-nach-unfall/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -102751,7 +102751,7 @@
       {
         "title": "ADAC — Leasing oder Kaufen: Vor- und Nachteile",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/finanzierung/leasing/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -102765,7 +102765,7 @@
       {
         "title": "Verbraucherzentrale — Leasing: Worauf Verbraucher achten sollten",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-zinsen-und-finanzierung/leasing-das-sollten-sie-beachten-13759",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -102937,7 +102937,7 @@
       {
         "title": "ADAC — Carsharing: Anbieter und Tarife im Überblick",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-mieten-leihen/carsharing/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -103085,14 +103085,14 @@
       {
         "title": "ADAC — Elektroauto laden: Kosten, Karten und Apps",
         "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "Verbraucherzentrale — THG-Quote für E-Auto-Halter",
         "url": "https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/mobilitaet/thgquote-so-verkaufen-eautobesitzer-ihre-co2einsparung-73886",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -103195,14 +103195,14 @@
       {
         "title": "clever-tanken — Preisvergleich für Kraftstoff",
         "url": "https://www.clever-tanken.de/",
-        "kind": "commercial",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ADAC — Kraftstoffsorten und E10-Verträglichkeit",
         "url": "https://www.adac.de/rund-ums-fahrzeug/tanken-kraftstoff-antrieb/benzin-diesel/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -103367,14 +103367,14 @@
       {
         "title": "ADAC — Wunschkennzeichen reservieren: So geht's",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-zulassung/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ADAC — Saison-, E- und H-Kennzeichen erklärt",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-zulassung/elektroauto-kennzeichen/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -103498,14 +103498,14 @@
       {
         "title": "ADAC — Parken: Regeln, Parkscheibe und Bußgelder",
         "url": "https://www.adac.de/verkehr/recht/verkehrsvorschriften-deutschland/parken/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
       {
         "title": "ADAC — Anwohnerparken: Kosten und Antrag",
         "url": "https://www.adac.de/verkehr/recht/verkehrsvorschriften-deutschland/anwohnerparkausweis/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -103664,7 +103664,7 @@
       {
         "title": "ADAC — Kfz-Kaufvertrag (Muster zum Download) und Privatverkauf",
         "url": "https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kaufvertrag/",
-        "kind": "association",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       },
@@ -103685,7 +103685,7 @@
       {
         "title": "Verbraucherzentrale — Auto privat verkaufen: Gewährleistung ausschließen",
         "url": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kaufrecht/auto-privat-verkaufen-so-vermeiden-sie-aerger-13720",
-        "kind": "consumer",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
       }
@@ -105069,7 +105069,7 @@
       {
         "title": "Verbraucherzentrale — Lastschrift: Rückbuchung und Fristen",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/bezahlen-im-sepalastschriftverfahren-das-sollten-sie-darueber-wissen-16639",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -105221,7 +105221,7 @@
       {
         "title": "Verbraucherzentrale — Was tun, wenn das Konto teurer wird (inkl. Dispozinsen)",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/was-tun-wenn-das-konto-teurer-wird-13252",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -105379,7 +105379,7 @@
       {
         "title": "Verbraucherzentrale — Tagesgeld und Festgeld: sicher sparen",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/zinsen-fuer-tagesgeld-und-festgeld-so-finden-sie-sicher-das-beste-angebot-102422",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -105560,7 +105560,7 @@
       {
         "title": "Verbraucherzentrale — Klarna, PayPal & Co: Zahlung per Rechnung und Ratenkauf",
         "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/onlinedienste/bezahlen-beim-onlineshopping-vor-und-nachteile-von-bezahldiensten-61294",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -105712,7 +105712,7 @@
       {
         "title": "Verbraucherzentrale — Kryptowährungen: Steuern und Risiken",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/kryptoanlagen-was-sind-die-risiken-97354",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -105894,7 +105894,7 @@
       {
         "title": "Verbraucherzentrale — Girokonto: Was Sie darüber wissen sollten",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/girokonto-was-sie-darueber-wissen-sollten-4990",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -106022,7 +106022,7 @@
       {
         "title": "Verbraucherzentrale — Kontogebühren: So vermeiden Sie unnötige Kosten",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/was-tun-wenn-das-konto-teurer-wird-13252",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -106199,7 +106199,7 @@
       {
         "title": "Verbraucherzentrale — P-Konto: Pfändungsschutz fürs Girokonto",
         "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/fragen-und-antworten-zum-pfaendungsschutzkonto-pkonto-5959",
-        "kind": "service",
+        "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -107945,7 +107945,7 @@
       {
         "title": "StepStone - Gehaltsreport",
         "url": "https://www.stepstone.de/gehaltsreport",
-        "kind": "private",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -107953,7 +107953,7 @@
       {
         "title": "gehalt.de - Gehaltsvergleich",
         "url": "https://www.gehalt.de/",
-        "kind": "private",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -108963,7 +108963,7 @@
       {
         "title": "StepStone - Stellenangebote",
         "url": "https://www.stepstone.de/",
-        "kind": "private",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
@@ -108971,7 +108971,7 @@
       {
         "title": "Xing - Jobs",
         "url": "https://www.xing.com/jobs",
-        "kind": "private",
+        "kind": "company",
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
