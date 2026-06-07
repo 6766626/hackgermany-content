@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1780502619327,
+  "language": "ru",
+  "generatedAt": "2026-06-07T12:17:22.000Z",
+  "counts": {
+    "categories": 23,
+    "guides": 600,
+    "catalogEntries": 50,
+    "communityChannels": 12,
+    "communityFbGroups": 12
+  },
+  "files": [
+    {
+      "name": "categories.ru.json",
+      "size": 6181,
+      "sha256": "c8c22c358011c051a658e21036f40e8d8a8609a11cda404076ea5bda7d05d57f"
+    },
+    {
+      "name": "guides.ru.json",
+      "size": 7231726,
+      "sha256": "7775b87b17b05ed24dfa95ca948758f399f3430cecb5206d3525468eb471f3fe"
+    },
+    {
+      "name": "catalog.ru.json",
+      "size": 12917,
+      "sha256": "66c924f2507c198541cd7a4a225994ce6a9a76ab5f9af110e75c4b3bc7a2540b"
+    },
+    {
+      "name": "community.ru.json",
+      "size": 16879,
+      "sha256": "3671e497da91cc1832bca2664c03380b1a00c1ffc2beea7280975ae62350a380"
+    }
+  ],
+  "languages": [
+    {
+      "tag": "ru",
+      "counts": {
+        "categories": 23,
+        "guides": 600,
+        "catalogEntries": 50,
+        "communityChannels": 12,
+        "communityFbGroups": 12
+      },
+      "files": [
+        {
+          "name": "categories.ru.json",
+          "size": 6181,
+          "sha256": "c8c22c358011c051a658e21036f40e8d8a8609a11cda404076ea5bda7d05d57f"
+        },
+        {
+          "name": "guides.ru.json",
+          "size": 7231726,
+          "sha256": "7775b87b17b05ed24dfa95ca948758f399f3430cecb5206d3525468eb471f3fe"
+        },
+        {
+          "name": "catalog.ru.json",
+          "size": 12917,
+          "sha256": "66c924f2507c198541cd7a4a225994ce6a9a76ab5f9af110e75c4b3bc7a2540b"
+        },
+        {
+          "name": "community.ru.json",
+          "size": 16879,
+          "sha256": "3671e497da91cc1832bca2664c03380b1a00c1ffc2beea7280975ae62350a380"
+        }
+      ]
+    },
+    {
+      "tag": "en",
+      "counts": {
+        "categories": 23,
+        "guides": 600,
+        "catalogEntries": 50,
+        "communityChannels": 12,
+        "communityFbGroups": 12
+      },
+      "files": [
+        {
+          "name": "categories.en.json",
+          "size": 5443,
+          "sha256": "aac1c11550bbf033e3d9502731e0e76f4d89d99f0681af2c308f73c68423f37e"
+        },
+        {
+          "name": "guides.en.json",
+          "size": 5493432,
+          "sha256": "5c48ed830b83abe0d9f8a2848530fdf90aeaa7956153f348977d0ed9f720349c"
+        },
+        {
+          "name": "catalog.en.json",
+          "size": 11851,
+          "sha256": "3545ae8ef89ed9900e41efb1d229580678678584969bd243eeea1db6f171e18f"
+        },
+        {
+          "name": "community.en.json",
+          "size": 14098,
+          "sha256": "ff09705c6cf3ab5f553e5e6ff4bc8f0f41e899b25fb279e3e0d9320a3bb9077c"
+        }
+      ]
+    },
+    {
+      "tag": "de",
+      "counts": {
+        "categories": 23,
+        "guides": 600,
+        "catalogEntries": 50,
+        "communityChannels": 12,
+        "communityFbGroups": 12
+      },
+      "files": [
+        {
+          "name": "categories.de.json",
+          "size": 5617,
+          "sha256": "7e93a78a364c2800423c5cc1328451a959115d9d0f4c242d854ddfea3ee8d1d4"
+        },
+        {
+          "name": "guides.de.json",
+          "size": 5473122,
+          "sha256": "41600516bc6ff629a09865a48eea4d9b908b4f9d98779ca534744469fafe0cb7"
+        },
+        {
+          "name": "catalog.de.json",
+          "size": 11759,
+          "sha256": "1277867369e5ff5e0c29f36d3d5a4301129d4c1a0ea1a53dd4eb655f18414540"
+        },
+        {
+          "name": "community.de.json",
+          "size": 14304,
+          "sha256": "43457408808032c2cf501bd267464cfcac9fe24d6e5eaa8c520677040708946a"
+        }
+      ]
+    }
+  ]
+}

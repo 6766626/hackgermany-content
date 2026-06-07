@@ -1,0 +1,209 @@
+[
+  {
+    "id": "before_arrival",
+    "order": 1,
+    "title": "До приезда в Германию",
+    "subtitle": "Visum, Apostille, Beglaubigte Übersetzung, Auswärtiges Amt",
+    "sfSymbol": "airplane.departure",
+    "hasVariants": true,
+    "tier": "free"
+  },
+  {
+    "id": "anmeldung",
+    "order": 2,
+    "title": "Прописка и регистрация",
+    "subtitle": "Anmeldung, Bürgeramt, Meldebescheinigung, Wohnsitz, Abmeldung",
+    "sfSymbol": "house.fill",
+    "hasVariants": true,
+    "tier": "free"
+  },
+  {
+    "id": "residence_permit",
+    "order": 3,
+    "title": "Виды на жительство и визы",
+    "subtitle": "Aufenthaltstitel, Blaue Karte EU, §16-§25, ABH",
+    "sfSymbol": "person.text.rectangle",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "permanent_settlement",
+    "order": 4,
+    "title": "ПМЖ и Niederlassungserlaubnis",
+    "subtitle": "Niederlassungserlaubnis, Daueraufenthalt-EU, §9, §9a, §28",
+    "sfSymbol": "checkmark.seal.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "citizenship",
+    "order": 5,
+    "title": "Гражданство Германии",
+    "subtitle": "Einbürgerung, StAG, Einbürgerungstest, B1, Standesamt",
+    "sfSymbol": "flag.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "language_integration",
+    "order": 6,
+    "title": "Язык и интеграция",
+    "subtitle": "Integrationskurs, Goethe, telc, TestDaF, DTZ, B1/B2/C1",
+    "sfSymbol": "character.book.closed.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "healthcare",
+    "order": 7,
+    "title": "Медицина и страховка",
+    "subtitle": "GKV, PKV, TK, AOK, Barmer, Hausarzt, eGK, Rezept",
+    "sfSymbol": "cross.case.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "housing",
+    "order": 8,
+    "title": "Аренда и покупка жилья",
+    "subtitle": "Mietvertrag, Kaution, Schufa, WBS, Hausgeld, Notar",
+    "sfSymbol": "house.lodge.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "banking_finance",
+    "order": 9,
+    "title": "Банки и финансы",
+    "subtitle": "Girokonto, SEPA, IBAN, Schufa, N26, DKB, Sparkasse, BaFin",
+    "sfSymbol": "creditcard.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "taxes",
+    "order": 10,
+    "title": "Налоги и ELSTER",
+    "subtitle": "Finanzamt, ELSTER, Lohnsteuer, Steuerklasse, USt-IdNr",
+    "sfSymbol": "doc.text.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "work_employment",
+    "order": 11,
+    "title": "Работа по найму",
+    "subtitle": "Arbeitsvertrag, Bundesagentur für Arbeit, Tarifvertrag, Lohnabrechnung",
+    "sfSymbol": "briefcase.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "self_employment",
+    "order": 12,
+    "title": "Самозанятость и бизнес",
+    "subtitle": "Freiberufler, Gewerbe, IHK, HWK, Handelsregister, Kleinunternehmer",
+    "sfSymbol": "person.crop.rectangle.stack.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "qualification_recognition",
+    "order": 13,
+    "title": "Признание дипломов",
+    "subtitle": "Anerkennung, ZAB, Anabin, Approbation, Kammern",
+    "sfSymbol": "graduationcap.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "education_children",
+    "order": 14,
+    "title": "Дети, Kita и школа",
+    "subtitle": "Kita, Kindergeld, Elterngeld, Grundschule, Gymnasium, Jugendamt",
+    "sfSymbol": "figure.and.child.holdinghands",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "auto_driving",
+    "order": 15,
+    "title": "Авто и Führerschein",
+    "subtitle": "KFZ-Zulassung, TÜV, Dekra, Versicherung, ADAC, Umtausch",
+    "sfSymbol": "car.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "public_transport",
+    "order": 16,
+    "title": "Транспорт и поездки",
+    "subtitle": "Deutschlandticket, DB, BahnCard, ÖPNV, FlixBus",
+    "sfSymbol": "tram.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "digital_gov",
+    "order": 17,
+    "title": "Цифровое государство",
+    "subtitle": "BundID, ELSTER, Online-Ausweis, eID, De-Mail, OZG",
+    "sfSymbol": "iphone",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "telecom_media",
+    "order": 18,
+    "title": "Связь, интернет, GEZ",
+    "subtitle": "Mobilfunk, DSL, Rundfunkbeitrag, Beitragsservice, Bundesnetzagentur",
+    "sfSymbol": "antenna.radiowaves.left.and.right",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "daily_life",
+    "order": 19,
+    "title": "Быт и повседневность",
+    "subtitle": "Mülltrennung, Pfand, Hausordnung, Sonntagsruhe, Feiertage",
+    "sfSymbol": "cart.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "family_social",
+    "order": 20,
+    "title": "Семья и социальные службы",
+    "subtitle": "Standesamt, Ehe, Scheidung, Jobcenter, Bürgergeld, Sozialamt",
+    "sfSymbol": "person.3.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "pensions_insurance",
+    "order": 21,
+    "title": "Пенсии и страхование",
+    "subtitle": "DRV, Riester, Rürup, Haftpflicht, Hausrat, Berufsunfähigkeit",
+    "sfSymbol": "shield.lefthalf.filled",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "emergency_rights",
+    "order": 22,
+    "title": "Экстренные ситуации и права",
+    "subtitle": "112, 110, Notarzt, Rechtsanwalt, Beratungshilfe, Mieterbund",
+    "sfSymbol": "exclamationmark.triangle.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "country_specific",
+    "order": 23,
+    "title": "По странам происхождения",
+    "subtitle": "RU, BY, UA, US, UK, KZ — Konsulate, Apostille, Anerkennung",
+    "sfSymbol": "globe.europe.africa.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  }
+]

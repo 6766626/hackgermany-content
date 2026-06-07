@@ -1,0 +1,209 @@
+[
+  {
+    "id": "before_arrival",
+    "order": 1,
+    "title": "Vor der Ankunft",
+    "subtitle": "Visum, Apostille, Beglaubigte Übersetzung, Auswärtiges Amt",
+    "sfSymbol": "airplane.departure",
+    "hasVariants": true,
+    "tier": "free"
+  },
+  {
+    "id": "anmeldung",
+    "order": 2,
+    "title": "Anmeldung & Meldewesen",
+    "subtitle": "Bürgeramt, Meldebescheinigung, Wohnsitz, Abmeldung",
+    "sfSymbol": "house.fill",
+    "hasVariants": true,
+    "tier": "free"
+  },
+  {
+    "id": "residence_permit",
+    "order": 3,
+    "title": "Aufenthaltstitel & Visa",
+    "subtitle": "Blaue Karte EU, §16–§25, Ausländerbehörde",
+    "sfSymbol": "person.text.rectangle",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "permanent_settlement",
+    "order": 4,
+    "title": "Niederlassungserlaubnis",
+    "subtitle": "Niederlassungserlaubnis, Daueraufenthalt-EU, §9, §28",
+    "sfSymbol": "checkmark.seal.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "citizenship",
+    "order": 5,
+    "title": "Einbürgerung",
+    "subtitle": "StAG, Einbürgerungstest, B1, Standesamt",
+    "sfSymbol": "flag.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "language_integration",
+    "order": 6,
+    "title": "Sprache & Integration",
+    "subtitle": "Integrationskurs, Goethe, telc, TestDaF, DTZ, B1/B2/C1",
+    "sfSymbol": "character.book.closed.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "healthcare",
+    "order": 7,
+    "title": "Krankenversicherung & Medizin",
+    "subtitle": "GKV/PKV, TK, AOK, Hausarzt, Krankschreibung",
+    "sfSymbol": "cross.case.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "housing",
+    "order": 8,
+    "title": "Wohnung mieten & kaufen",
+    "subtitle": "Mietvertrag, Kaution, Nebenkosten, Schufa, Notar",
+    "sfSymbol": "house.lodge.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "banking_finance",
+    "order": 9,
+    "title": "Bank & Finanzen",
+    "subtitle": "Girokonto, IBAN, EC-Karte, N26, Schufa",
+    "sfSymbol": "creditcard.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "taxes",
+    "order": 10,
+    "title": "Steuern & ELSTER",
+    "subtitle": "Lohnsteuer, Steuererklärung, Steuerklasse, USt-IdNr",
+    "sfSymbol": "doc.text.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "work_employment",
+    "order": 11,
+    "title": "Arbeit als Angestellter",
+    "subtitle": "Arbeitsvertrag, Kündigung, Bewerbung, Arbeitslosengeld",
+    "sfSymbol": "briefcase.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "self_employment",
+    "order": 12,
+    "title": "Selbstständigkeit & Gründung",
+    "subtitle": "Gewerbeanmeldung, IHK, Freiberufler, GmbH, USt",
+    "sfSymbol": "person.crop.rectangle.stack.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "qualification_recognition",
+    "order": 13,
+    "title": "Anerkennung von Abschlüssen",
+    "subtitle": "anabin, ZAB, Anerkennung in Deutschland, IQ-Netzwerk",
+    "sfSymbol": "graduationcap.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "education_children",
+    "order": 14,
+    "title": "Kinder, Kita & Schule",
+    "subtitle": "Kita-Platz, Schulanmeldung, Klassenstufe, BAföG",
+    "sfSymbol": "figure.and.child.holdinghands",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "auto_driving",
+    "order": 15,
+    "title": "Auto & Führerschein",
+    "subtitle": "KFZ-Zulassung, TÜV, Versicherung, Umtausch Führerschein",
+    "sfSymbol": "car.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "public_transport",
+    "order": 16,
+    "title": "Öffentlicher Verkehr",
+    "subtitle": "Deutschlandticket, DB, BVG, MVV, Fahrplan",
+    "sfSymbol": "tram.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "digital_gov",
+    "order": 17,
+    "title": "Digitalverwaltung",
+    "subtitle": "BundID, ELSTER, Online-Termin, Bürgerportal",
+    "sfSymbol": "iphone",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "telecom_media",
+    "order": 18,
+    "title": "Telekom, Internet, Rundfunk",
+    "subtitle": "Vertrag, eSIM, DSL, Rundfunkbeitrag (GEZ)",
+    "sfSymbol": "antenna.radiowaves.left.and.right",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "daily_life",
+    "order": 19,
+    "title": "Alltag & Einkaufen",
+    "subtitle": "Lidl, Aldi, Pfand, Wertstoffhof, Behördengänge",
+    "sfSymbol": "cart.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "family_social",
+    "order": 20,
+    "title": "Familie & Sozialleistungen",
+    "subtitle": "Elterngeld, Kindergeld, Jugendamt, Bürgergeld",
+    "sfSymbol": "person.3.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "pensions_insurance",
+    "order": 21,
+    "title": "Rente & Versicherungen",
+    "subtitle": "Deutsche Rentenversicherung, Haftpflicht, BU, RV",
+    "sfSymbol": "shield.lefthalf.filled",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "emergency_rights",
+    "order": 22,
+    "title": "Notfälle & Rechte",
+    "subtitle": "112, Polizei, Anwalt, Verbraucherzentrale, AGG",
+    "sfSymbol": "exclamationmark.triangle.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "country_specific",
+    "order": 23,
+    "title": "Nach Herkunftsland",
+    "subtitle": "Besonderheiten für RU, BY, UA, US, UK, TR, IN",
+    "sfSymbol": "globe.europe.africa.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  }
+]

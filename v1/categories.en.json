@@ -1,0 +1,209 @@
+[
+  {
+    "id": "before_arrival",
+    "order": 1,
+    "title": "Before arrival",
+    "subtitle": "Visa, apostille, certified translation, embassies",
+    "sfSymbol": "airplane.departure",
+    "hasVariants": true,
+    "tier": "free"
+  },
+  {
+    "id": "anmeldung",
+    "order": 2,
+    "title": "Residence registration",
+    "subtitle": "Anmeldung, Bürgeramt, Meldebescheinigung",
+    "sfSymbol": "house.fill",
+    "hasVariants": true,
+    "tier": "free"
+  },
+  {
+    "id": "residence_permit",
+    "order": 3,
+    "title": "Residence permits & visas",
+    "subtitle": "EU Blue Card, §16–§25, Ausländerbehörde",
+    "sfSymbol": "person.text.rectangle",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "permanent_settlement",
+    "order": 4,
+    "title": "Permanent settlement",
+    "subtitle": "Niederlassungserlaubnis, EU long-term, §9, §28",
+    "sfSymbol": "checkmark.seal.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "citizenship",
+    "order": 5,
+    "title": "German citizenship",
+    "subtitle": "Naturalisation (StAG), B1, dual citizenship",
+    "sfSymbol": "flag.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "language_integration",
+    "order": 6,
+    "title": "Language & integration",
+    "subtitle": "Integrationskurs, Goethe, telc, TestDaF, B1/B2",
+    "sfSymbol": "character.book.closed.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "healthcare",
+    "order": 7,
+    "title": "Healthcare & insurance",
+    "subtitle": "GKV vs PKV, TK, AOK, Hausarzt, sick notes",
+    "sfSymbol": "cross.case.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "housing",
+    "order": 8,
+    "title": "Renting & buying",
+    "subtitle": "Mietvertrag, deposit, utilities, Schufa, notary",
+    "sfSymbol": "house.lodge.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "banking_finance",
+    "order": 9,
+    "title": "Banking & finance",
+    "subtitle": "Current account, IBAN, EC card, N26, Schufa",
+    "sfSymbol": "creditcard.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "taxes",
+    "order": 10,
+    "title": "Taxes & ELSTER",
+    "subtitle": "Lohnsteuer, return, tax class, VAT ID",
+    "sfSymbol": "doc.text.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "work_employment",
+    "order": 11,
+    "title": "Working as employee",
+    "subtitle": "Contract, dismissal, applications, unemployment",
+    "sfSymbol": "briefcase.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "self_employment",
+    "order": 12,
+    "title": "Self-employment & business",
+    "subtitle": "Gewerbe, IHK, freelancers, GmbH, VAT",
+    "sfSymbol": "person.crop.rectangle.stack.fill",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "qualification_recognition",
+    "order": 13,
+    "title": "Qualification recognition",
+    "subtitle": "anabin, ZAB, Anerkennung in Deutschland",
+    "sfSymbol": "graduationcap.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "education_children",
+    "order": 14,
+    "title": "Children, Kita & school",
+    "subtitle": "Kita slot, enrolment, grades, BAföG",
+    "sfSymbol": "figure.and.child.holdinghands",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "auto_driving",
+    "order": 15,
+    "title": "Car & driving licence",
+    "subtitle": "KFZ registration, TÜV, insurance, licence exchange",
+    "sfSymbol": "car.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "public_transport",
+    "order": 16,
+    "title": "Public transport",
+    "subtitle": "Deutschlandticket, DB, BVG, MVV",
+    "sfSymbol": "tram.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "digital_gov",
+    "order": 17,
+    "title": "Digital government",
+    "subtitle": "BundID, ELSTER, online appointments",
+    "sfSymbol": "iphone",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "telecom_media",
+    "order": 18,
+    "title": "Telecom, internet, Rundfunk",
+    "subtitle": "Plans, eSIM, DSL, broadcast fee (GEZ)",
+    "sfSymbol": "antenna.radiowaves.left.and.right",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "daily_life",
+    "order": 19,
+    "title": "Daily life & shopping",
+    "subtitle": "Lidl, Aldi, Pfand, recycling, errands",
+    "sfSymbol": "cart.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "family_social",
+    "order": 20,
+    "title": "Family & social benefits",
+    "subtitle": "Elterngeld, Kindergeld, Jugendamt, Bürgergeld",
+    "sfSymbol": "person.3.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  },
+  {
+    "id": "pensions_insurance",
+    "order": 21,
+    "title": "Pensions & insurance",
+    "subtitle": "DRV, liability, occupational, life",
+    "sfSymbol": "shield.lefthalf.filled",
+    "hasVariants": false,
+    "tier": "premium"
+  },
+  {
+    "id": "emergency_rights",
+    "order": 22,
+    "title": "Emergencies & rights",
+    "subtitle": "112, police, lawyer, consumer rights, AGG",
+    "sfSymbol": "exclamationmark.triangle.fill",
+    "hasVariants": false,
+    "tier": "free"
+  },
+  {
+    "id": "country_specific",
+    "order": 23,
+    "title": "By country of origin",
+    "subtitle": "Specifics for RU, BY, UA, US, UK, TR, IN",
+    "sfSymbol": "globe.europe.africa.fill",
+    "hasVariants": true,
+    "tier": "premium"
+  }
+]

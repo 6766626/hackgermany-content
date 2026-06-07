@@ -1,0 +1,490 @@
+{
+  "disclaimer": "Unten sind externe Community-Kanäle und Gruppen. Nur «Hack Germany Referenz» (@germanypages) wird redaktionell geprüft — andere Ressourcen werden von Dritten betrieben und sind nicht verifiziert. Praktische Informationen bitte stets mit den offiziellen Quellen in den App-Guides abgleichen.",
+  "telegramChannels": [
+    {
+      "id": "tg-tupagermania",
+      "rank": 1,
+      "name": "Тупа-Германия",
+      "handle": "@tupagermania",
+      "url": "https://t.me/tupagermania",
+      "description": "Einer der größten russischsprachigen Deutschland-Kanäle (~14K): Arbeit, Alltag, Finanzen, Nachrichten, Tipps für Zuwanderer.",
+      "isVerified": false,
+      "topics": [
+        "переезд",
+        "быт",
+        "работа"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "tg-dwrussian",
+      "rank": 2,
+      "name": "DW на русском — Что там у немцев?",
+      "handle": "@dwrussian",
+      "url": "https://t.me/dwrussian",
+      "description": "Offizieller russischsprachiger Deutsche-Welle-Kanal zum Leben in Deutschland (~50K): Gesellschaft, Tech, Tipps.",
+      "isVerified": false,
+      "topics": [
+        "новости",
+        "общество",
+        "адаптация"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "tg-germany-ru",
+      "rank": 3,
+      "name": "Чат «Русские в Германии»",
+      "handle": "@germany_ru",
+      "url": "https://t.me/germany_ru",
+      "description": "Allgemeiner Chat für Russischsprachige in Deutschland: Umzug, Ärzte, Übersetzer, Treffen.",
+      "isVerified": false,
+      "topics": [
+        "общение",
+        "помощь"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "tg-pozdniye-pereselntsy",
+      "rank": 4,
+      "name": "Эмиграция в Германию. Поздние переселенцы",
+      "handle": "@pozdniye_pereselntsy",
+      "url": "https://t.me/pozdniye_pereselntsy",
+      "description": "Kanal über Spätaussiedler-Umzug, Blaue Karte, Versicherung, Arbeit, Business.",
+      "isVerified": false,
+      "topics": [
+        "Spätaussiedler",
+        "Blue Card",
+        "визы"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "tg-ASA-de",
+      "rank": 5,
+      "name": "Германия | Украина | Беженцы",
+      "handle": "@ASA_de",
+      "url": "https://t.me/ASA_de",
+      "description": "Großer russisch-ukrainischer Kanal (~35K) für Geflüchtete und Migranten; regionale Chats für Berlin und Bayern.",
+      "isVerified": false,
+      "topics": [
+        "беженцы",
+        "помощь",
+        "документы"
+      ],
+      "languages": [
+        "ru",
+        "uk"
+      ]
+    },
+    {
+      "id": "tg-deutscheukraine",
+      "rank": 6,
+      "name": "УКРАЇНЦІ В НІМЕЧЧИНІ",
+      "handle": "@deutscheukraine",
+      "url": "https://t.me/deutscheukraine",
+      "description": "Große Community von Ukrainern in Deutschland (~40K): Leben, Hilfe, Arbeit, Transport.",
+      "isVerified": false,
+      "topics": [
+        "украинцы",
+        "помощь",
+        "работа"
+      ],
+      "languages": [
+        "uk",
+        "ru"
+      ]
+    },
+    {
+      "id": "tg-berlinhelpsukrainians",
+      "rank": 7,
+      "name": "Berlin helps Ukrainians",
+      "handle": "@berlinhelpsukrainians",
+      "url": "https://t.me/berlinhelpsukrainians",
+      "description": "Freiwilliger Chat für ukrainische Geflüchtete in Berlin (~14K): Wohnen, Dokumente, Medizin, Recht.",
+      "isVerified": false,
+      "topics": [
+        "Берлин",
+        "беженцы",
+        "волонтёры"
+      ],
+      "languages": [
+        "ru",
+        "uk"
+      ]
+    },
+    {
+      "id": "tg-moidommuc",
+      "rank": 8,
+      "name": "МОЙ ДОМ МЮНХЕН",
+      "handle": "@moidommuc",
+      "url": "https://t.me/moidommuc",
+      "description": "Größter russisch/ukrainischer Kanal über München und Bayern (~14K): regionale Nachrichten, Veranstaltungen.",
+      "isVerified": false,
+      "topics": [
+        "Мюнхен",
+        "Бавария",
+        "локальное"
+      ],
+      "languages": [
+        "ru",
+        "uk"
+      ]
+    },
+    {
+      "id": "tg-by-deutschland",
+      "rank": 9,
+      "name": "Белорусы в Германии",
+      "handle": "@by_deutschland",
+      "url": "https://t.me/by_deutschland",
+      "description": "Kanal der belarussischen Diaspora: EU- und Belarus-Nachrichten, Veranstaltungen. Separater Chat @by_deutschland_chat.",
+      "isVerified": false,
+      "topics": [
+        "диаспора",
+        "Беларусь"
+      ],
+      "languages": [
+        "ru",
+        "be"
+      ]
+    },
+    {
+      "id": "tg-networking-berlin",
+      "rank": 10,
+      "name": "Networking Berlin",
+      "handle": "@networking_berlin",
+      "url": "https://t.me/networking_berlin",
+      "description": "Chat russischsprachiger Berliner für Networking, Kontakte und gegenseitige Hilfe.",
+      "isVerified": false,
+      "topics": [
+        "Берлин",
+        "нетворкинг"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "tg-germanija",
+      "rank": 11,
+      "name": "Русскоговорящая ГерманиЯ",
+      "handle": "@germanija",
+      "url": "https://t.me/germanija",
+      "description": "Kanal über die russischsprachige Diaspora in Deutschland: Nachrichten, Interviews, Wochenend-Streams.",
+      "isVerified": false,
+      "topics": [
+        "диаспора",
+        "интервью"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "tg-Ukrainer-in-Deutschland",
+      "rank": 12,
+      "name": "Ukrainer in Deutschland",
+      "handle": "@Ukrainer_in_Deutschland",
+      "url": "https://t.me/Ukrainer_in_Deutschland",
+      "description": "Unterstützungskanal für Ukrainer in Deutschland (~38K): praktische Tipps, Anzeigen, gegenseitige Hilfe.",
+      "isVerified": false,
+      "topics": [
+        "украинцы",
+        "поддержка"
+      ],
+      "languages": [
+        "uk",
+        "ru"
+      ]
+    }
+  ],
+  "facebookGroups": [
+    {
+      "id": "fb-russians-in-germany",
+      "rank": 1,
+      "name": "Русские в Германии",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/Russians.in.Germany/",
+      "description": "Eine der größten russischsprachigen Deutschland-Gruppen: Tipps, Anzeigen, Alltag, gegenseitige Hilfe.",
+      "isVerified": false,
+      "topics": [
+        "русскоязычные",
+        "быт",
+        "объявления"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "fb-russian-community-deutschland",
+      "rank": 2,
+      "name": "Russian Community Deutschland",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/russiancommunitydeutschland/",
+      "description": "Russischsprachige Community in Deutschland: Austausch, Umzug, Jobs, Wohnen.",
+      "isVerified": false,
+      "topics": [
+        "сообщество",
+        "переезд"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "fb-berlin-expats",
+      "rank": 3,
+      "name": "berlin EXPATS",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/berlinexpats/",
+      "description": "Größte Berliner Expat-Gruppe (>50K): Bürokratie, Wohnen, Jobs, Veranstaltungen.",
+      "isVerified": false,
+      "topics": [
+        "Берлин",
+        "экспаты"
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "fb-expats-in-berlin",
+      "rank": 4,
+      "name": "+Expats in Berlin+",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/expats.in.berlin/",
+      "description": "Aktive englischsprachige Berliner Expat-Gruppe: Wohnen, Arbeit, Networking, Alltag.",
+      "isVerified": false,
+      "topics": [
+        "Берлин",
+        "экспаты"
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "fb-expats-in-germany",
+      "rank": 5,
+      "name": "+Expats in Germany+",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/expatriatesgermany/",
+      "description": "Englischsprachige Expat-Community deutschlandweit: Umzug, Dokumente, Steuern, Versicherung, Arbeit.",
+      "isVerified": false,
+      "topics": [
+        "Германия",
+        "экспаты"
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "fb-british-in-germany",
+      "rank": 6,
+      "name": "British in Germany e.V.",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/BritishinGermany/",
+      "description": "British in Germany e.V.: Staatsbürgerschaft, Rechte nach dem Brexit, Unterstützung britischer Expats.",
+      "isVerified": false,
+      "topics": [
+        "британцы",
+        "Brexit"
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "fb-americans-in-berlin",
+      "rank": 7,
+      "name": "Americans in Berlin",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/35803918997/",
+      "description": "Amerikanische Expat-Community in Berlin: US/DE-Steuern, Visa, Kultur, Veranstaltungen.",
+      "isVerified": false,
+      "topics": [
+        "американцы",
+        "Берлин"
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "fb-turken-in-deutschland",
+      "rank": 8,
+      "name": "Türken in Deutschland",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/Turken.in.Deutschland/",
+      "description": "Türkische Diaspora in Deutschland: Kultur, Austausch, Verbindungen zur Türkei.",
+      "isVerified": false,
+      "topics": [
+        "турки",
+        "диаспора"
+      ],
+      "languages": [
+        "tr",
+        "de"
+      ]
+    },
+    {
+      "id": "fb-polacy-w-niemczech",
+      "rank": 9,
+      "name": "Polacy w Niemczech",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/plwde/",
+      "description": "Große polnische Gruppe in Deutschland: Informationen, Tipps und Hilfe (Arbeit, Dokumente, Wohnen).",
+      "isVerified": false,
+      "topics": [
+        "поляки",
+        "помощь"
+      ],
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": "fb-ukrnrw",
+      "rank": 10,
+      "name": "Українці в Німеччині | Документи • Робота",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/ukrnrw/",
+      "description": "Ukrainer in Deutschland: Dokumente, Arbeit, Rechte. Posts für Geflüchtete und Integrierende.",
+      "isVerified": false,
+      "topics": [
+        "украинцы",
+        "документы"
+      ],
+      "languages": [
+        "uk"
+      ]
+    },
+    {
+      "id": "fb-indians-in-germany",
+      "rank": 11,
+      "name": "Indians in Germany (Deutschland)",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/192587635345/",
+      "description": "Indische Community in Deutschland: Umzug, IT-Jobs, Visum, Kultur.",
+      "isVerified": false,
+      "topics": [
+        "индийцы",
+        "IT"
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "fb-russian-speakers-berlin",
+      "rank": 12,
+      "name": "Russian Speakers and Friends Meetup In Berlin",
+      "handle": null,
+      "url": "https://www.facebook.com/groups/RussianSpeakersInBerlin/",
+      "description": "Russischsprachige und Freunde in Berlin: Meetups, Partys, Networking.",
+      "isVerified": false,
+      "topics": [
+        "Берлин",
+        "встречи"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ]
+    }
+  ],
+  "forums": [
+    {
+      "id": "forum-germany-ru",
+      "rank": 1,
+      "name": "Германия по-русски (germany.ru)",
+      "url": "https://foren.germany.ru/",
+      "description": "Ältestes (seit 1999) und größtes russischsprachiges Deutschland-Forum: Visa, Aussiedler, Arbeit, Recht, Alltag, Medizin.",
+      "isVerified": false,
+      "topics": [
+        "переезд",
+        "право",
+        "переселенцы"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "forum-handbookgermany",
+      "rank": 2,
+      "name": "Handbook Germany — форум",
+      "url": "https://handbookgermany.de/ru/forum",
+      "description": "Offizielles Forum von Handbook Germany (gefördert durch BMI und EU) für russisch- und ukrainischsprachige Nutzer: §24, Anerkennung, Rechte.",
+      "isVerified": false,
+      "topics": [
+        "беженцы",
+        "права",
+        "Anerkennung"
+      ],
+      "languages": [
+        "ru",
+        "uk"
+      ]
+    },
+    {
+      "id": "forum-iamexpat-de",
+      "rank": 3,
+      "name": "IamExpat in Germany",
+      "url": "https://www.iamexpat.de/",
+      "description": "Englischsprachiges Community-Portal für Ausländer in Deutschland: Integrationsguides, Steuern, Medizin, Wohnen, Anzeigen, Events.",
+      "isVerified": false,
+      "topics": [
+        "англоязычные",
+        "интеграция",
+        "налоги"
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "forum-tupa-germania",
+      "rank": 4,
+      "name": "Форум Тупа-Германия",
+      "url": "https://forum.tupa-germania.ru/",
+      "description": "Russischsprachiges Tupa-Germania-Forum: Umzug, Arbeit, Bildung, Wohnen, Medizin, Migration.",
+      "isVerified": false,
+      "topics": [
+        "переезд",
+        "работа",
+        "медицина"
+      ],
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "forum-reddit-germany",
+      "rank": 5,
+      "name": "Reddit r/germany",
+      "url": "https://www.reddit.com/r/germany/",
+      "description": "Englischsprachiges Deutschland-Subreddit — Fragen von Neuankömmlingen, Bürokratie, Ratschläge.",
+      "isVerified": false,
+      "topics": [
+        "англоязычные",
+        "быт",
+        "советы"
+      ],
+      "languages": [
+        "en"
+      ]
+    }
+  ]
+}

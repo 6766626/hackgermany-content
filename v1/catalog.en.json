@@ -1,0 +1,515 @@
+[
+  {
+    "id": "ext-bamf",
+    "title": "BAMF — Federal Office for Migration and Refugees",
+    "categoryId": "residence_permit",
+    "telegramUrl": "https://www.bamf.de/",
+    "tags": [
+      "official",
+      "migration",
+      "BAMF"
+    ]
+  },
+  {
+    "id": "ext-bamf-integrationskurs",
+    "title": "BAMF — Integration courses",
+    "categoryId": "language_integration",
+    "telegramUrl": "https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html",
+    "tags": [
+      "official",
+      "integration",
+      "courses"
+    ]
+  },
+  {
+    "id": "ext-auswaertiges-amt",
+    "title": "Auswärtiges Amt — Federal Foreign Office",
+    "categoryId": "before_arrival",
+    "telegramUrl": "https://www.auswaertiges-amt.de/",
+    "tags": [
+      "official",
+      "visas",
+      "consulate"
+    ]
+  },
+  {
+    "id": "ext-elster",
+    "title": "ELSTER — Online tax office",
+    "categoryId": "taxes",
+    "telegramUrl": "https://www.elster.de/",
+    "tags": [
+      "official",
+      "taxes",
+      "ELSTER"
+    ]
+  },
+  {
+    "id": "ext-bzst",
+    "title": "BZSt — Federal Central Tax Office",
+    "categoryId": "taxes",
+    "telegramUrl": "https://www.bzst.de/",
+    "tags": [
+      "official",
+      "taxes"
+    ]
+  },
+  {
+    "id": "ext-arbeitsagentur",
+    "title": "Federal Employment Agency (BA)",
+    "categoryId": "work_employment",
+    "telegramUrl": "https://www.arbeitsagentur.de/",
+    "tags": [
+      "official",
+      "work",
+      "BA"
+    ]
+  },
+  {
+    "id": "ext-anerkennung",
+    "title": "Anerkennung in Deutschland — Recognition portal",
+    "categoryId": "qualification_recognition",
+    "telegramUrl": "https://www.anerkennung-in-deutschland.de/",
+    "tags": [
+      "official",
+      "recognition"
+    ]
+  },
+  {
+    "id": "ext-goethe",
+    "title": "Goethe-Institut",
+    "categoryId": "language_integration",
+    "telegramUrl": "https://www.goethe.de/",
+    "tags": [
+      "official",
+      "german",
+      "exams"
+    ]
+  },
+  {
+    "id": "ext-telc",
+    "title": "telc — Language exams & certificates",
+    "categoryId": "language_integration",
+    "telegramUrl": "https://www.telc.net/",
+    "tags": [
+      "exams",
+      "german"
+    ]
+  },
+  {
+    "id": "ext-testdaf",
+    "title": "TestDaF — Test of German as a Foreign Language",
+    "categoryId": "language_integration",
+    "telegramUrl": "https://www.testdaf.de/",
+    "tags": [
+      "exams",
+      "study"
+    ]
+  },
+  {
+    "id": "ext-deutsche-rentenversicherung",
+    "title": "Deutsche Rentenversicherung (DRV)",
+    "categoryId": "pensions_insurance",
+    "telegramUrl": "https://www.deutsche-rentenversicherung.de/",
+    "tags": [
+      "official",
+      "pension",
+      "DRV"
+    ]
+  },
+  {
+    "id": "ext-bafin",
+    "title": "BaFin — Federal Financial Supervisory Authority",
+    "categoryId": "banking_finance",
+    "telegramUrl": "https://www.bafin.de/",
+    "tags": [
+      "official",
+      "finance",
+      "regulator"
+    ]
+  },
+  {
+    "id": "ext-adac",
+    "title": "ADAC — Automobile Club",
+    "categoryId": "auto_driving",
+    "telegramUrl": "https://www.adac.de/",
+    "tags": [
+      "auto club",
+      "auto"
+    ]
+  },
+  {
+    "id": "ext-kba",
+    "title": "Kraftfahrt-Bundesamt (KBA)",
+    "categoryId": "auto_driving",
+    "telegramUrl": "https://www.kba.de/",
+    "tags": [
+      "official",
+      "transport"
+    ]
+  },
+  {
+    "id": "ext-tuev-nord",
+    "title": "TÜV NORD — Vehicle inspection",
+    "categoryId": "auto_driving",
+    "telegramUrl": "https://www.tuev-nord.de/",
+    "tags": [
+      "auto",
+      "inspection"
+    ]
+  },
+  {
+    "id": "ext-dekra",
+    "title": "DEKRA Germany",
+    "categoryId": "auto_driving",
+    "telegramUrl": "https://www.dekra.de/",
+    "tags": [
+      "auto",
+      "inspection"
+    ]
+  },
+  {
+    "id": "ext-bundesnetzagentur",
+    "title": "Federal Network Agency",
+    "categoryId": "telecom_media",
+    "telegramUrl": "https://www.bundesnetzagentur.de/",
+    "tags": [
+      "official",
+      "telecom",
+      "regulator"
+    ]
+  },
+  {
+    "id": "ext-rundfunkbeitrag",
+    "title": "Rundfunkbeitrag (broadcast fee)",
+    "categoryId": "telecom_media",
+    "telegramUrl": "https://www.rundfunkbeitrag.de/",
+    "tags": [
+      "official",
+      "media",
+      "GEZ"
+    ]
+  },
+  {
+    "id": "ext-bahn",
+    "title": "Deutsche Bahn",
+    "categoryId": "public_transport",
+    "telegramUrl": "https://www.bahn.de/",
+    "tags": [
+      "transport",
+      "trains"
+    ]
+  },
+  {
+    "id": "ext-bvg",
+    "title": "BVG — Berlin Public Transport",
+    "categoryId": "public_transport",
+    "telegramUrl": "https://www.bvg.de/",
+    "tags": [
+      "transport",
+      "Berlin"
+    ]
+  },
+  {
+    "id": "ext-vbb",
+    "title": "VBB — Berlin-Brandenburg Transport Association",
+    "categoryId": "public_transport",
+    "telegramUrl": "https://www.vbb.de/",
+    "tags": [
+      "transport",
+      "Berlin",
+      "Brandenburg"
+    ]
+  },
+  {
+    "id": "ext-mvv",
+    "title": "MVV — Munich Transport Association",
+    "categoryId": "public_transport",
+    "telegramUrl": "https://www.mvv-muenchen.de/",
+    "tags": [
+      "transport",
+      "Munich"
+    ]
+  },
+  {
+    "id": "ext-bundid",
+    "title": "BundID — Federal Identity Account",
+    "categoryId": "digital_gov",
+    "telegramUrl": "https://id.bund.de/",
+    "tags": [
+      "official",
+      "digital government"
+    ]
+  },
+  {
+    "id": "ext-bundesportal",
+    "title": "Bundesportal — Federal Administration Portal",
+    "categoryId": "digital_gov",
+    "telegramUrl": "https://verwaltung.bund.de/portal/",
+    "tags": [
+      "official",
+      "services"
+    ]
+  },
+  {
+    "id": "ext-verbraucherzentrale",
+    "title": "Verbraucherzentrale (Consumer Centre)",
+    "categoryId": "daily_life",
+    "telegramUrl": "https://www.verbraucherzentrale.de/",
+    "tags": [
+      "consumer protection"
+    ]
+  },
+  {
+    "id": "ext-mieterbund",
+    "title": "Deutscher Mieterbund — Tenants’ Association",
+    "categoryId": "housing",
+    "telegramUrl": "https://www.mieterbund.de/",
+    "tags": [
+      "housing",
+      "tenant rights"
+    ]
+  },
+  {
+    "id": "ext-familienkasse",
+    "title": "Familienkasse — Family & children",
+    "categoryId": "family_social",
+    "telegramUrl": "https://www.arbeitsagentur.de/familie-und-kinder",
+    "tags": [
+      "official",
+      "Kindergeld",
+      "family"
+    ]
+  },
+  {
+    "id": "ext-familienportal",
+    "title": "Familienportal — Federal family portal",
+    "categoryId": "family_social",
+    "telegramUrl": "https://familienportal.de/",
+    "tags": [
+      "official",
+      "family",
+      "Elterngeld"
+    ]
+  },
+  {
+    "id": "ext-bafoeg-digital",
+    "title": "BAföG Digital",
+    "categoryId": "education_children",
+    "telegramUrl": "https://www.bafoeg-digital.de/",
+    "tags": [
+      "official",
+      "study",
+      "BAföG"
+    ]
+  },
+  {
+    "id": "ext-kmk",
+    "title": "KMK — Conference of Ministers of Education",
+    "categoryId": "education_children",
+    "telegramUrl": "https://www.kmk.org/",
+    "tags": [
+      "official",
+      "education"
+    ]
+  },
+  {
+    "id": "ext-anabin",
+    "title": "anabin — Database of foreign qualifications",
+    "categoryId": "qualification_recognition",
+    "telegramUrl": "https://anabin.kmk.org/",
+    "tags": [
+      "official",
+      "recognition"
+    ]
+  },
+  {
+    "id": "ext-zab",
+    "title": "ZAB — Central Office for Foreign Education",
+    "categoryId": "qualification_recognition",
+    "telegramUrl": "https://www.kmk.org/zab/zentralstelle-fuer-auslaendisches-bildungswesen.html",
+    "tags": [
+      "official",
+      "recognition"
+    ]
+  },
+  {
+    "id": "ext-gematik",
+    "title": "gematik — National Agency for Digital Medicine",
+    "categoryId": "healthcare",
+    "telegramUrl": "https://www.gematik.de/",
+    "tags": [
+      "official",
+      "medicine",
+      "ePA"
+    ]
+  },
+  {
+    "id": "ext-bmg",
+    "title": "BMG — Federal Ministry of Health",
+    "categoryId": "healthcare",
+    "telegramUrl": "https://www.bundesgesundheitsministerium.de/",
+    "tags": [
+      "official",
+      "ministry"
+    ]
+  },
+  {
+    "id": "ext-antidiskriminierung",
+    "title": "Federal Anti-Discrimination Agency",
+    "categoryId": "emergency_rights",
+    "telegramUrl": "https://www.antidiskriminierungsstelle.de/",
+    "tags": [
+      "official",
+      "rights"
+    ]
+  },
+  {
+    "id": "ext-polizei",
+    "title": "Polizei — Official German police portal",
+    "categoryId": "emergency_rights",
+    "telegramUrl": "https://www.polizei.de/",
+    "tags": [
+      "official",
+      "police"
+    ]
+  },
+  {
+    "id": "ext-bka",
+    "title": "Federal Criminal Police Office (BKA)",
+    "categoryId": "emergency_rights",
+    "telegramUrl": "https://www.bka.de/",
+    "tags": [
+      "official",
+      "police"
+    ]
+  },
+  {
+    "id": "ext-baua",
+    "title": "BAuA — Federal Institute for Occupational Safety",
+    "categoryId": "work_employment",
+    "telegramUrl": "https://www.baua.de/",
+    "tags": [
+      "official",
+      "occupational safety"
+    ]
+  },
+  {
+    "id": "ext-bmas",
+    "title": "BMAS — Federal Ministry of Labour and Social Affairs",
+    "categoryId": "work_employment",
+    "telegramUrl": "https://www.bmas.de/",
+    "tags": [
+      "official",
+      "ministry"
+    ]
+  },
+  {
+    "id": "ext-dihk",
+    "title": "DIHK — Chambers of Industry & Commerce",
+    "categoryId": "self_employment",
+    "telegramUrl": "https://www.dihk.de/",
+    "tags": [
+      "IHK",
+      "business"
+    ]
+  },
+  {
+    "id": "ext-handwerkskammer",
+    "title": "Handwerkskammer (HWK) — Chambers of Crafts",
+    "categoryId": "self_employment",
+    "telegramUrl": "https://www.handwerkskammer.de/",
+    "tags": [
+      "HWK",
+      "crafts"
+    ]
+  },
+  {
+    "id": "ext-handelsregister",
+    "title": "Handelsregister — Commercial register",
+    "categoryId": "self_employment",
+    "telegramUrl": "https://www.handelsregister.de/",
+    "tags": [
+      "official",
+      "register"
+    ]
+  },
+  {
+    "id": "ext-bundesregierung",
+    "title": "Federal Government",
+    "categoryId": "digital_gov",
+    "telegramUrl": "https://www.bundesregierung.de/",
+    "tags": [
+      "official",
+      "government"
+    ]
+  },
+  {
+    "id": "ext-russia-embassy",
+    "title": "Russian Embassy in Germany",
+    "categoryId": "country_specific",
+    "telegramUrl": "https://germany.mid.ru/",
+    "tags": [
+      "consulate",
+      "Russia"
+    ]
+  },
+  {
+    "id": "ext-ukraine-embassy",
+    "title": "Ukrainian Embassy in Germany",
+    "categoryId": "country_specific",
+    "telegramUrl": "https://germany.mfa.gov.ua/de",
+    "tags": [
+      "consulate",
+      "Ukraine"
+    ]
+  },
+  {
+    "id": "ext-belarus-embassy",
+    "title": "Belarusian Embassy in Germany",
+    "categoryId": "country_specific",
+    "telegramUrl": "https://germany.mfa.gov.by/de/",
+    "tags": [
+      "consulate",
+      "Belarus"
+    ]
+  },
+  {
+    "id": "ext-uk-embassy",
+    "title": "British Embassy Berlin (GOV.UK)",
+    "categoryId": "country_specific",
+    "telegramUrl": "https://www.gov.uk/world/organisations/british-embassy-berlin",
+    "tags": [
+      "consulate",
+      "UK"
+    ]
+  },
+  {
+    "id": "ext-us-embassy",
+    "title": "U.S. Embassy & Consulates in Germany",
+    "categoryId": "country_specific",
+    "telegramUrl": "https://de.usembassy.gov/",
+    "tags": [
+      "consulate",
+      "USA"
+    ]
+  },
+  {
+    "id": "ext-make-it-in-germany",
+    "title": "Make it in Germany",
+    "categoryId": "work_employment",
+    "telegramUrl": "https://www.make-it-in-germany.com/",
+    "tags": [
+      "official",
+      "work"
+    ]
+  },
+  {
+    "id": "ext-schufa",
+    "title": "SCHUFA — Credit bureau",
+    "categoryId": "banking_finance",
+    "telegramUrl": "https://www.schufa.de/",
+    "tags": [
+      "credit"
+    ]
+  }
+]
