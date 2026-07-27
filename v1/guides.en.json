@@ -20850,7 +20850,14 @@
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "The GKV Contribution Rate Stabilisation Act (BStabG) was passed on 10 July 2026: from 1 January 2027 the prescription co-payment rises by 50 % — the minimum from €5 to €7.50 and the maximum from €10 to €15. The 2026 amounts still apply.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "From 1 Jan 2027 the prescription co-payment rises to €7.50–15 (BStabG, passed 10 July 2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -46960,7 +46967,7 @@
     "id": "de-9-euro-ticket-history",
     "categoryId": "public_transport",
     "title": "What came before the Deutschlandticket: the story of the 9€-Ticket and the 49€-Ticket",
-    "tldr": "The Deutschlandticket (originally the 49€-Ticket) is a pass for all public transport in Germany. It launched in May 2023 as a replacement for the summer 9€-Ticket (June–August 2022). In January 2025 the price rose to 63€/month, and in 2026 it has stayed at 63€/month. It covers all öPNV (S-Bahn, U-Bahn, trams, buses, regional trains RE/RB) across the country, but NOT ICE/IC/EC.",
+    "tldr": "The Deutschlandticket (originally the 49€-Ticket) is a pass for all public transport in Germany. It launched in May 2023 as a replacement for the summer 9€-Ticket (June-August 2022). In January 2025 the price rose to 58€/month, and on 1 January 2026 it rose to 63€/month. It covers all öPNV (S-Bahn, U-Bahn, trams, buses, regional trains RE/RB) across the country, but NOT ICE/IC/EC.",
     "tags": [
       "deutschlandticket",
       "9-euro-ticket",
@@ -46984,8 +46991,8 @@
               "9€-Ticket: June–August 2022, a one-off measure",
               "49€-Ticket / Deutschlandticket: from 1 May 2023, permanent",
               "The 49€/month price held until the end of 2024",
-              "From 1 January 2025 the price rose to 63€/month",
-              "In 2026 the price has stayed at 63€/month",
+              "From 1 January 2025 the price rose to 58€/month",
+              "From 1 January 2026 the price rose to 63€/month",
               "Subscription only (Abo) with a monthly charge; to cancel from the end of the month, do it before the 10th"
             ]
           }
@@ -47092,7 +47099,7 @@
       {
         "label": "49€-Ticket (historical)",
         "amountEUR": 49.0,
-        "note": "From May 2023 to December 2024. Replaced by 63€ from 2025."
+        "note": "From May 2023 to December 2024. Replaced by 58€ from January 2025 and by 63€ from January 2026."
       }
     ],
     "sources": [
@@ -47101,31 +47108,31 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BMV (Bundesministerium für Verkehr) — Deutschlandticket",
         "url": "https://www.bmv.de/DE/Themen/Mobilitaet/OEPNV/Deutschlandticket/deutschlandticket.html",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "DB — Deutschlandticket",
         "url": "https://www.bahn.de/angebot/regio/deutschlandticket",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VBB — Deutschlandticket in Berlin-Brandenburg",
         "url": "https://www.vbb.de/tickets",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -48750,7 +48757,7 @@
     "id": "de-deutschlandticket-49",
     "categoryId": "public_transport",
     "title": "Deutschlandticket: 63 €/month — what it is and what's included",
-    "tldr": "The Deutschlandticket (D-Ticket) is a single subscription covering all regional and local public transport across Germany. From 2025 the price rose from 49 € to 63 € per month. With it you can ride any regional trains (RE, RB), the S-Bahn, U-Bahn, trams and buses anywhere in the country, but NOT long-distance trains (ICE, IC, EC) and NOT FlixBus coaches. The ticket is always personal, digital (in an app or as a chip card) and set up as a cancellable monthly subscription (Abo). Through your employer (corporate travel pass, Jobticket) you can get an extra discount.",
+    "tldr": "The Deutschlandticket (D-Ticket) is a single subscription covering all regional and local public transport across Germany. Since 1 January 2026 it costs 63 € per month; in 2025 the price was 58 €, and until the end of 2024 it was 49 €. With it you can ride any regional trains (RE, RB), the S-Bahn, U-Bahn, trams and buses anywhere in the country, but NOT long-distance trains (ICE, IC, EC) and NOT FlixBus coaches. The ticket is always personal, digital (in an app or as a chip card) and set up as a cancellable monthly subscription (Abo). Through your employer (corporate travel pass, Jobticket) you can get an extra discount.",
     "tags": [
       "deutschlandticket",
       "oepnv",
@@ -48786,12 +48793,12 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "From 2025 the D-Ticket costs 63 € per month (it used to be 49 €, hence the old name '49-Euro-Ticket'). It's always a subscription (Abonnement) charged monthly. The ticket is personal and digital — you can't pass it on to someone else."
+            "text": "Since 1 January 2026 the D-Ticket costs 63 € per month. In 2025 the price was 58 €, and until the end of 2024 it was 49 € (hence the old name '49-Euro-Ticket'). It's always a subscription (Abonnement) charged monthly. The ticket is personal and digital — you can't pass it on to someone else."
           },
           {
             "kind": "checklist",
             "items": [
-              "Price — 63 € per month (since 2025)",
+              "Price — 63 € per month (since 1 January 2026)",
               "Only as a subscription (Abo) with monthly billing",
               "Digital: in an app (DB Navigator, your transport association's app) or a chip card",
               "The ticket is personal — you can't lend or transfer it",
@@ -48819,7 +48826,7 @@
       {
         "label": "Deutschlandticket (standard)",
         "amountEUR": 63.0,
-        "note": "Per month, by subscription; price as of 2025."
+        "note": "Per month, by subscription; price as of 1 January 2026."
       },
       {
         "label": "Deutschlandticket as a Jobticket",
@@ -48840,32 +48847,32 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Deutsche Bahn — Deutschlandticket (what's included)",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
         "kind": "company",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "DB — Deutschlandticket Jobticket (employer discount)",
         "url": "https://www.bahn.de/faq/deutschlandticket-jobticket",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VRR — Deutschlandticket in the regional association",
         "url": "https://www.vrr.de/tickets-tarife/deutschlandticket/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -48970,7 +48977,7 @@
       {
         "label": "Deutschlandticket (monthly subscription)",
         "amountEUR": 63.0,
-        "note": "Charged every month until cancelled; price as of 2025."
+        "note": "Charged every month until cancelled; price as of 1 January 2026."
       },
       {
         "label": "Cancelling the subscription (Kündigung)",
@@ -48984,32 +48991,32 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Deutsche Bahn — Deutschlandticket purchase and Kündigung",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
         "kind": "company",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VRR — Deutschlandticket: signing up and cancelling",
         "url": "https://www.vrr.de/tickets-tarife/deutschlandticket/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "RMV — Deutschlandticket (regional association)",
         "url": "https://www.rmv.de/c/de/tickets",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -52806,7 +52813,14 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "The GKV Contribution Rate Stabilisation Act (BStabG) was passed on 10 July 2026: from 1 January 2027 the prescription co-payment rises from €5–10 to €7.50–15. The 2026 amounts still apply; the under-18 exemption and the Belastungsgrenze cap remain in place.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "From 1 Jan 2027 the prescription co-payment rises to €7.50–15 (BStabG, passed 10 July 2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -56202,7 +56216,7 @@
             "items": [
               "Age groups: 0–5 / 6–11 / 12–17 / adults (18+)",
               "15 income brackets based on the payer's net earnings (from 2.100€ to 11.200€)",
-              "Bracket 1 (net up to 2.100€), 2026 — minimum support (Mindestunterhalt): 0–5 years — 486€/month, 6–11 — 558€, 12–17 — 653€, 18+ — 693€",
+              "Bracket 1 (net up to 2.100€), 2026 — minimum support (Mindestunterhalt): 0–5 years — 486€/month, 6–11 — 558€, 12–17 — 653€, 18+ — 698€",
               "Half of the child benefit is deducted from the amount (Kindergeld; in 2026 Kindergeld = 259€, i.e. ~130€ for minors)",
               "the payer's necessary minimum for their own support (notwendiger Selbstbehalt): 1.450€/month if employed, 1.200€ if not employed (unchanged in 2026)"
             ]
@@ -56341,45 +56355,45 @@
         "url": "https://www.gesetze-im-internet.de/bgb/__1626.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BGB §1684 — Umgang des Kindes",
         "url": "https://www.gesetze-im-internet.de/bgb/__1684.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Düsseldorfer Tabelle 2026 — OLG Düsseldorf",
         "url": "https://www.olg-duesseldorf.nrw.de/infos/Duesseldorfer_Tabelle/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BAG Landesjugendämter — Aufgaben der Jugendämter",
         "url": "https://www.bag-landesjugendaemter.de/de/ueber-uns/",
         "kind": "secondary",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Familienportal des Bundes — Trennung mit Kindern",
         "url": "https://familienportal.de/familienportal/lebenslagen/trennung",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "UhVorschG — Unterhaltsvorschuss",
         "url": "https://www.gesetze-im-internet.de/uhvorschg/",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -69522,7 +69536,7 @@
             "kind": "checklist",
             "items": [
               "For the parent: the subsistence minimum — means of subsistence (Lebensunterhalt) — plus rent and insurance",
-              "For the child: the basic need (Regelbedarf) by age (a benchmark from the minimum maintenance — Mindestunterhalt — 2026: 482/554/649 € — check the current rates)",
+              "For the child: the basic need (Regelbedarf) by age (a benchmark from the minimum maintenance — Mindestunterhalt — 2026: 486/558/653 € — check the current rates)",
               "Housing: a benchmark of about 12 m² of living space per person (excluding kitchen and bathroom); the exact norm depends on the state",
               "One child under 6 can usually share a room with the parents",
               "Income is proven for several months (payslips — Lohnabrechnungen)",
@@ -69600,32 +69614,32 @@
         "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§35 AufenthG — Eigenständiges, unbefristetes Aufenthaltsrecht der Kinder",
         "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__35.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Make it in Germany — Familiennachzug",
         "url": "https://www.make-it-in-germany.com/de/visum-aufenthalt/familiennachzug",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Familienkasse — Kindergeld für ausländische Staatsangehörige",
-        "url": "https://www.arbeitsagentur.de/familie-und-kinder/kindergeld-antrag",
+        "url": "https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld/kindergeld-anspruch-hoehe-dauer",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -97774,7 +97788,14 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "The GKV Contribution Rate Stabilisation Act (BStabG) was passed on 10 July 2026: from 1 January 2027 the hospital co-payment rises from €10 to €15 per day (the 28-day cap goes from €280 to €420 per year). The 2026 amounts still apply.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "From 1 Jan 2027 the hospital co-payment rises to €15/day (BStabG, passed 10 July 2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -100502,7 +100523,7 @@
     "id": "de-tax-deadline-fristen",
     "categoryId": "taxes",
     "title": "Tax return deadlines 2026",
-    "tldr": "For the 2025 tax year, the return must be filed by 31 July 2026 if you do it yourself. If a tax adviser (Steuerberater) or an income-tax assistance association (Lohnsteuerhilfeverein) prepares the return, the deadline is extended to around the end of April 2027 (check the exact date for the year 2025 — after the COVID-era extensions the deadlines are normalising). If you file voluntarily (return on application — Antragsveranlagung, usually for a refund), you have much more time — up to 4 years afterwards. Missing the deadline for a mandatory return risks a late-filing surcharge (Verspätungszuschlag): 0.25% of the tax per month, a minimum of around 25€ per month.",
+    "tldr": "For the 2025 tax year, the return must be submitted by 31 July 2026 if you prepare it yourself. If a tax adviser (Steuerberater) or income tax assistance association (Lohnsteuerhilfeverein) prepares it, the deadline is extended to 1 March 2027 (28 February 2027 is a Sunday). If you file voluntarily (application assessment, Antragsveranlagung, usually for a refund), you have much longer — up to four years back. A late mandatory return can trigger a late-filing surcharge (Verspätungszuschlag): 0.25% of the tax per month, at least about 25€ per month.",
     "tags": [
       "deadlines",
       "fristen",
@@ -100537,14 +100558,14 @@
             "kind": "checklist",
             "items": [
               "Self-filing (mandatory) for 2025 — by 31 July 2026",
-              "With the help of a tax adviser (Steuerberater) / income-tax assistance association (Lohnsteuerhilfeverein) — extension to around the end of April 2027 (check the exact date for the year 2025 with your adviser/in the source)",
+              "With the help of a tax adviser (Steuerberater) / income-tax assistance association (Lohnsteuerhilfeverein) — until 1 March 2027 (28 February 2027 is a Sunday)",
               "Voluntary return (return on application — Antragsveranlagung) — up to 4 years back, i.e. for 2025 roughly until the end of 2029",
               "If 31 July is a non-working day, the deadline shifts to the next working day"
             ]
           },
           {
             "kind": "paragraph",
-            "text": "After the pandemic-era extensions, the deadlines are gradually returning to the standard 31 July for self-filers. To be safe, always check the final date for the specific year in a current source from the Federal Ministry of Finance (BMF) or on the tax authority's portal ELSTER before filing."
+            "text": "After the pandemic-era extensions, the deadlines have returned to the standard logic: 31 July of the following year for self-filers and the end of February of the second following year when filing through an adviser; if the date falls on a weekend, it moves to the next working day. To be safe, check the final date for the specific year in a current source from the BMF, ELSTER or your state tax authority before filing."
           },
           {
             "kind": "warning",
@@ -100623,31 +100644,31 @@
         "url": "https://www.bundesfinanzministerium.de",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "ELSTER — Steuererklärung abgeben",
         "url": "https://www.elster.de",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§149 AO — Abgabefristen für Steuererklärungen",
         "url": "https://www.gesetze-im-internet.de/ao_1977/__149.html",
         "kind": "law",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§152 AO — Verspätungszuschlag",
         "url": "https://www.gesetze-im-internet.de/ao_1977/__152.html",
         "kind": "law",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },

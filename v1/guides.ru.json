@@ -20850,7 +20850,14 @@
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Закон о стабилизации взносов GKV (BStabG) принят 10.07.2026: с 01.01.2027 доплата за рецептурное лекарство вырастет на 50 % — минимум с 5 € до 7,50 €, максимум с 10 € до 15 €. В 2026 году действуют прежние суммы.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "С 01.01.2027 доплата за рецепт вырастет до 7,50–15 € (BStabG, принят 10.07.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -46960,7 +46967,7 @@
     "id": "de-9-euro-ticket-history",
     "categoryId": "public_transport",
     "title": "Что было до Deutschlandticket: история 9€-Ticket и 49€-Ticket",
-    "tldr": "Deutschlandticket (изначально 49€-Ticket) — это абонемент на весь общественный транспорт Германии. Появился в мае 2023 как замена летнего 9€-Ticket (июнь-август 2022). С января 2025 цена поднялась до 63€/мес, и в 2026 году осталась 63€/мес. Покрывает всё öPNV (S-Bahn, U-Bahn, трамваи, автобусы, региональные поезда RE/RB) по всей стране, но НЕ ICE/IC/EC.",
+    "tldr": "Deutschlandticket (изначально 49€-Ticket) — это абонемент на весь общественный транспорт Германии. Появился в мае 2023 как замена летнего 9€-Ticket (июнь-август 2022). С января 2025 цена поднялась до 58€/мес, а с 1 января 2026 — до 63€/мес. Покрывает всё öPNV (S-Bahn, U-Bahn, трамваи, автобусы, региональные поезда RE/RB) по всей стране, но НЕ ICE/IC/EC.",
     "tags": [
       "deutschlandticket",
       "9-euro-ticket",
@@ -46984,8 +46991,8 @@
               "9€-Ticket: июнь–август 2022, разовая мера",
               "49€-Ticket / Deutschlandticket: с 1 мая 2023, постоянный",
               "Цена 49€/мес держалась до конца 2024",
-              "С 1 января 2025 цена выросла до 63€/мес",
-              "В 2026 году цена осталась 63€/мес",
+              "С 1 января 2025 цена выросла до 58€/мес",
+              "С 1 января 2026 цена выросла до 63€/мес",
               "Только подписка (Abo) с ежемесячным списанием; чтобы отменить с конца месяца, успейте до 10-го числа"
             ]
           }
@@ -47082,7 +47089,7 @@
       {
         "label": "Deutschlandticket (2026)",
         "amountEUR": 63.0,
-        "note": "Подписка, ежемесячное списание. Цена с 1 января 2025, действует и в 2026."
+        "note": "Подписка, ежемесячное списание. Цена с 1 января 2026."
       },
       {
         "label": "9€-Ticket (исторически)",
@@ -47092,7 +47099,7 @@
       {
         "label": "49€-Ticket (исторически)",
         "amountEUR": 49.0,
-        "note": "С мая 2023 по декабрь 2024. С 2025 заменён на 63€."
+        "note": "С мая 2023 по декабрь 2024. С января 2025 заменён на 58€, с января 2026 — на 63€."
       }
     ],
     "sources": [
@@ -47101,31 +47108,31 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BMV (Bundesministerium für Verkehr) — Deutschlandticket",
         "url": "https://www.bmv.de/DE/Themen/Mobilitaet/OEPNV/Deutschlandticket/deutschlandticket.html",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "DB — Deutschlandticket",
         "url": "https://www.bahn.de/angebot/regio/deutschlandticket",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VBB — Deutschlandticket в Berlin-Brandenburg",
         "url": "https://www.vbb.de/tickets",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -48750,7 +48757,7 @@
     "id": "de-deutschlandticket-49",
     "categoryId": "public_transport",
     "title": "Deutschlandticket: 63 €/мес — что это и что входит",
-    "tldr": "Deutschlandticket (D-Ticket) — единый абонемент на весь региональный и городской общественный транспорт по всей Германии. С 2025 года цена выросла с 49 € до 63 € в месяц. По нему можно ездить на любых региональных поездах (RE, RB), S-Bahn, U-Bahn, трамваях и автобусах в пределах всей страны, но НЕ на дальних поездах (ICE, IC, EC) и НЕ на автобусах FlixBus. Билет всегда именной, цифровой (в приложении или как чип-карта) и оформляется как ежемесячный абонемент (Abo) с возможностью отмены. Через работодателя (корпоративный проездной Jobticket) можно получить дополнительную скидку.",
+    "tldr": "Deutschlandticket (D-Ticket) — единый абонемент на весь региональный и городской общественный транспорт по всей Германии. С 1 января 2026 года он стоит 63 € в месяц; в 2025 году цена была 58 €, а до конца 2024 — 49 €. По нему можно ездить на любых региональных поездах (RE, RB), S-Bahn, U-Bahn, трамваях и автобусах в пределах всей страны, но НЕ на дальних поездах (ICE, IC, EC) и НЕ на автобусах FlixBus. Билет всегда именной, цифровой (в приложении или как чип-карта) и оформляется как ежемесячный абонемент (Abo) с возможностью отмены. Через работодателя (корпоративный проездной Jobticket) можно получить дополнительную скидку.",
     "tags": [
       "deutschlandticket",
       "oepnv",
@@ -48786,12 +48793,12 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "С 2025 года D-Ticket стоит 63 € в месяц (раньше было 49 €, отсюда старое название «49-Euro-Ticket»). Это всегда абонемент (Abonnement), который списывают ежемесячно. Билет именной и цифровой — его нельзя передать другому человеку."
+            "text": "С 1 января 2026 года D-Ticket стоит 63 € в месяц. В 2025 году цена была 58 €, до конца 2024 — 49 € (отсюда старое название «49-Euro-Ticket»). Это всегда абонемент (Abonnement), который списывают ежемесячно. Билет именной и цифровой — его нельзя передать другому человеку."
           },
           {
             "kind": "checklist",
             "items": [
-              "Цена — 63 € в месяц (с 2025 года)",
+              "Цена — 63 € в месяц (с 1 января 2026 года)",
               "Только в формате абонемента (Abo) с ежемесячным списанием",
               "Цифровой: в приложении (DB Navigator, приложение транспортного союза) или чип-карта",
               "Билет именной — нельзя одолжить или передать",
@@ -48819,7 +48826,7 @@
       {
         "label": "Deutschlandticket (стандарт)",
         "amountEUR": 63.0,
-        "note": "В месяц, по подписке; цена с 2025 года."
+        "note": "В месяц, по подписке; цена с 1 января 2026 года."
       },
       {
         "label": "Deutschlandticket как Jobticket",
@@ -48840,32 +48847,32 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Deutsche Bahn — Deutschlandticket (что входит)",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
         "kind": "company",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "DB — Deutschlandticket Jobticket (скидка работодателя)",
         "url": "https://www.bahn.de/faq/deutschlandticket-jobticket",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VRR — Deutschlandticket в региональном союзе",
         "url": "https://www.vrr.de/tickets-tarife/deutschlandticket/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -48970,7 +48977,7 @@
       {
         "label": "Deutschlandticket (ежемесячная подписка)",
         "amountEUR": 63.0,
-        "note": "Списывается каждый месяц до отмены; цена с 2025 года."
+        "note": "Списывается каждый месяц до отмены; цена с 1 января 2026 года."
       },
       {
         "label": "Отмена подписки (Kündigung)",
@@ -48984,32 +48991,32 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Deutsche Bahn — Deutschlandticket покупка и Kündigung",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
         "kind": "company",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VRR — Deutschlandticket: оформление и отмена",
         "url": "https://www.vrr.de/tickets-tarife/deutschlandticket/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "RMV — Deutschlandticket (региональный союз)",
         "url": "https://www.rmv.de/c/de/tickets",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -52806,7 +52813,14 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Закон о стабилизации взносов GKV (BStabG) принят 10.07.2026: с 01.01.2027 доплата за рецептурное лекарство вырастет с 5–10 € до 7,50–15 €. В 2026 году действуют прежние суммы; освобождение детей до 18 лет и лимит доплат (Belastungsgrenze) сохраняются.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "С 01.01.2027 доплата за Rx-лекарство вырастет до 7,50–15 € (BStabG, принят 10.07.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -56202,7 +56216,7 @@
             "items": [
               "Возрастные группы: 0–5 / 6–11 / 12–17 / совершеннолетние (18+)",
               "15 групп дохода по нетто-заработку плательщика (от 2.100€ до 11.200€)",
-              "Группа 1 (нетто до 2.100€), 2026 г. — минимальные алименты (Mindestunterhalt): 0–5 лет — 486€/мес, 6–11 — 558€, 12–17 — 653€, 18+ — 693€",
+              "Группа 1 (нетто до 2.100€), 2026 г. — минимальные алименты (Mindestunterhalt): 0–5 лет — 486€/мес, 6–11 — 558€, 12–17 — 653€, 18+ — 698€",
               "Из суммы вычитается половина детского пособия (Kindergeld; в 2026 г. Kindergeld = 259€, то есть ~130€ для несовершеннолетних)",
               "необходимый минимум для собственного содержания (notwendiger Selbstbehalt) плательщика: 1.450€/мес при наличии работы, 1.200€ без работы (без изменений в 2026 г.)"
             ]
@@ -56341,45 +56355,45 @@
         "url": "https://www.gesetze-im-internet.de/bgb/__1626.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BGB §1684 — Umgang des Kindes",
         "url": "https://www.gesetze-im-internet.de/bgb/__1684.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Düsseldorfer Tabelle 2026 — OLG Düsseldorf",
         "url": "https://www.olg-duesseldorf.nrw.de/infos/Duesseldorfer_Tabelle/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BAG Landesjugendämter — Aufgaben der Jugendämter",
         "url": "https://www.bag-landesjugendaemter.de/de/ueber-uns/",
         "kind": "secondary",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Familienportal des Bundes — Trennung mit Kindern",
         "url": "https://familienportal.de/familienportal/lebenslagen/trennung",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "UhVorschG — Unterhaltsvorschuss",
         "url": "https://www.gesetze-im-internet.de/uhvorschg/",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -69522,7 +69536,7 @@
             "kind": "checklist",
             "items": [
               "Для родителя: прожиточный минимум — средства к существованию (Lebensunterhalt) — плюс аренда и страховка",
-              "На ребёнка: базовая потребность (Regelbedarf) по возрасту (ориентир по минимальным алиментам — Mindestunterhalt — 2026: 482/554/649 € — сверяйте актуальные ставки)",
+              "На ребёнка: базовая потребность (Regelbedarf) по возрасту (ориентир по минимальным алиментам — Mindestunterhalt — 2026: 486/558/653 € — сверяйте актуальные ставки)",
               "Жильё: ориентир около 12 м² жилой площади на человека (без кухни и ванной); точная норма зависит от земли",
               "Один ребёнок до 6 лет обычно может делить комнату с родителями",
               "Доход подтверждается за несколько месяцев (расчётные листки — Lohnabrechnungen)",
@@ -69600,32 +69614,32 @@
         "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§35 AufenthG — Eigenständiges, unbefristetes Aufenthaltsrecht der Kinder",
         "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__35.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Make it in Germany — Familiennachzug",
         "url": "https://www.make-it-in-germany.com/de/visum-aufenthalt/familiennachzug",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Familienkasse — Kindergeld für ausländische Staatsangehörige",
-        "url": "https://www.arbeitsagentur.de/familie-und-kinder/kindergeld-antrag",
+        "url": "https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld/kindergeld-anspruch-hoehe-dauer",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -97774,7 +97788,14 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Закон о стабилизации взносов GKV (BStabG) принят 10.07.2026: с 01.01.2027 доплата за стационар вырастет с 10 € до 15 € в день (максимум за 28 дней — с 280 € до 420 € в год). В 2026 году действуют прежние суммы.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "С 01.01.2027 доплата за больницу вырастет до 15 €/день (BStabG, принят 10.07.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -100502,7 +100523,7 @@
     "id": "de-tax-deadline-fristen",
     "categoryId": "taxes",
     "title": "Сроки подачи декларации 2026",
-    "tldr": "Для налогового года 2025 декларацию нужно подать до 31 июля 2026, если вы делаете её сами. Если декларацию готовит налоговый консультант (Steuerberater) или общество помощи по подоходному налогу (Lohnsteuerhilfeverein), срок продлевается примерно до конца апреля 2027 (точную дату для года 2025 уточняйте — после ковидных продлений сроки нормализуются). Если вы подаёте добровольно (декларация по заявлению — Antragsveranlagung, обычно ради возврата), времени гораздо больше — до 4 лет назад. Просрочка обязательной декларации грозит надбавкой за просрочку (Verspätungszuschlag): 0,25% налога за месяц, минимум около 25€ в месяц.",
+    "tldr": "Для налогового года 2025 декларацию нужно подать до 31 июля 2026, если вы делаете её сами. Если декларацию готовит налоговый консультант (Steuerberater) или общество помощи по подоходному налогу (Lohnsteuerhilfeverein), срок продлевается до 1 марта 2027 (28 февраля 2027 приходится на воскресенье). Если вы подаёте добровольно (декларация по заявлению — Antragsveranlagung, обычно ради возврата), времени гораздо больше — до 4 лет назад. Просрочка обязательной декларации грозит надбавкой за просрочку (Verspätungszuschlag): 0,25% налога за месяц, минимум около 25€ в месяц.",
     "tags": [
       "сроки",
       "fristen",
@@ -100537,14 +100558,14 @@
             "kind": "checklist",
             "items": [
               "Самостоятельная подача (обязательная) за 2025 год — до 31 июля 2026",
-              "С помощью налогового консультанта (Steuerberater) / общества помощи по подоходному налогу (Lohnsteuerhilfeverein) — продление примерно до конца апреля 2027 (точную дату для года 2025 уточняйте у консультанта/в источнике)",
+              "С помощью налогового консультанта (Steuerberater) / общества помощи по подоходному налогу (Lohnsteuerhilfeverein) — до 1 марта 2027 (28 февраля 2027 приходится на воскресенье)",
               "Добровольная декларация (декларация по заявлению — Antragsveranlagung) — до 4 лет назад, то есть за 2025 год ориентировочно до конца 2029",
               "Если 31 июля — выходной, срок сдвигается на следующий рабочий день"
             ]
           },
           {
             "kind": "paragraph",
-            "text": "После пандемийных продлений сроки постепенно возвращаются к стандартным 31 июля для самостоятельной подачи. Для надёжности всегда сверяйте крайнюю дату конкретного года в актуальном источнике Федерального министерства финансов (BMF) или на портале налоговой службы ELSTER перед подачей."
+            "text": "После пандемийных продлений сроки вернулись к стандартной логике: 31 июля следующего года для самостоятельной подачи и конец февраля второго следующего года при подаче через консультанта; если дата выпадает на выходной, срок переносится на следующий рабочий день. Для надёжности сверяйте крайнюю дату конкретного года в актуальном источнике Федерального министерства финансов (BMF), ELSTER или на сайте своей налоговой земли перед подачей."
           },
           {
             "kind": "warning",
@@ -100623,31 +100644,31 @@
         "url": "https://www.bundesfinanzministerium.de",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "ELSTER — Steuererklärung abgeben",
         "url": "https://www.elster.de",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§149 AO — Abgabefristen für Steuererklärungen",
         "url": "https://www.gesetze-im-internet.de/ao_1977/__149.html",
         "kind": "law",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§152 AO — Verspätungszuschlag",
         "url": "https://www.gesetze-im-internet.de/ao_1977/__152.html",
         "kind": "law",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },

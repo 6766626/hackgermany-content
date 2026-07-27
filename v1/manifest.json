@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 1780502619350,
+  "contentVersion": 1781568096791,
   "language": "ru",
-  "generatedAt": "2026-06-07T17:03:53.000Z",
+  "generatedAt": "2026-07-27T21:26:20.000Z",
   "counts": {
     "categories": 23,
     "guides": 600,
@@ -18,8 +18,8 @@
     },
     {
       "name": "guides.ru.json",
-      "size": 7232430,
-      "sha256": "8e84f42e919080fb4786e8d1a1bcb5aa8114804153671ad078f2d83516d2341a"
+      "size": 7235122,
+      "sha256": "84b71573b9d6cb6c82d1d18e9894bc10b9fb6834e54883e1c5e7c9c6c30fee6f"
     },
     {
       "name": "catalog.ru.json",
@@ -50,8 +50,8 @@
         },
         {
           "name": "guides.ru.json",
-          "size": 7232430,
-          "sha256": "8e84f42e919080fb4786e8d1a1bcb5aa8114804153671ad078f2d83516d2341a"
+          "size": 7235122,
+          "sha256": "84b71573b9d6cb6c82d1d18e9894bc10b9fb6834e54883e1c5e7c9c6c30fee6f"
         },
         {
           "name": "catalog.ru.json",
@@ -82,8 +82,8 @@
         },
         {
           "name": "guides.en.json",
-          "size": 5503716,
-          "sha256": "4206275fbce938ad9d63aed1677b7d0297070c3ec418e0964094013a881c7fd9"
+          "size": 5505854,
+          "sha256": "0b306f88fbed590d65b668ebcc87b8159d4e9e3a7dd90b2f6dbcee5ad12e8b7d"
         },
         {
           "name": "catalog.en.json",
@@ -114,8 +114,8 @@
         },
         {
           "name": "guides.de.json",
-          "size": 5478656,
-          "sha256": "71fcc23b95f7c9167d5bc3ced050049e4887b735d0c24b501e5f124049bd29a3"
+          "size": 5480801,
+          "sha256": "586f6334dbd2b29e0b1754c4882eee2f0c0bf6318f81ed013b4df937067b1359"
         },
         {
           "name": "catalog.de.json",

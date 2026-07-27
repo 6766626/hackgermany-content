@@ -20850,7 +20850,14 @@
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Das GKV-Beitragssatzstabilisierungsgesetz (BStabG) wurde am 10.07.2026 beschlossen: Ab dem 01.01.2027 steigt die Rezept-Zuzahlung um 50 % — Minimum von 5 € auf 7,50 €, Maximum von 10 € auf 15 €. 2026 gelten die bisherigen Beträge.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "Ab 01.01.2027 steigt die Rezept-Zuzahlung auf 7,50–15 € (BStabG, beschlossen am 10.07.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -46960,7 +46967,7 @@
     "id": "de-9-euro-ticket-history",
     "categoryId": "public_transport",
     "title": "Was es vor dem Deutschlandticket gab: die Geschichte von 9€-Ticket und 49€-Ticket",
-    "tldr": "Das Deutschlandticket (ursprünglich 49€-Ticket) ist ein Abo für den gesamten öffentlichen Nahverkehr in Deutschland. Es kam im Mai 2023 als Nachfolger des sommerlichen 9€-Tickets (Juni–August 2022). Seit Januar 2025 stieg der Preis auf 63€/Monat und blieb 2026 bei 63€/Monat. Es deckt den gesamten öPNV (S-Bahn, U-Bahn, Straßenbahnen, Busse, Regionalzüge RE/RB) bundesweit ab, aber NICHT ICE/IC/EC.",
+    "tldr": "Das Deutschlandticket (ursprünglich 49€-Ticket) ist ein Abo für den gesamten öffentlichen Nahverkehr in Deutschland. Es kam im Mai 2023 als Nachfolger des sommerlichen 9€-Tickets (Juni-August 2022). Seit Januar 2025 stieg der Preis auf 58€/Monat, seit dem 1. Januar 2026 auf 63€/Monat. Es deckt den gesamten öPNV (S-Bahn, U-Bahn, Straßenbahnen, Busse, Regionalzüge RE/RB) bundesweit ab, aber NICHT ICE/IC/EC.",
     "tags": [
       "deutschlandticket",
       "9-euro-ticket",
@@ -46984,8 +46991,8 @@
               "9€-Ticket: Juni–August 2022, einmalige Maßnahme",
               "49€-Ticket / Deutschlandticket: seit 1. Mai 2023, dauerhaft",
               "Der Preis von 49€/Monat hielt sich bis Ende 2024",
-              "Seit 1. Januar 2025 stieg der Preis auf 63€/Monat",
-              "2026 blieb der Preis bei 63€/Monat",
+              "Seit 1. Januar 2025 stieg der Preis auf 58€/Monat",
+              "Ab 1. Januar 2026 stieg der Preis auf 63€/Monat",
               "Nur als Abo mit monatlicher Abbuchung; um zum Monatsende zu kündigen, müssen Sie bis zum 10. des Monats kündigen"
             ]
           }
@@ -47082,7 +47089,7 @@
       {
         "label": "Deutschlandticket (2026)",
         "amountEUR": 63.0,
-        "note": "Abo, monatliche Abbuchung. Preis seit 1. Januar 2025, gilt auch 2026."
+        "note": "Abo, monatliche Abbuchung. Preis seit 1. Januar 2026."
       },
       {
         "label": "9€-Ticket (historisch)",
@@ -47092,7 +47099,7 @@
       {
         "label": "49€-Ticket (historisch)",
         "amountEUR": 49.0,
-        "note": "Von Mai 2023 bis Dezember 2024. Seit 2025 durch 63€ ersetzt."
+        "note": "Von Mai 2023 bis Dezember 2024. Seit Januar 2025 durch 58€ und seit Januar 2026 durch 63€ ersetzt."
       }
     ],
     "sources": [
@@ -47101,31 +47108,31 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BMV (Bundesministerium für Verkehr) – Deutschlandticket",
         "url": "https://www.bmv.de/DE/Themen/Mobilitaet/OEPNV/Deutschlandticket/deutschlandticket.html",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "DB – Deutschlandticket",
         "url": "https://www.bahn.de/angebot/regio/deutschlandticket",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VBB – Deutschlandticket in Berlin-Brandenburg",
         "url": "https://www.vbb.de/tickets",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -48750,7 +48757,7 @@
     "id": "de-deutschlandticket-49",
     "categoryId": "public_transport",
     "title": "Deutschlandticket: 63 €/Monat - was es ist und was enthalten ist",
-    "tldr": "Das Deutschlandticket (D-Ticket) ist ein einheitliches Abo für den gesamten regionalen und städtischen öffentlichen Nahverkehr in ganz Deutschland. Seit 2025 ist der Preis von 49 € auf 63 € im Monat gestiegen. Damit kann man bundesweit alle Regionalzüge (RE, RB), die S-Bahn, U-Bahn, Straßenbahnen und Busse nutzen, aber NICHT die Fernzüge (ICE, IC, EC) und NICHT den FlixBus. Das Ticket ist immer personengebunden, digital (in der App oder als Chipkarte) und wird als monatliches Abo mit Kündigungsmöglichkeit abgeschlossen. Über den Arbeitgeber (Jobticket) gibt es einen zusätzlichen Rabatt.",
+    "tldr": "Das Deutschlandticket (D-Ticket) ist ein einheitliches Abo für den gesamten regionalen und städtischen öffentlichen Nahverkehr in ganz Deutschland. Seit dem 1. Januar 2026 kostet es 63 € im Monat; 2025 lag der Preis bei 58 €, bis Ende 2024 bei 49 €. Damit kann man bundesweit alle Regionalzüge (RE, RB), die S-Bahn, U-Bahn, Straßenbahnen und Busse nutzen, aber NICHT die Fernzüge (ICE, IC, EC) und NICHT den FlixBus. Das Ticket ist immer personengebunden, digital (in der App oder als Chipkarte) und wird als monatliches Abo mit Kündigungsmöglichkeit abgeschlossen. Über den Arbeitgeber (Jobticket) gibt es einen zusätzlichen Rabatt.",
     "tags": [
       "deutschlandticket",
       "oepnv",
@@ -48786,12 +48793,12 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Seit 2025 kostet das D-Ticket 63 € im Monat (früher waren es 49 €, daher der alte Name '49-Euro-Ticket'). Es ist immer ein Abonnement, das monatlich abgebucht wird. Das Ticket ist personengebunden und digital - es kann nicht an eine andere Person weitergegeben werden."
+            "text": "Seit dem 1. Januar 2026 kostet das D-Ticket 63 € im Monat. 2025 lag der Preis bei 58 €, bis Ende 2024 bei 49 € (daher der alte Name '49-Euro-Ticket'). Es ist immer ein Abonnement, das monatlich abgebucht wird. Das Ticket ist personengebunden und digital - es kann nicht an eine andere Person weitergegeben werden."
           },
           {
             "kind": "checklist",
             "items": [
-              "Preis - 63 € im Monat (seit 2025)",
+              "Preis - 63 € im Monat (seit dem 1. Januar 2026)",
               "Nur als Abo mit monatlicher Abbuchung",
               "Digital: in der App (DB Navigator, Verbund-App) oder als Chipkarte",
               "Personengebundenes Ticket - nicht ausleihbar oder übertragbar",
@@ -48819,7 +48826,7 @@
       {
         "label": "Deutschlandticket (Standard)",
         "amountEUR": 63.0,
-        "note": "Pro Monat, im Abo; Preis seit 2025."
+        "note": "Pro Monat, im Abo; Preis seit dem 1. Januar 2026."
       },
       {
         "label": "Deutschlandticket als Jobticket",
@@ -48840,32 +48847,32 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Deutsche Bahn - Deutschlandticket (was enthalten ist)",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
         "kind": "company",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "DB - Deutschlandticket Jobticket (Arbeitgeberrabatt)",
         "url": "https://www.bahn.de/faq/deutschlandticket-jobticket",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VRR - Deutschlandticket im Regionalverbund",
         "url": "https://www.vrr.de/tickets-tarife/deutschlandticket/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -48970,7 +48977,7 @@
       {
         "label": "Deutschlandticket (monatliches Abo)",
         "amountEUR": 63.0,
-        "note": "Wird bis zur Kündigung jeden Monat abgebucht; Preis seit 2025."
+        "note": "Wird bis zur Kündigung jeden Monat abgebucht; Preis seit dem 1. Januar 2026."
       },
       {
         "label": "Kündigung des Abos",
@@ -48984,32 +48991,32 @@
         "url": "https://www.deutschlandticket.de/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Deutsche Bahn - Deutschlandticket Kauf und Kündigung",
         "url": "https://www.bahn.de/angebot/regio/deutschland-ticket",
         "kind": "company",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "VRR - Deutschlandticket: Abschluss und Kündigung",
         "url": "https://www.vrr.de/tickets-tarife/deutschlandticket/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "RMV - Deutschlandticket (Regionalverbund)",
         "url": "https://www.rmv.de/c/de/tickets",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -52806,7 +52813,14 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Das GKV-Beitragssatzstabilisierungsgesetz (BStabG) wurde am 10.07.2026 beschlossen: Ab dem 01.01.2027 steigt die Rezept-Zuzahlung von 5–10 € auf 7,50–15 €. 2026 gelten die bisherigen Beträge; die Befreiung für unter 18-Jährige und die Belastungsgrenze bleiben bestehen.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "Ab 01.01.2027 steigt die Rezept-Zuzahlung auf 7,50–15 € (BStabG, beschlossen am 10.07.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -56202,7 +56216,7 @@
             "items": [
               "Altersgruppen: 0–5 / 6–11 / 12–17 / volljährig (18+)",
               "15 Einkommensgruppen nach dem Nettoeinkommen des Zahlenden (von 2.100€ bis 11.200€)",
-              "Gruppe 1 (netto bis 2.100€), Stand 2026 - Mindestunterhalt: 0–5 Jahre - 486€/Monat, 6–11 - 558€, 12–17 - 653€, 18+ - 693€",
+              "Gruppe 1 (netto bis 2.100€), Stand 2026 - Mindestunterhalt: 0–5 Jahre - 486€/Monat, 6–11 - 558€, 12–17 - 653€, 18+ - 698€",
               "Vom Betrag wird das halbe Kindergeld abgezogen (2026 beträgt das Kindergeld 259€, also ~130€ für Minderjährige)",
               "Der notwendige Selbstbehalt des Zahlenden: 1.450€/Monat bei Erwerbstätigkeit, 1.200€ ohne Erwerbstätigkeit (2026 unverändert)"
             ]
@@ -56341,45 +56355,45 @@
         "url": "https://www.gesetze-im-internet.de/bgb/__1626.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BGB §1684 — Umgang des Kindes",
         "url": "https://www.gesetze-im-internet.de/bgb/__1684.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Düsseldorfer Tabelle 2026 — OLG Düsseldorf",
         "url": "https://www.olg-duesseldorf.nrw.de/infos/Duesseldorfer_Tabelle/",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "BAG Landesjugendämter — Aufgaben der Jugendämter",
         "url": "https://www.bag-landesjugendaemter.de/de/ueber-uns/",
         "kind": "secondary",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Familienportal des Bundes — Trennung mit Kindern",
         "url": "https://familienportal.de/familienportal/lebenslagen/trennung",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "UhVorschG — Unterhaltsvorschuss",
         "url": "https://www.gesetze-im-internet.de/uhvorschg/",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -69522,7 +69536,7 @@
             "kind": "checklist",
             "items": [
               "Für den Elternteil: Existenzminimum – der Lebensunterhalt – plus Miete und Versicherung",
-              "Für das Kind: Regelbedarf nach Alter (Orientierung am Mindestunterhalt 2026: 482/554/649 € – aktuelle Sätze überprüfen)",
+              "Für das Kind: Regelbedarf nach Alter (Orientierung am Mindestunterhalt 2026: 486/558/653 € – aktuelle Sätze überprüfen)",
               "Wohnraum: Orientierung etwa 12 m² Wohnfläche pro Person (ohne Küche und Bad); die genaue Norm hängt vom Land ab",
               "Ein Kind unter 6 Jahren kann in der Regel ein Zimmer mit den Eltern teilen",
               "Das Einkommen wird über mehrere Monate nachgewiesen (Lohnabrechnungen)",
@@ -69600,32 +69614,32 @@
         "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§35 AufenthG — Eigenständiges, unbefristetes Aufenthaltsrecht der Kinder",
         "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__35.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Make it in Germany — Familiennachzug",
         "url": "https://www.make-it-in-germany.com/de/visum-aufenthalt/familiennachzug",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "Familienkasse — Kindergeld für ausländische Staatsangehörige",
-        "url": "https://www.arbeitsagentur.de/familie-und-kinder/kindergeld-antrag",
+        "url": "https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld/kindergeld-anspruch-hoehe-dauer",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastRetrieved": "2026-06-16",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -97774,7 +97788,14 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Das GKV-Beitragssatzstabilisierungsgesetz (BStabG) wurde am 10.07.2026 beschlossen: Ab dem 01.01.2027 steigt die Zuzahlung im Krankenhaus von 10 € auf 15 € pro Tag (Höchstgrenze für 28 Tage von 280 € auf 420 € pro Jahr). 2026 gelten die bisherigen Beträge.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/bundestag-beschliesst-gkv-beitragssatzstabilisierunggesetz-pm-10-07-2026"
+    },
+    "recentlyChangedAt": "2026-07-27",
+    "changeSummary": "Ab 01.01.2027 steigt die Krankenhaus-Zuzahlung auf 15 €/Tag (BStabG, beschlossen am 10.07.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -100502,7 +100523,7 @@
     "id": "de-tax-deadline-fristen",
     "categoryId": "taxes",
     "title": "Abgabefristen der Steuererklärung 2026",
-    "tldr": "Für das Steuerjahr 2025 müssen Sie die Erklärung bis zum 31. Juli 2026 abgeben, wenn Sie sie selbst erstellen. Wird die Erklärung von einem Steuerberater oder einem Lohnsteuerhilfeverein erstellt, verlängert sich die Frist etwa bis Ende April 2027 (das genaue Datum für das Jahr 2025 erfragen – nach den Corona-Verlängerungen normalisieren sich die Fristen wieder). Wenn Sie freiwillig abgeben (Antragsveranlagung, meist wegen einer Erstattung), haben Sie deutlich mehr Zeit – bis zu 4 Jahre rückwirkend. Eine versäumte Pflichterklärung führt zu einem Verspätungszuschlag: 0,25 % der Steuer je Monat, mindestens rund 25€ pro Monat.",
+    "tldr": "Für das Steuerjahr 2025 muss die Erklärung bis zum 31. Juli 2026 abgegeben werden, wenn Sie sie selbst erstellen. Erstellt sie ein Steuerberater oder ein Lohnsteuerhilfeverein, verlängert sich die Frist bis zum 1. März 2027 (der 28. Februar 2027 ist ein Sonntag). Wer freiwillig abgibt (Antragsveranlagung, meist wegen einer Erstattung), hat deutlich länger Zeit — bis zu vier Jahre rückwirkend. Bei verspäteter Pflichtabgabe droht ein Verspätungszuschlag: 0,25 % der Steuer pro Monat, mindestens etwa 25 € im Monat.",
     "tags": [
       "fristen",
       "fristen",
@@ -100537,14 +100558,14 @@
             "kind": "checklist",
             "items": [
               "Selbst erstellte (Pflicht-)Erklärung für 2025 – bis 31. Juli 2026",
-              "Mit Hilfe eines Steuerberaters / Lohnsteuerhilfevereins – Verlängerung etwa bis Ende April 2027 (das genaue Datum für das Jahr 2025 beim Berater bzw. in der Quelle erfragen)",
+              "Mit Hilfe eines Steuerberaters / Lohnsteuerhilfevereins – bis zum 1. März 2027 (der 28. Februar 2027 ist ein Sonntag)",
               "Freiwillige Erklärung (Antragsveranlagung) – bis zu 4 Jahre rückwirkend, also für 2025 etwa bis Ende 2029",
               "Fällt der 31. Juli auf einen arbeitsfreien Tag, verschiebt sich die Frist auf den nächsten Werktag"
             ]
           },
           {
             "kind": "paragraph",
-            "text": "Nach den pandemiebedingten Verlängerungen kehren die Fristen schrittweise zum Standard 31. Juli für die selbst erstellte Erklärung zurück. Zur Sicherheit gleichen Sie den spätesten Termin des jeweiligen Jahres stets mit einer aktuellen Quelle des Bundesministeriums der Finanzen (BMF) oder im Portal der Finanzverwaltung ELSTER ab, bevor Sie abgeben."
+            "text": "Nach den pandemiebedingten Verlängerungen gilt wieder die Standardlogik: 31. Juli des Folgejahres für selbst erstellte Erklärungen und Ende Februar des übernächsten Jahres bei Abgabe über einen Berater; fällt das Datum auf ein Wochenende, verschiebt sich die Frist auf den nächsten Werktag. Prüfen Sie zur Sicherheit die konkrete Frist des jeweiligen Jahres in einer aktuellen Quelle des BMF, ELSTER oder Ihrer Landesfinanzverwaltung, bevor Sie abgeben."
           },
           {
             "kind": "warning",
@@ -100623,31 +100644,31 @@
         "url": "https://www.bundesfinanzministerium.de",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "ELSTER — Steuererklärung abgeben",
         "url": "https://www.elster.de",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§149 AO — Abgabefristen für Steuererklärungen",
         "url": "https://www.gesetze-im-internet.de/ao_1977/__149.html",
         "kind": "law",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       },
       {
         "title": "§152 AO — Verspätungszuschlag",
         "url": "https://www.gesetze-im-internet.de/ao_1977/__152.html",
         "kind": "law",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-06-16"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-06-16",
     "verifyIntervalDays": 90,
     "premium": true
   },
