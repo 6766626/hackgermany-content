@@ -6380,7 +6380,7 @@
               "Gültiger Reisepass + Kopie der Seite mit dem Foto",
               "Aktueller Aufenthaltstitel / Visum (falls vorhanden)",
               "Anmeldebescheinigung für die Adresse – nicht älter als 6 Monate",
-              "Biometrisches Foto 35×45 mm nach BMI-Standard",
+              "Biometrisches Foto — seit 01.05.2025 nur digital: Code vom zertifizierten Fotografen oder Fototerminal in der Behörde (~6 €)",
               "Nachweise des Aufenthaltsgrunds: Arbeitsvertrag, Gehaltsnachweis, Mietvertrag, Versicherung",
               "Krankenversicherung – Nachweis von GKV/PKV",
               "Geld: 100€ für die Ersterteilung, 96€ für die Verlängerung (Karte/Girocard, Bargeld wird nicht überall angenommen)"
@@ -8001,7 +8001,7 @@
               "Versicherungsverlauf der Deutschen Rentenversicherung",
               "Nachweis von Beschäftigung und Gehalt (Arbeitsvertrag; Gehaltsabrechnungen)",
               "Mietvertrag oder Nachweis über gesicherten Wohnraum",
-              "Biometrisches Foto 35×45 mm",
+              "Biometrisches Foto — seit 01.05.2025 nur digital: Code vom zertifizierten Fotografen oder Fototerminal in der Behörde (~6 €)",
               "Führungszeugnis auf Anforderung der Ausländerbehörde (ABH)"
             ]
           },
@@ -8033,7 +8033,7 @@
         "label": "Biometrische Fotos",
         "amountEURMin": 6,
         "amountEURMax": 15,
-        "note": "Im Fotoautomaten oder Fotostudio, Format 35×45 mm."
+        "note": "Beim zertifizierten Fotografen (sichere Übermittlung, Sie erhalten einen Abrufcode) oder am Fototerminal der Behörde (~6 €); Papierfotos werden seit 01.08.2025 nicht mehr akzeptiert."
       }
     ],
     "sources": [
@@ -8368,7 +8368,7 @@
                       "Für die Arbeit: Arbeitsvertrag, Stellenbeschreibung, Abschluss + Anerkennung",
                       "Ausgefüllter Antrag auf Erteilung eines Aufenthaltstitels",
                       "Nachweis der Krankenversicherung und gesicherten Wohnraums",
-                      "Biometrisches Foto 35×45 mm"
+                      "Biometrisches Foto — seit 01.05.2025 nur digital: Code vom zertifizierten Fotografen oder Fototerminal in der Behörde (~6 €)"
                     ]
                   }
                 ]
@@ -8465,7 +8465,7 @@
     "id": "de-dublin-iii-rules",
     "categoryId": "residence_permit",
     "title": "Dublin III: Welches Land für den Antrag zuständig ist",
-    "tldr": "Die Dublin-III-Verordnung (Verordnung 604/2013) bestimmt, welches EU-Land verpflichtet ist, einen Asylantrag zu prüfen. Grundregel: Zuständig ist das erste EU-Land, in das Sie offiziell eingereist sind oder in dem Sie den Antrag gestellt haben. Die Fingerabdrücke werden in die Eurodac-Datenbank hochgeladen — anhand ihrer wird ermittelt, wo Sie sich erstmals registriert haben. Wenn Sie den Antrag in Deutschland gestellt haben, Eurodac aber eine Einreise über ein anderes EU-Land anzeigt, kann Deutschland eine Überstellung (Dublin-Transfer) zurück in das zuständige Land beantragen. Frist der Überstellung — in der Regel 6 Monate. Es gibt Ausnahmen: Familienzusammenführung, unbegleitete Minderjährige, humanitäre Gründe. Der Antrag im Dublin-Verfahren ist kostenlos.",
+    "tldr": "WICHTIG: Seit dem 01.07.2026 ist die Dublin-III-Verordnung durch die EU-Asyl- und Migrationsmanagement-Verordnung (AMMR) im Rahmen der GEAS-Reform ersetzt; der Grundsatz „ein zuständiges EU-Land“ bleibt, Verfahren und Fristen ändern sich — prüfen Sie die BAMF-Informationen. Unten die bisherigen Dublin-III-Regeln zur Orientierung. Die Dublin-III-Verordnung (Verordnung 604/2013) bestimmt, welches EU-Land verpflichtet ist, einen Asylantrag zu prüfen. Grundregel: Zuständig ist das erste EU-Land, in das Sie offiziell eingereist sind oder in dem Sie den Antrag gestellt haben. Die Fingerabdrücke werden in die Eurodac-Datenbank hochgeladen — anhand ihrer wird ermittelt, wo Sie sich erstmals registriert haben. Wenn Sie den Antrag in Deutschland gestellt haben, Eurodac aber eine Einreise über ein anderes EU-Land anzeigt, kann Deutschland eine Überstellung (Dublin-Transfer) zurück in das zuständige Land beantragen. Frist der Überstellung — in der Regel 6 Monate. Es gibt Ausnahmen: Familienzusammenführung, unbegleitete Minderjährige, humanitäre Gründe. Der Antrag im Dublin-Verfahren ist kostenlos.",
     "tags": [
       "dublin-iii",
       "asyl",
@@ -8620,9 +8620,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Dublin III wurde zum 01.07.2026 durch die AMMR-Verordnung ersetzt (GEAS-Reform)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -8683,7 +8685,7 @@
                     "items": [
                       "Reisepass + aktuelle Aufenthaltstitel-Karte (elektronischer Aufenthaltstitel, eAT)",
                       "Ausgefüllter Antrag auf Verlängerung",
-                      "Biometrisches Foto 35×45 mm",
+                      "Biometrisches Foto — seit 01.05.2025 nur digital: Code vom zertifizierten Fotografen oder Fototerminal in der Behörde (~6 €)",
                       "Nachweis der Krankenversicherung",
                       "Anmeldung"
                     ]
@@ -8745,7 +8747,7 @@
         "label": "Biometrische Fotos",
         "amountEURMin": 6,
         "amountEURMax": 15,
-        "note": "Format 35×45 mm, biometrisch."
+        "note": "Digitales Foto: Code vom zertifizierten Fotografen oder Terminal in der Behörde; Papierfotos werden nicht mehr akzeptiert."
       }
     ],
     "sources": [
@@ -8781,7 +8783,9 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Checkliste aktualisiert: Fotos für den eAT nur noch digital — Code vom Fotografen oder Terminal in der Behörde."
   },
   {
     "editorialVoice": "hackgermany",
@@ -10989,7 +10993,7 @@
                       "Mietvertrag",
                       "A1-Zertifikat",
                       "Nachweis der Krankenversicherung",
-                      "2 biometrische Lichtbilder"
+                      "Biometrisches Lichtbild (digital: Code vom Fotografen oder Terminal in der Behörde)"
                     ]
                   }
                 ]
@@ -18274,7 +18278,7 @@
     "id": "de-integrationskurs-free-eligibility",
     "categoryId": "language_integration",
     "title": "Kostenloser Integrationskurs: §44 AufenthG",
-    "tldr": "Der Integrationskurs ist kostenlos, wenn Sie einen Anspruch (§44 AufenthG) oder eine Verpflichtung (§44a AufenthG) haben. Anspruch haben in der Regel Neuzugewanderte mit einem längerfristigen Aufenthaltstitel, EU-Bürger mit Integrationsbedarf und Spätaussiedler. Eine Verpflichtung trifft zum Beispiel Bürgergeld-Empfänger ohne ausreichende Deutschkenntnisse und Fälle des Ehegattennachzugs. Studierende nach §16a/§16b haben in der Regel keinen Anspruch, §22–25 (humanitär) und §28 (Familie eines deutschen Staatsangehörigen) dagegen schon. 700 Stunden plus DTZ für 0 €.",
+    "tldr": "Der Integrationskurs ist kostenlos, wenn Sie einen Anspruch (§44 AufenthG) oder eine Verpflichtung (§44a AufenthG) haben. Anspruch haben in der Regel Neuzugewanderte mit einem längerfristigen Aufenthaltstitel, EU-Bürger mit Integrationsbedarf und Spätaussiedler. Eine Verpflichtung trifft zum Beispiel Bürgergeld-Empfänger ohne ausreichende Deutschkenntnisse und Fälle des Ehegattennachzugs. Studierende nach §16a/§16b haben in der Regel keinen Anspruch, §22–25 (humanitär) und §28 (Familie eines deutschen Staatsangehörigen) dagegen schon. 700 Stunden plus DTZ für 0 €. Praxis 2026: Wegen Haushaltsengpässen hatte das BAMF ab Februar 2026 freiwillige Zulassungen gestoppt — betroffen waren u. a. Ukrainer (§24) und EU-Bürger; seit Ende Juli 2026 (6. Änderung der Integrationskursverordnung) ist die Zulassung auf freie Plätze wieder möglich. Verpflichtungen durch Jobcenter/Behörden gelten uneingeschränkt.",
     "tags": [
       "44-aufenthg",
       "44a-aufenthg",
@@ -18567,9 +18571,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Zulassung zum Integrationskurs: nach dem Stopp ab 02/2026 seit Juli 2026 wieder auf freie Plätze möglich (IntV-Änderung)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -37725,7 +37731,7 @@
     "editorialVoice": "hackgermany",
     "id": "de-kleinunternehmer-22000",
     "categoryId": "self_employment",
-    "title": "Kleinunternehmer nach §19 UStG: 22 000 €",
+    "title": "Kleinunternehmer nach §19 UStG: 22 000 → 25 000 €",
     "tldr": "Die Kleinunternehmerregelung (§19 UStG) erlaubt kleinen Unternehmen, KEINE Umsatzsteuer auszuweisen und keine aufwendige Umsatzsteuer-Berichterstattung abzugeben. ACHTUNG: Zum 1. Januar 2025 hat eine Reform die Schwellen geändert — es sind jetzt NICHT mehr die alten 22 000 €. Die neuen Grenzen: Umsatz im VORJAHR bis 25 000 € (netto) UND im LAUFENDEN Jahr bis 100 000 €. Überschreiten Sie im laufenden Jahr 100 000 €, geht der Kleinunternehmer-Status ab diesem Umsatz sofort verloren. Vorteile: Rechnungen ohne Umsatzsteuer (vorteilhaft für Privatkunden), weniger Bürokratie, keine monatliche Umsatzsteuer-Voranmeldung. Nachteile: Sie können die Vorsteuer auf Ihre Einkäufe nicht zurückholen, was bei großen Investitionen ungünstig ist. Der Status wird im Fragebogen zur steuerlichen Erfassung über das ELSTER-Portal gewählt. Seit 2025 sind Kleinunternehmer formal befreit, aber verpflichtet, eine E-Rechnung von B2B-Geschäftspartnern anzunehmen.",
     "tags": [
       "kleinunternehmer",
@@ -37880,7 +37886,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -40861,7 +40867,12 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -41217,7 +41228,12 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -41862,9 +41878,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Die BAföG-Reform wurde am 12.08.2026 vom Kabinett beschlossen (jetzt im Bundestag): Wohnkostenpauschale 380 → 440 € ab 01.04.2027, Grundbedarf 475 → 503 € ab dem Wintersemester 2027/28. Zum WS 2026/27 gibt es keine Erhöhung — es gelten die aktuellen Sätze.",
+      "expectedDate": "2027-04-01",
+      "sourceUrl": "https://www.bmftr.bund.de/SharedDocs/Kurzmeldungen/DE/2026/08/120826-bafoeg-kabinettsbeschluss.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -43362,7 +43383,7 @@
     "id": "de-hort-after-school",
     "categoryId": "education_children",
     "title": "Hort: nach der Schule",
-    "tldr": "Der Hort ist eine Nachmittagsbetreuung für Kinder der Grundschule (1.–4. Klasse). Nach dem Unterricht bleibt das Kind unter Aufsicht: Mittagessen, Hausaufgabenbetreuung, Spiele und Ferienprogramm. Der Hort kann an der Schule oder eine eigene kommunale Einrichtung sein; der Platz wird über das Jugendamt oder direkt bei der Schule beantragt. Der Beitrag richtet sich nach dem Einkommen der Familie (0–200 €/Monat) plus separat das Essen. Ab 2026 wird stufenweise ein Rechtsanspruch auf Ganztagsbetreuung für Grundschulkinder nach dem Ganztagsförderungsgesetz eingeführt.",
+    "tldr": "Der Hort ist eine Nachmittagsbetreuung für Kinder der Grundschule (1.–4. Klasse). Nach dem Unterricht bleibt das Kind unter Aufsicht: Mittagessen, Hausaufgabenbetreuung, Spiele und Ferienprogramm. Der Hort kann an der Schule oder eine eigene kommunale Einrichtung sein; der Platz wird über das Jugendamt oder direkt bei der Schule beantragt. Der Beitrag richtet sich nach dem Einkommen der Familie (0–200 €/Monat) plus separat das Essen. Seit dem 1. August 2026 gilt der Rechtsanspruch auf Ganztagsbetreuung nach dem Ganztagsförderungsgesetz für die 1. Klasse; er wird stufenweise ausgeweitet und umfasst bis 2029/30 alle Grundschulklassen.",
     "tags": [
       "hort",
       "schule",
@@ -43556,9 +43577,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Seit 01.08.2026 gilt der Ganztagsanspruch für die 1. Klasse; stufenweise bis 2029/30 für alle Grundschulklassen."
   },
   {
     "editorialVoice": "hackgermany",
@@ -48872,9 +48895,14 @@
       }
     ],
     "lastRetrieved": "2026-06-16",
-    "lastVerified": "2026-06-16",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Ab 2027 wird der Preis des Deutschlandtickets über ein Indexmodell bestimmt (Beschluss der Verkehrsministerkonferenz, März 2026); der neue Preis wird bis zum 30.09.2026 verkündet. Bis Ende 2026 bleibt es bei 63 €/Monat.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -49016,9 +49044,14 @@
       }
     ],
     "lastRetrieved": "2026-06-16",
-    "lastVerified": "2026-06-16",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Ab 2027 wird der Preis des Deutschlandtickets über ein Indexmodell bestimmt (Beschluss der Verkehrsministerkonferenz, März 2026); der neue Preis wird bis zum 30.09.2026 verkündet. Bis Ende 2026 bleibt es bei 63 €/Monat.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -54994,7 +55027,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Bescheid innerhalb von 2-4 Wochen. Auszahlung monatlich über die Bezahlkarte (seit 2024 in den meisten Bundesländern eine Karte statt Bargeld, Bargeldabhebung auf 50 €/Monat begrenzt)."
+                    "text": "Bescheid innerhalb von 2-4 Wochen. Auszahlung monatlich über die Bezahlkarte: Bis August 2026 in allen 16 Bundesländern eingeführt (Berlin zuletzt), auch wenn manche Kommunen sie nicht einsetzen; die Bargeldabhebung ist meist auf 50 €/Monat begrenzt, in einzelnen Ländern höher."
                   }
                 ]
               }
@@ -55090,7 +55123,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -55511,7 +55544,7 @@
           },
           {
             "kind": "warning",
-            "text": "Vermögensfreigrenze (Schonvermögen): im ersten Bezugsjahr (Karenzzeit) — 40.000 € für das Oberhaupt der Bedarfsgemeinschaft plus 15.000 € für jedes weitere Mitglied, danach 15.000 € pro Person. Ab dem 1. Juli 2026 ändern sich im Rahmen der Reform „neue Grundsicherung“ (Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende) die Regeln zu Karenzzeit und Schonvermögen — prüfen Sie die geltende Fassung des SGB II."
+            "text": "Vermögensfreigrenze (Schonvermögen): im ersten Bezugsjahr (Karenzzeit) — 40.000 € für das Oberhaupt der Bedarfsgemeinschaft plus 15.000 € für jedes weitere Mitglied, danach 15.000 € pro Person. Ab dem 1. Juli 2026 haben sich im Rahmen der Reform „neue Grundsicherung“ (Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende) die Regeln zu Karenzzeit und Schonvermögen geändert: Die einjährige Vermögens-Karenzzeit entfällt, die Freibeträge sind altersgestaffelt, Sanktionen wurden verschärft — prüfen Sie die geltende Fassung des SGB II."
           }
         ]
       }
@@ -55571,7 +55604,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -55580,7 +55613,7 @@
     "id": "de-buergergeld-rules",
     "categoryId": "family_social",
     "title": "Bürgergeld: Sätze 2026",
-    "tldr": "Das Bürgergeld (SGB II) hat zum 1.1.2023 Hartz IV abgelöst. Der Regelbedarf beträgt 2026 563 €/Monat für einen Alleinstehenden (Stufe 1); der Satz wurde gegenüber 2025 nicht erhöht (Nullrunde). Kinder 0–5 Jahre: 357 €; 6–13: 390 €; 14–17: 471 €. Hinzu kommen die Kosten der Unterkunft (KdU): Miete und Heizkosten im Rahmen der Angemessenheit. Ab dem 1. Juli 2026 wird das Bürgergeld in „neue Grundsicherung“ umbenannt, der Regelsatz selbst bleibt jedoch bei 563 €.",
+    "tldr": "Das Bürgergeld (SGB II) hat zum 1.1.2023 Hartz IV abgelöst. Der Regelbedarf beträgt 2026 563 €/Monat für einen Alleinstehenden (Stufe 1); der Satz wurde gegenüber 2025 nicht erhöht (Nullrunde). Kinder 0–5 Jahre: 357 €; 6–13: 390 €; 14–17: 471 €. Hinzu kommen die Kosten der Unterkunft (KdU): Miete und Heizkosten im Rahmen der Angemessenheit. Ab dem 1. Juli 2026 ist die Reform in Kraft: Das Bürgergeld heißt jetzt „neue Grundsicherung“ (ausgezahlt als Grundsicherungsgeld), Sanktionen bei Meldeversäumnissen und Arbeitsablehnung wurden verschärft, der Regelsatz bleibt bei 563 €.",
     "tags": [
       "Bürgergeld",
       "SGB II",
@@ -55806,9 +55839,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Reform seit 01.07.2026 in Kraft: Bürgergeld → „neue Grundsicherung“ (Grundsicherungsgeld), verschärfte Sanktionen; Regelsatz weiter 563 €."
   },
   {
     "editorialVoice": "hackgermany",
@@ -81672,9 +81707,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Gesetzentwurf (Kabinett 06.07.2026): Ab 2027 sollen die planmäßige Wohngeld-Erhöhung entfallen, die Heizkostenkomponente gekürzt und die Formel verschärft werden (Beträge unter 15 €/Monat entfallen). Noch NICHT beschlossen — 2026 gelten die aktuellen Beträge.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/neuordnung-wohngeld-2445796"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -85532,7 +85572,12 @@
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -86716,7 +86761,12 @@
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -86875,9 +86925,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Ab 2027 wird der Preis des Deutschlandtickets über ein Indexmodell bestimmt (Beschluss der Verkehrsministerkonferenz, März 2026); der neue Preis wird bis zum 30.09.2026 verkündet. Bis Ende 2026 bleibt es bei 63 €/Monat.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -93910,7 +93965,7 @@
               "Gültiger Reisepass (und Kopien der Seiten)",
               "Aktueller Aufenthaltstitel (eAT-Karte)",
               "Ausgefüllter Antrag auf Erteilung einer Niederlassungserlaubnis",
-              "1-2 aktuelle biometrische Fotos",
+              "Ein aktuelles biometrisches Foto (digital: Code vom Fotografen oder Terminal in der Behörde)",
               "Meldebescheinigung – Nachweis der Anmeldung unter der Adresse",
               "Gültiger Nachweis der Krankenversicherung"
             ]
@@ -94045,7 +94100,7 @@
         "label": "Biometrische Passfotos",
         "amountEURMin": 10,
         "amountEURMax": 20,
-        "note": "Im Fotoautomaten oder Fotostudio."
+        "note": "Beim zertifizierten Fotografen oder am Fototerminal der Behörde (~6 €); Papierfotos werden nicht mehr akzeptiert."
       },
       {
         "label": "Beglaubigte Übersetzung der Unterlagen",
@@ -94940,7 +94995,8 @@
               "Aufschub / späterer Eintritt: Für jeden Monat nach der Regelaltersgrenze steigt die Rente um 0,5% (Zuschlag), zudem werden neue Entgeltpunkte angesammelt",
               "Flexirente: Kombination aus Teilrente + Hinzuverdienst + zusätzlichen Beiträgen",
               "Rente für schwerbehinderte Menschen (§37 SGB VI): bei einem GdB von 50+ ist ein früherer Eintritt mit geringeren Abschlägen möglich",
-              "Fordern Sie vor der Entscheidung bei der Deutschen Rentenversicherung (DRV) eine kostenlose Rentenauskunft / Rentenberatung an"
+              "Fordern Sie vor der Entscheidung bei der Deutschen Rentenversicherung (DRV) eine kostenlose Rentenauskunft / Rentenberatung an",
+              "Aktivrente seit 01.01.2026: Wer die Regelaltersgrenze erreicht hat und weiter angestellt arbeitet, erhält bis zu 2 000 € brutto/Monat einkommensteuerfrei (§3 Nr. 21 EStG); Sozialabgaben fallen weiterhin an, für Minijobs und Selbstständige gilt der Vorteil nicht"
             ]
           },
           {
@@ -95003,9 +95059,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Aktivrente: Seit 01.01.2026 sind bis zu 2 000 €/Monat neben der Rente einkommensteuerfrei (§3 Nr. 21 EStG)."
   },
   {
     "editorialVoice": "hackgermany",

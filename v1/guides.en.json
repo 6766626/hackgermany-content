@@ -6380,7 +6380,7 @@
               "A valid passport + a copy of the photo page",
               "Your current residence permit (Aufenthaltstitel) / visa (if any)",
               "Registration confirmation (Anmeldebescheinigung) for your address — no older than 6 months",
-              "A biometric photo, 35×45 mm, to the BMI standard",
+              "Biometric photo — digital only since 01.05.2025: a code from a certified photographer or the photo terminal at the office (~€6)",
               "Evidence of the basis of your stay: employment contract, salary statement, lease, insurance",
               "Health insurance (Krankenversicherung) — a certificate from GKV/PKV",
               "Money: 100€ for first issuance, 96€ for renewal (card / German debit card Girocard, as cash isn't accepted everywhere)"
@@ -8001,7 +8001,7 @@
               "Contribution-history statement (Versicherungsverlauf) from the German Pension Insurance (Deutsche Rentenversicherung)",
               "Proof of employment and salary (employment contract, Arbeitsvertrag; payslips, Gehaltsabrechnungen)",
               "A rental contract or proof of secured housing",
-              "Biometric photo 35×45 mm",
+              "Biometric photo — digital only since 01.05.2025: a code from a certified photographer or the photo terminal at the office (~€6)",
               "Certificate of no criminal record, if requested by the foreigners' authority (ABH)"
             ]
           },
@@ -8033,7 +8033,7 @@
         "label": "Biometric photos",
         "amountEURMin": 6,
         "amountEURMax": 15,
-        "note": "At a photo booth or photo studio, format 35×45 mm."
+        "note": "From a certified photographer (the photo is transmitted securely and you get a retrieval code) or at the authority's photo terminal (~€6); paper photos are no longer accepted since 01.08.2025."
       }
     ],
     "sources": [
@@ -8368,7 +8368,7 @@
                       "For work: an employment contract (Arbeitsvertrag), a job description, a degree + recognition",
                       "Completed application for the issue of a residence title (Antrag auf Erteilung eines Aufenthaltstitels)",
                       "Proof of health insurance and secured housing",
-                      "Biometric photo 35×45 mm"
+                      "Biometric photo — digital only since 01.05.2025: a code from a certified photographer or the photo terminal at the office (~€6)"
                     ]
                   }
                 ]
@@ -8465,7 +8465,7 @@
     "id": "de-dublin-iii-rules",
     "categoryId": "residence_permit",
     "title": "Dublin III: which country is responsible for your application",
-    "tldr": "The Dublin III Regulation (Regulation 604/2013) determines which EU country is obliged to examine an asylum application. The basic rule: the first EU country you officially entered or where you filed your application is responsible. Fingerprints are uploaded to the Eurodac database, which shows where you first registered. If you filed your application in Germany but Eurodac shows entry through another EU country, Germany can request a transfer (Überstellung/Dublin-Transfer) back to the responsible country. The transfer deadline is usually 6 months. There are exceptions: family reunification, unaccompanied minors and humanitarian grounds. The application under the Dublin procedure is free.",
+    "tldr": "IMPORTANT: since 01.07.2026 the Dublin III Regulation has been replaced by the EU Asylum and Migration Management Regulation (AMMR) as part of the GEAS reform; the core principle that one EU country is responsible remains, but procedures and deadlines change — check with BAMF. Below are the previous Dublin III rules for orientation. The Dublin III Regulation (Regulation 604/2013) determines which EU country is obliged to examine an asylum application. The basic rule: the first EU country you officially entered or where you filed your application is responsible. Fingerprints are uploaded to the Eurodac database, which shows where you first registered. If you filed your application in Germany but Eurodac shows entry through another EU country, Germany can request a transfer (Überstellung/Dublin-Transfer) back to the responsible country. The transfer deadline is usually 6 months. There are exceptions: family reunification, unaccompanied minors and humanitarian grounds. The application under the Dublin procedure is free.",
     "tags": [
       "dublin-iii",
       "asylum",
@@ -8620,9 +8620,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Dublin III was replaced by the AMMR regulation on 01.07.2026 (GEAS reform)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -8683,7 +8685,7 @@
                     "items": [
                       "Passport + current residence permit card (electronic residence permit card, eAT)",
                       "Completed extension application (Antrag auf Verlängerung)",
-                      "Biometric photo 35×45 mm",
+                      "Biometric photo — digital only since 01.05.2025: a code from a certified photographer or the photo terminal at the office (~€6)",
                       "Proof of health insurance",
                       "Residence registration (Anmeldung)"
                     ]
@@ -8745,7 +8747,7 @@
         "label": "Biometric photos",
         "amountEURMin": 6,
         "amountEURMax": 15,
-        "note": "Format 35×45 mm, biometric."
+        "note": "Digital photo: code from a certified photographer or the office terminal; paper photos are no longer accepted."
       }
     ],
     "sources": [
@@ -8781,7 +8783,9 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Checklist updated: photos for residence cards (eAT) are digital-only now — photographer code or office terminal."
   },
   {
     "editorialVoice": "hackgermany",
@@ -10989,7 +10993,7 @@
                       "Rental contract (Mietvertrag)",
                       "A1 certificate",
                       "Proof of health insurance (Krankenversicherung)",
-                      "2 biometric photos"
+                      "Biometric photo (digital: code from a photographer or the office terminal)"
                     ]
                   }
                 ]
@@ -18274,7 +18278,7 @@
     "id": "de-integrationskurs-free-eligibility",
     "categoryId": "language_integration",
     "title": "Free integration course (Integrationskurs): §44 AufenthG",
-    "tldr": "The Integrationskurs is free if you have a right (Anspruch, §44 AufenthG) or an obligation (Verpflichtung, §44a AufenthG). The right usually applies to newcomers with a long-term residence permit (Aufenthaltstitel), to EU citizens with an integration need (Integrationsbedarf), and to late repatriates (Spätaussiedler). The obligation applies, for example, to Bürgergeld recipients without sufficient German and in cases of family reunification. Students under §16a/§16b usually have no right, but §22-25 (humanitarian) and §28 (family of a German citizen) do. 700 hours plus the DTZ for €0.",
+    "tldr": "The Integrationskurs is free if you have a right (Anspruch, §44 AufenthG) or an obligation (Verpflichtung, §44a AufenthG). The right usually applies to newcomers with a long-term residence permit (Aufenthaltstitel), to EU citizens with an integration need (Integrationsbedarf), and to late repatriates (Spätaussiedler). The obligation applies, for example, to Bürgergeld recipients without sufficient German and in cases of family reunification. Students under §16a/§16b usually have no right, but §22-25 (humanitarian) and §28 (family of a German citizen) do. 700 hours plus the DTZ for €0. 2026 practice: due to budget shortfalls BAMF suspended voluntary admissions (Zulassung) from February 2026 — affecting Ukrainians (§24), EU citizens and others; since late July 2026 (6th amendment of the Integrationskursverordnung) admission is possible again on free places. Referrals (Verpflichtung) by the Jobcenter/authorities are unaffected.",
     "tags": [
       "44-aufenthg",
       "44a-aufenthg",
@@ -18567,9 +18571,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Integration-course admission: reopened for free places in July 2026 (IntV amendment) after the February 2026 stop."
   },
   {
     "editorialVoice": "hackgermany",
@@ -37725,7 +37731,7 @@
     "editorialVoice": "hackgermany",
     "id": "de-kleinunternehmer-22000",
     "categoryId": "self_employment",
-    "title": "Small business (Kleinunternehmer) §19 UStG: €22 000",
+    "title": "Small business (Kleinunternehmer) §19 UStG: 22 000 → 25 000 €",
     "tldr": "The small-business scheme (Kleinunternehmerregelung, §19 UStG) lets a small business NOT charge VAT (Umsatzsteuer) and skip the complex VAT reporting. NOTE: from 1 January 2025 a reform changed the thresholds — it is NO LONGER the old 22 000 €. The new limits: turnover in the PREVIOUS year up to 25 000 € (net) AND in the CURRENT year up to 100 000 €. If you exceed 100 000 € in the current year, the small-business (Kleinunternehmer) status is lost immediately from that transaction. Pros: invoices without VAT (advantageous for private clients), less bureaucracy, no monthly advance VAT return (Umsatzsteuer-Voranmeldung). Cons: you can't reclaim input VAT (Vorsteuer) on your purchases, which is a disadvantage with large investments. You choose the status in the tax-registration questionnaire (Fragebogen zur steuerlichen Erfassung) via the tax portal ELSTER. Since 2025, small businesses are formally exempt but are obliged to accept an electronic invoice (E-Rechnung) from B2B counterparties.",
     "tags": [
       "kleinunternehmer",
@@ -37880,7 +37886,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -40861,7 +40867,12 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -41217,7 +41228,12 @@
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -41862,9 +41878,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "A BAföG reform was approved by the cabinet on 12.08.2026 (now in the Bundestag): the housing allowance rises 380 → 440 € from 01.04.2027 and the base rate 475 → 503 € from winter semester 2027/28. No increase for WS 2026/27 — current rates apply.",
+      "expectedDate": "2027-04-01",
+      "sourceUrl": "https://www.bmftr.bund.de/SharedDocs/Kurzmeldungen/DE/2026/08/120826-bafoeg-kabinettsbeschluss.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -43362,7 +43383,7 @@
     "id": "de-hort-after-school",
     "categoryId": "education_children",
     "title": "After-school care (Hort): after school",
-    "tldr": "After-school care (Hort) is an extended-day group for primary-school children (Grundschule, grades 1–4). After lessons the child stays under supervision: lunch, help with homework (Hausaufgabenbetreuung), games and a holiday programme. After-school care can be attached to the school or be a separate municipal facility; a place is requested through the youth welfare office (Jugendamt) or directly at the school. The fee depends on the family's income (0–200 €/month), with meals charged separately. From 2026, a legal right (Rechtsanspruch) to all-day after-school care (all-day supervision, Ganztagsbetreuung) for primary-school children is being phased in under the All-Day Support Act (Ganztagsförderungsgesetz).",
+    "tldr": "After-school care (Hort) is an extended-day group for primary-school children (Grundschule, grades 1–4). After lessons the child stays under supervision: lunch, help with homework (Hausaufgabenbetreuung), games and a holiday programme. After-school care can be attached to the school or be a separate municipal facility; a place is requested through the youth welfare office (Jugendamt) or directly at the school. The fee depends on the family's income (0–200 €/month), with meals charged separately. Since 1 August 2026 a legal right (Rechtsanspruch) to all-day care (Ganztagsbetreuung) applies to first-graders under the All-Day Support Act (Ganztagsförderungsgesetz); it is phased in year by year until it covers all primary grades by 2029/30.",
     "tags": [
       "hort",
       "school",
@@ -43556,9 +43577,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Since 01.08.2026 first-graders have a legal right to all-day care (Ganztag); phased in for all grades by 2029/30."
   },
   {
     "editorialVoice": "hackgermany",
@@ -48872,9 +48895,14 @@
       }
     ],
     "lastRetrieved": "2026-06-16",
-    "lastVerified": "2026-06-16",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "From 2027 the Deutschlandticket price is set by an index model (transport ministers' decision, March 2026); the new price will be announced by 30.09.2026. Until the end of 2026 it stays at €63/month.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -49016,9 +49044,14 @@
       }
     ],
     "lastRetrieved": "2026-06-16",
-    "lastVerified": "2026-06-16",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "From 2027 the Deutschlandticket price is set by an index model (transport ministers' decision, March 2026); the new price will be announced by 30.09.2026. Until the end of 2026 it stays at €63/month.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -54994,7 +55027,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "A decision within 2-4 weeks. Payment monthly via a payment card (Bezahlkarte; since 2024 in most states — a card instead of cash, with a cash-withdrawal limit of 50€/month)."
+                    "text": "A decision within 2-4 weeks. Payment monthly via a payment card (Bezahlkarte): by August 2026 it is introduced in all 16 states (Berlin last), though some municipalities do not use it; the cash-withdrawal limit is usually 50€/month, higher in some states."
                   }
                 ]
               }
@@ -55090,7 +55123,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -55511,7 +55544,7 @@
           },
           {
             "kind": "warning",
-            "text": "The protected-assets threshold (Vermögensfreigrenze; protected assets, Schonvermögen): in the first year of receipt (waiting period, Karenzzeit) — 40.000€ for the head of the household of need (Bedarfsgemeinschaft) plus 15.000€ for each further member, thereafter 15.000€ per person. From 1 July 2026, under the reform \"new basic security\" (neue Grundsicherung; Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende), the rules on the waiting period (Karenzzeit) and protected assets (Schonvermögen) change — check the version of the SGB II in force."
+            "text": "The protected-assets threshold (Vermögensfreigrenze; protected assets, Schonvermögen): in the first year of receipt (waiting period, Karenzzeit) — 40.000€ for the head of the household of need (Bedarfsgemeinschaft) plus 15.000€ for each further member, thereafter 15.000€ per person. From 1 July 2026, under the reform \"new basic security\" (neue Grundsicherung; Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende), the rules on the waiting period (Karenzzeit) and protected assets (Schonvermögen) have changed: the one-year asset grace period was abolished, limits now depend on age and sanctions were tightened — check the version of the SGB II in force."
           }
         ]
       }
@@ -55571,7 +55604,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -55580,7 +55613,7 @@
     "id": "de-buergergeld-rules",
     "categoryId": "family_social",
     "title": "Bürgergeld: rates 2026",
-    "tldr": "The basic benefit (Bürgergeld; SGB II) replaced Hartz IV on 1.1.2023. The standard need (Regelbedarf) in 2026 is 563€/month for a single person (level, Stufe, 1); the rate was not raised compared with 2025 (a zero round, Nullrunde). Children 0–5 years: 357€; 6–13: 390€; 14–17: 471€. On top — housing costs (KdU, Kosten der Unterkunft): rent (Miete) and heating costs (Heizkosten) within the limits of appropriateness (Angemessenheit). From 1 July 2026 the basic benefit is renamed \"new basic security\" (neue Grundsicherung), but the standard rate (Regelsatz) itself stays at 563€.",
+    "tldr": "The basic benefit (Bürgergeld; SGB II) replaced Hartz IV on 1.1.2023. The standard need (Regelbedarf) in 2026 is 563€/month for a single person (level, Stufe, 1); the rate was not raised compared with 2025 (a zero round, Nullrunde). Children 0–5 years: 357€; 6–13: 390€; 14–17: 471€. On top — housing costs (KdU, Kosten der Unterkunft): rent (Miete) and heating costs (Heizkosten) within the limits of appropriateness (Angemessenheit). Since 1 July 2026 the reform is in force: the benefit is now called \"new basic security\" (neue Grundsicherung, paid as Grundsicherungsgeld), sanctions for missed appointments and refusing work have been tightened, but the standard rate (Regelsatz) has stayed at 563€.",
     "tags": [
       "Bürgergeld",
       "SGB II",
@@ -55806,9 +55839,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Reform in force since 01.07.2026: Bürgergeld → 'new basic security' (Grundsicherungsgeld), tougher sanctions; the 563 € rate is unchanged."
   },
   {
     "editorialVoice": "hackgermany",
@@ -81672,9 +81707,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Draft law (cabinet 06.07.2026): from 2027 the planned Wohngeld indexation would be cancelled, the heating component cut and the formula tightened (payments under €15/month dropped). NOT passed yet — the current 2026 amounts apply.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/neuordnung-wohngeld-2445796"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -85532,7 +85572,12 @@
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -86716,7 +86761,12 @@
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "expectedDate": "2026-11-01",
+      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -86875,9 +86925,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "From 2027 the Deutschlandticket price is set by an index model (transport ministers' decision, March 2026); the new price will be announced by 30.09.2026. Until the end of 2026 it stays at €63/month.",
+      "expectedDate": "2027-01-01",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -93910,7 +93965,7 @@
               "A valid passport (and copies of the pages)",
               "Current residence permit (the eAT card)",
               "A completed application form Antrag auf Erteilung einer Niederlassungserlaubnis",
-              "1-2 current biometric photos",
+              "A current biometric photo (digital: code from a photographer or the office terminal)",
               "A registration certificate (Meldebescheinigung) — proof of registration at your address",
               "Valid proof of health insurance"
             ]
@@ -94045,7 +94100,7 @@
         "label": "Biometrische Passfotos",
         "amountEURMin": 10,
         "amountEURMax": 20,
-        "note": "In a photo booth or photo studio."
+        "note": "From a certified photographer or at the authority's photo terminal (~€6); paper photos are no longer accepted."
       },
       {
         "label": "Beglaubigte Übersetzung of documents",
@@ -94940,7 +94995,8 @@
               "Deferral (Aufschub) / late retirement: for each month after the standard retirement age the pension grows by 0.5% (a supplement, Zuschlag), plus you accrue new pension points (Entgeltpunkte)",
               "Flexible pension (Flexirente): a combination of a partial pension + additional earnings (Hinzuverdienst) + additional contributions",
               "Pension for severely disabled people (Rente für schwerbehinderte Menschen, §37 SGB VI): with a degree of disability (GdB) of 50+, earlier retirement with smaller deductions is possible",
-              "Request a free pension statement (Rentenauskunft) / pension consultation (Rentenberatung) from the German Pension Insurance (DRV) before deciding"
+              "Request a free pension statement (Rentenauskunft) / pension consultation (Rentenberatung) from the German Pension Insurance (DRV) before deciding",
+              "Aktivrente since 01.01.2026: after reaching the regular retirement age (Regelaltersgrenze), up to €2,000 gross/month of employed income is free of income tax (§3 Nr. 21 EStG); social contributions are still due, and the benefit does not apply to minijobs or the self-employed"
             ]
           },
           {
@@ -95003,9 +95059,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-01",
+    "changeSummary": "Aktivrente: from 01.01.2026 up to €2,000/month earned past retirement age is income-tax-free (§3 Nr. 21 EStG)."
   },
   {
     "editorialVoice": "hackgermany",
