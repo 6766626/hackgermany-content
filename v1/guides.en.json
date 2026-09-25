@@ -17691,7 +17691,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "If you don't reach B1 and you meet the BAMF conditions, you are entitled to one free retake — usually after an additional 'Wiederholerkurs' (up to 300 teaching hours). This is a significant bonus — don't miss it."
+                    "text": "If you don't reach B1, repeating the course (up to 300 teaching hours) with another test attempt under the current §13 IntV is only available to those who attended a literacy course (Alphabetisierungskurs) or a special course. Everyone else should check with BAMF or the course provider (Träger) how to retake the test."
                   }
                 ]
               }
@@ -17741,12 +17741,12 @@
       {
         "label": "Wiederholerkurs (up to 300 hours)",
         "amountEUR": 0,
-        "note": "Free for those who don't pass the DTZ at B1 on the first attempt"
+        "note": "Only after a literacy course or a special course (§13 IntV)"
       },
       {
         "label": "50% Integrationskurs refund",
-        "amountEUR": -770,
-        "note": "If you self-paid €1540 and passed B1 within 2 years — €770 is refunded under §9 IntV"
+        "amountEUR": -802,
+        "note": "If you self-paid €1603 (2.29 € × 700 h) and passed B1 within 2 years — ≈€802 is refunded under §9 IntV"
       }
     ],
     "sources": [
@@ -17786,7 +17786,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -18353,7 +18353,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Under §44 Abs. 4, EU citizens can be granted the right (admission, Zulassung) if there is an 'Integrationsbedarf'. The BAMF decides on a case-by-case basis. In practice it is granted if your German is at a low level and you plan to live in Germany long-term."
+                    "text": "Under §44 Abs. 4, EU citizens can be granted the right (admission, Zulassung) if there is an 'Integrationsbedarf'. The BAMF decides on a case-by-case basis. Currently (2026) admission is only possible for free places and within the budget: priority goes to §24 holders and German/EU citizens whose German is not sufficient for work, plus their family members; applications are processed in order of receipt."
                   }
                 ]
               },
@@ -18441,7 +18441,7 @@
                       "A copy of the Aufenthaltstitel or temporary proof of legal status (Fiktionsbescheinigung)",
                       "A copy of your passport",
                       "A free-form statement of the reason (for EU citizens)",
-                      "Submit by post to the Regionalstelle BAMF (address by PLZ) or in person"
+                      "Submit online via the Bundesportal (recommended by BAMF) or by post to the Regionalstelle BAMF (address by PLZ)"
                     ]
                   }
                 ]
@@ -18571,7 +18571,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
     "recentlyChangedAt": "2026-09-01",
@@ -20027,7 +20027,7 @@
     "id": "de-bonusheft-dental",
     "categoryId": "healthcare",
     "title": "Bonusheft: a discount on crowns",
-    "tldr": "The bonus booklet (Bonusheft) is a paper or electronic booklet recording your regular dental visits. Under §55 SGB V, regular check-ups raise the base fixed subsidy (Festzuschuss) for dental prosthetics (Zahnersatz): 5 years without gaps — by 20% (70% of the standard in total), 10 years — by 30% (75% in total). Without a bonus booklet, in 2026 the fund pays the basic 60%. From 1 January 2027 the rates are due to fall: the GKV-Beitragssatzstabilisierungsgesetz was approved by the Cabinet on 29.04.2026, but is still going through the Bundestag/Bundesrat — the final text may change, so check that it is up to date.",
+    "tldr": "The bonus booklet (Bonusheft) is a paper or electronic booklet recording your regular dental visits. Under §55 SGB V, regular check-ups raise the base fixed subsidy (Festzuschuss) for dental prosthetics (Zahnersatz): 5 years without gaps — by 20% (70% of the standard in total), 10 years — by 30% (75% in total). Without a bonus booklet, in 2026 the fund pays the basic 60%. From 1 January 2027 the rates fall to 50% / 60% / 65%: the GKV-Beitragssatzstabilisierungsgesetz was passed on 10.07.2026 (BGBl. 2026 I Nr. 228). A treatment plan approved by the fund before 01.01.2027 keeps the previous rates.",
     "tags": [
       "dentist",
       "bonusheft",
@@ -20070,7 +20070,7 @@
               "5 years of regular visits — a bonus of +20%, 70% in total",
               "10 years of regular visits — a bonus of +30%, 75% in total",
               "Hardship rule (Härtefallregelung): on a low income the fund covers 100% of the standard treatment",
-              "From 1 January 2027 the rates are due to fall to 50% / 60% / 65% (GKV-Beitragssatzstabilisierungsgesetz, approved by the Cabinet on 29.04.2026, at the Bundestag/Bundesrat stage)"
+              "From 1 January 2027 the rates fall to 50% / 60% / 65% (GKV-Beitragssatzstabilisierungsgesetz, passed on 10.07.2026)"
             ]
           }
         ]
@@ -20148,7 +20148,7 @@
           },
           {
             "kind": "warning",
-            "text": "If the 2027 reform comes into force, having a bonus booklet will still be more advantageous than not having one — but the absolute amount of the fixed subsidy will fall (60% → 50%, 70% → 60%, 75% → 65%). The hardship rule for low-income people is retained. Expensive prosthetics with a medical indication are worth planning before the changes."
+            "text": "After the 2027 reform, having a bonus booklet will still be more advantageous than not having one — but the absolute amount of the fixed subsidy will fall (60% → 50%, 70% → 60%, 75% → 65%). The hardship rule for low-income people is retained. Expensive prosthetics with a medical indication are worth getting approved by your fund (treatment plan, Heil- und Kostenplan) while still in 2026."
           }
         ]
       }
@@ -20214,9 +20214,16 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "From 01.01.2027 the fund's fixed subsidy for dental prosthetics (Festzuschuss) falls from 60% to 50% (with a bonus booklet: 70% → 60%, 75% → 65%) — the BStabG has been passed. Tip: if you need a prosthesis, get the treatment plan (Heil- und Kostenplan) approved in 2026.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Law passed: from 2027 the fund pays 50% instead of 60% for dentures — get the treatment plan approved in 2026."
   },
   {
     "editorialVoice": "hackgermany",
@@ -20493,7 +20500,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "10% of the price, minimum 5€, maximum 10€ per pack (current in 2026). From 2027 the threshold is due to rise to 7,50€ / 15€ — the GKV-Beitragssatzstabilisierungsgesetz was approved by the Cabinet on 29.04.2026 and is going through the Bundestag/Bundesrat; watch for the final version."
+                    "text": "10% of the price, minimum 5€, maximum 10€ per pack (current in 2026). From 01.01.2027 the threshold rises to 7,50€ / 15€ — the GKV-Beitragssatzstabilisierungsgesetz was passed on 10.07.2026."
                   }
                 ]
               },
@@ -20633,9 +20640,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "The BStabG has been passed: from 01.01.2027 GKV co-payments rise by 50% — €7.50–15 instead of €5–10 per prescription item. The fund's fixed subsidy for dentures falls from 60% to 50% (60% / 65% with a bonus booklet).",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -21551,9 +21563,16 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "The BStabG has been passed: from 01.01.2028 a member who covers a spouse or partner through family insurance pays a surcharge of 2.5 percentage points on their own rate — entirely themselves, with no employer share. Exceptions include a child under 12 or a child with a disability in the household, or caring for a relative with care level 2 or higher. Children stay insured for free.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2028-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "From 2028 a 2.5-point surcharge for a family-insured spouse (BStabG)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -22211,9 +22230,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "BMAS draft ordinance (21.09.2026, not yet approved by the cabinet and the Bundesrat): in 2027 the threshold for leaving GKV (Versicherungspflichtgrenze) would be €84,150 a year and the health/care contribution ceiling (Beitragsbemessungsgrenze) €6,375 a month (€76,500 a year).",
+      "sourceUrl": "https://www.bmas.de/DE/Service/Presse/Meldungen/2026/referentenentwurf-zur-sozialversicherungsrechengroessen-verordnung-2027.html",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -25908,9 +25932,13 @@
       }
     ],
     "lastRetrieved": "2026-05-29",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Draft law (cabinet 29.04.2026, now in a Bundestag committee, not yet passed): in tight markets an index rent (Indexmiete) could only pass on half of any inflation above 3% a year; the furniture surcharge must be shown separately (a flat 10% of the rent); short-term lets limited to 6 months (extendable to 8).",
+      "sourceUrl": "https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0429_Miete_II.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -29039,9 +29067,14 @@
         "lastVerified": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Draft law (cabinet 02.09.2026, not yet passed): from 2027 the employee lump-sum deduction (Arbeitnehmer-Pauschbetrag) would rise from €1,230 to €1,430 and the basic tax-free allowance (Grundfreibetrag) to €12,564. For 2026 returns, €1,230 applies.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -30732,7 +30765,7 @@
             "kind": "checklist",
             "items": [
               "Mandatory filing without a tax advisor: 31 July of the following year (for 2026 → 31.07.2027)",
-              "Mandatory filing through a tax advisor or income-tax assistance association: the last day of February of the year after that (for 2026 → 28.02.2028)",
+              "Mandatory filing through a tax advisor or income-tax assistance association: the last day of February of the year after that (for 2026 → 29.02.2028)",
               "Filing on request (voluntary): 4 years (for 2026 → 31.12.2030)",
               "Late-filing surcharge (§152 AO): 0,25% of the tax owed for each month of delay, minimum 25€/month, maximum 25.000€",
               "For very long delays — an estimate (Schätzung) of the tax base by the tax office, usually to your disadvantage"
@@ -30920,7 +30953,7 @@
         "lastVerified": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -31816,9 +31849,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Draft law (cabinet 02.09.2026, not yet passed): from 2027 the deduction for tradespeople's work (Handwerkerleistungen, §35a EStG) would drop from 20% to 15%, with the maximum falling from €1,200 to €900 a year. Work done and paid for in 2026 still gets the current deduction.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -32347,7 +32385,7 @@
     "id": "de-lohnsteuerhilfeverein",
     "categoryId": "taxes",
     "title": "Lohnsteuerhilfeverein: a cheap alternative",
-    "tldr": "An income tax assistance association (Lohnsteuerhilfeverein) is a non-profit association that prepares tax returns for employees and pensioners for a fixed annual membership fee (roughly 50-200€ depending on income), rather than for a percentage of the refund. It's cheaper than a tax advisor (Steuerberater) and gives you live advice, unlike software. The key limitation under §4 StBerG: they can only help with employee/pensioner income types (salary, pension, rental within small limits, etc.). If you have income from self-employment or business (the Anlage S/G attachments), the association is NOT allowed to help you — then you need a tax advisor. As a member, you get an extended filing deadline (until roughly the end of February).",
+    "tldr": "An income tax assistance association (Lohnsteuerhilfeverein) is a non-profit association that prepares tax returns for employees and pensioners for a fixed annual membership fee (roughly 50-200€ depending on income), rather than for a percentage of the refund. It's cheaper than a tax advisor (Steuerberater) and gives you live advice, unlike software. The key limitation under §4 StBerG: they can only help with employee/pensioner income types (salary, pension and — since 01.09.2026 — capital and rental income without the former 18 000/36 000 € cap). If you have income from self-employment or business (the Anlage S/G attachments), the association is NOT allowed to help you — then you need a tax advisor. As a member, you get an extended filing deadline (until roughly the end of February).",
     "tags": [
       "lohnsteuerhilfeverein",
       "consultation",
@@ -32362,7 +32400,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "An income tax assistance association (Lohnsteuerhilfeverein, often abbreviated LStHV) is a mutual-aid association entitled to provide tax assistance within the scope of §4 Nr. 11 StBerG. You join a local branch and pay an annual membership fee, the amount of which depends on your annual income (a fee scale — Beitragsstaffel). In return, they handle your tax return in full and advise you."
+            "text": "An income tax assistance association (Lohnsteuerhilfeverein, often abbreviated LStHV) is a mutual-aid association entitled to provide tax assistance within the scope of §4 StBerG. You join a local branch and pay an annual membership fee, the amount of which depends on your annual income (a fee scale — Beitragsstaffel). In return, they handle your tax return in full and advise you."
           },
           {
             "kind": "checklist",
@@ -32382,16 +32420,16 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "This is the main thing to understand. By law (§4 Nr. 11 StBerG), an income tax assistance association (Lohnsteuerhilfeverein) is only allowed to handle returns for certain types of income — mainly salary, pension, state benefits, capital income and rental within set limits. If you have income from self-employment, freelancing or business activity (income from self-employed work — Einkünfte aus selbständiger Arbeit; a trade — Gewerbe; the Anlage S or G attachments), they are NOT allowed to help you."
+            "text": "This is the main thing to understand. By law (§4 StBerG), an income tax assistance association (Lohnsteuerhilfeverein) is only allowed to handle returns for certain types of income — mainly salary, pension, state benefits, capital income and rental income (since 01.09.2026 with no income cap; previously 18 000 €, or 36 000 € for joint assessment, per year). If you have income from self-employment, freelancing or business activity (income from self-employed work — Einkünfte aus selbständiger Arbeit; a trade — Gewerbe; the Anlage S or G attachments), they are NOT allowed to help you."
           },
           {
             "kind": "warning",
-            "text": "Even a small amount of income from self-employment or freelancing (the Anlage S/G attachments) takes you outside the authority of an income tax assistance association. In that case the return must be handled by a tax advisor (Steuerberater). Don't try to hide such income — the association is obliged to refuse."
+            "text": "Even a small amount of income from self-employment or freelancing (the Anlage S/G attachments) takes you outside the authority of an income tax assistance association. In that case the return must be handled by a tax advisor (Steuerberater). Don't try to hide such income — the association is obliged to refuse. The exception is fully tax-free income, such as a coach's or volunteer allowance (Übungsleiter-/Ehrenamtspauschale, §3 Nr. 26/26a EStG) or a small solar installation (§3 Nr. 72 EStG)."
           },
           {
             "kind": "checklist",
             "items": [
-              "Allowed: salary (the Anlage N attachment), pension, parental allowance (Elterngeld)/unemployment benefit (Arbeitslosengeld), capital income (the Anlage KAP attachment), rental within the limit",
+              "Allowed: salary (the Anlage N attachment), pension, parental allowance (Elterngeld)/unemployment benefit (Arbeitslosengeld), capital income (the Anlage KAP attachment), rental (no cap since 01.09.2026)",
               "Not allowed: income from self-employment/freelancing (the Anlage S attachment), business activity (the Anlage G attachment), agriculture",
               "With mixed income that includes self-employment — only a tax advisor (Steuerberater)"
             ]
@@ -32476,9 +32514,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Since 01.09.2026 Lohnsteuerhilfevereine may advise on rental and capital income with no 18 000/36 000 € cap."
   },
   {
     "editorialVoice": "hackgermany",
@@ -36102,7 +36142,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "The main financial difference is the trade tax (Gewerbesteuer, GewSt). For a trade it amounts to 7-17% of profit (the municipal rate Hebesatz depends on the municipality Gemeinde: Berlin 410%, Munich 490%, Frankfurt 460%). The tax-free allowance (Freibetrag) for a sole trader (Einzelunternehmer) is 24.500€/year (§11 Abs. 1 GewStG)."
+            "text": "The main financial difference is the trade tax (Gewerbesteuer, GewSt). For a trade it amounts to 7-17% of profit (from 2027 the minimum Hebesatz is 280%, i.e. at least ~9.8%) (the municipal rate Hebesatz depends on the municipality Gemeinde: Berlin 410%, Munich 490%, Frankfurt 460%). The tax-free allowance (Freibetrag) for a sole trader (Einzelunternehmer) is 24.500€/year (§11 Abs. 1 GewStG)."
           },
           {
             "kind": "checklist",
@@ -36213,7 +36253,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -37826,7 +37866,7 @@
               "A voluntary waiver (Verzicht) binds you for 5 years — think it through",
               "On invoices, state the basis: 'Steuerbefreiung als Kleinunternehmer nach §19 UStG'",
               "Since 2025: even small businesses are obliged to ACCEPT an electronic invoice (E-Rechnung) from B2B counterparties",
-              "Issuing an electronic invoice (E-Rechnung) yourself will become mandatory later: from 2027 (turnover >800 000 €), from 2028 — for everyone in B2B"
+              "Small businesses are not required to issue E-Rechnungen themselves, even after 2027/2028: under §34a UStDV they may keep sending ordinary invoices (PDF or paper)"
             ]
           },
           {
@@ -37886,7 +37926,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -40865,13 +40905,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -41226,13 +41266,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -41878,11 +41918,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "A BAföG reform was approved by the cabinet on 12.08.2026 (now in the Bundestag): the housing allowance rises 380 → 440 € from 01.04.2027 and the base rate 475 → 503 € from winter semester 2027/28. No increase for WS 2026/27 — current rates apply.",
+      "summary": "BAföG reform (cabinet 12.08.2026; Bundesrat opinion 25.09.2026, now in the Bundestag — not yet law): housing allowance 380 → 440 € from 01.04.2027, base rate 475 → 503 € from winter semester 2027/28 and 563 € from 01.04.2029; applications only via BAföG Digital. No increase for WS 2026/27 — current rates apply.",
       "expectedDate": "2027-04-01",
       "sourceUrl": "https://www.bmftr.bund.de/SharedDocs/Kurzmeldungen/DE/2026/08/120826-bafoeg-kabinettsbeschluss.html"
     }
@@ -43813,9 +43853,16 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "From 01.01.2027 Kindergeld will be granted without an application when the Familienkasse already has the family's data: the law was approved by the Bundestag (09.07.2026) and the Bundesrat (25.09.2026) and is rolled out in stages during 2027. Separately, a government bill (cabinet 02.09.2026) would raise Kindergeld from 259 to 267 € in 2027 and 272 € in 2028 — not yet passed.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Kindergeld without an application from 2027 (approved 25.09.2026); a rise to €267 is still a draft."
   },
   {
     "editorialVoice": "hackgermany",
@@ -45877,7 +45924,7 @@
         "content": [
           {
             "kind": "warning",
-            "text": "A questionnaire (Anhörungsbogen) arrives 6-8 weeks before the fine notice (Bußgeldbescheid). You have the right not to incriminate yourself — you are not obliged to say who was driving. Sometimes a case is dropped because the limitation period has run out (Verjährungsfrist — 3 months for administrative offences, Ordnungswidrigkeiten)."
+            "text": "A questionnaire (Anhörungsbogen) arrives 6-8 weeks before the fine notice (Bußgeldbescheid). You have the right not to incriminate yourself — you are not obliged to say who was driving. Sometimes a case is dropped because the limitation period has run out (Verjährungsfrist — now six months for traffic administrative offences, Ordnungswidrigkeiten, §26 Abs. 3 StVG; previously 3 months)."
           },
           {
             "kind": "warning",
@@ -45987,7 +46034,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -49187,9 +49234,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Law passed (Bundestag 09.07.2026, Bundesrat 25.09.2026): the §8 StVG exemption is removed for e-scooters, so their owners, including rental companies, will be liable for damage regardless of fault — making it easier for injured people to get compensation. It takes effect on the first day of the quarter after publication.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -52722,7 +52773,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "Pharmacies are recognizable by the red Gothic letter A on a white background. Opening hours are usually Mo–Fr 8:30–18:30, Sa until 13:00–14:00. On Sundays and holidays only the on-call ones are open (Notdienst-Apotheke) — they take turns by district."
+            "text": "Pharmacies are recognizable by the red Gothic letter A on a white background. Opening hours are usually Mo–Fr 8:30–18:30, Sa until 13:00–14:00, but under the pharmacy regulation reform (ApBetrO, September 2026) the mandatory minimum is 6 hours on weekdays between 8:00 and 18:00, and opening on Saturday is no longer required. Hours are becoming more varied — check the specific pharmacy. On Sundays and holidays only the on-call ones are open (Notdienst-Apotheke) — they take turns by district."
           },
           {
             "kind": "checklist",
@@ -52844,7 +52895,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
     "pendingLaw": {
@@ -55540,11 +55591,11 @@
           },
           {
             "kind": "warning",
-            "text": "The waiting period (Karenzzeit; the first year of the basic benefit, Bürgergeld) has been sharply cut by reform since 2025: rent costs (Mietkosten) are checked immediately, the appropriateness requirement (Angemessenheit) is strict. The figures depend on the city (the official rent index, Mietspiegel)."
+            "text": "The housing waiting period (Karenzzeit) is the first year of receipt: rent is paid at the actual amount, but no more than 1.5 times the local appropriateness limit (Angemessenheit); after that, only up to the limit. The figures depend on the city (the official rent index, Mietspiegel)."
           },
           {
             "kind": "warning",
-            "text": "The protected-assets threshold (Vermögensfreigrenze; protected assets, Schonvermögen): in the first year of receipt (waiting period, Karenzzeit) — 40.000€ for the head of the household of need (Bedarfsgemeinschaft) plus 15.000€ for each further member, thereafter 15.000€ per person. From 1 July 2026, under the reform \"new basic security\" (neue Grundsicherung; Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende), the rules on the waiting period (Karenzzeit) and protected assets (Schonvermögen) have changed: the one-year asset grace period was abolished, limits now depend on age and sanctions were tightened — check the version of the SGB II in force."
+            "text": "Protected assets (Vermögensfreigrenze; Schonvermögen, §12 SGB II): since 01.07.2026, for each member of the household of need (Bedarfsgemeinschaft) — 5 000 € up to age 30, 10 000 € from 31, 12 500 € from 41, 20 000 € from 51; unused allowances are transferred to other family members. The former grace year (40 000 € in the first year) no longer exists."
           }
         ]
       }
@@ -55604,7 +55655,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -55628,7 +55679,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "The basic benefit (Bürgergeld) is the social minimum provision for people able to work (erwerbsfähige Personen; 15-67 years) and their family members. Introduced by the reform of 1.1.2023 (the basic-benefit act, Bürgergeld-Gesetz, of 16.12.2022) in place of Hartz IV / Arbeitslosengeld II. Since 2025 some of the reform's easings have been rolled back (the growth initiative, Wachstumsinitiative): tougher sanctions, a lower protected-assets threshold (Vermögensfreigrenze)."
+            "text": "The basic benefit (Bürgergeld) is the social minimum provision for people able to work (erwerbsfähige Personen; 15-67 years) and their family members. Introduced by the reform of 1.1.2023 (the basic-benefit act, Bürgergeld-Gesetz, of 16.12.2022) in place of Hartz IV / Arbeitslosengeld II. Since 01.07.2026 it has been replaced by the \"new basic security\" (neue Grundsicherung, paid as Grundsicherungsgeld): tougher sanctions, age-based protected assets and no more grace year for assets."
           },
           {
             "kind": "checklist",
@@ -55636,7 +55687,7 @@
               "Funded by the state through the job centre (Jobcenter; jointly the Federal Employment Agency, BA, + the municipality, Kommune)",
               "Consists of: standard need (Regelbedarf) + additional needs (Mehrbedarfe) + housing costs (KdU) + social insurance (Sozialversicherung)",
               "Income is offset (income offset, Anrechnung) — there are tax-free amounts (Freibeträge) for those who work",
-              "Protected-assets threshold (Vermögensfreigrenze): 15.000€ per person (40.000€ in the first year of the waiting period, Karenzzeit)"
+              "Protected assets (Schonvermögen, §12 SGB II): per person 5 000 € up to age 30, 10 000 € from 31, 12 500 € from 41, 20 000 € from 51; there is no longer a grace year"
             ]
           }
         ]
@@ -55662,7 +55713,7 @@
           },
           {
             "kind": "warning",
-            "text": "Important: 2026 is a freeze (protection of the level reached, Besitzschutz, under §28a Abs.5 SGB XII: the calculated amount is 557€, but the rate cannot be lowered, so it stayed at 563€). In addition, from 1 July 2026 the basic benefit (Bürgergeld) is renamed \"new basic security\" (neue Grundsicherung; Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende): the standard rate (Regelsatz) itself stays at 563€, but the rules on the waiting period (Karenzzeit), the treatment of assets (Vermögen) and sanctions change — check the version of the SGB II in force."
+            "text": "Important: 2026 is a freeze (protection of the level reached, Besitzschutz, under §28a Abs.5 SGB XII: the calculated amount is 557€, but the rate cannot be lowered, so it stayed at 563€). In addition, since 1 July 2026 the \"new basic security\" (neue Grundsicherung; Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende) has been in force: the standard rate (Regelsatz) has stayed at 563€, while the rules on assets (Vermögen) and sanctions have been tightened — details below."
           }
         ]
       },
@@ -55679,11 +55730,11 @@
             "items": [
               {
                 "id": "kdu1",
-                "title": "Waiting period (Karenzzeit; cut back since 2025)",
+                "title": "Waiting period (Karenzzeit) — the first year",
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Previously: in the first year any rent (Miete) is paid. Since 2025 this has been abolished for new recipients in most cases — an appropriateness check (Angemessenheit) straight away."
+                    "text": "In the first year of receipt (Karenzzeit, §22 Abs. 1 SGB II) rent (Miete) is paid at the actual amount, but no more than 1.5 times the local appropriateness limit (Angemessenheit). The Karenzzeit does not cover heating costs (Heizkosten) — they are paid only up to the appropriate level."
                   }
                 ]
               },
@@ -55739,7 +55790,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Since 28.3.2024 (the Bundestag decision, Bundestag-Beschluss, \"Totalverweigerer-Sanktionen\") sanctions have been tightened — the Federal Constitutional Court (Bundesverfassungsgericht) in 2019 (1 BvL 7/16) allowed reductions of up to 30%, with the new regulation up to 100% for a total refusal to cooperate (Totalverweigerung)."
+            "text": "Since 01.07.2026 (the \"new basic security\" reform) sanctions have been tightened: each breach of duties cuts the standard rate by 30% (30% in total at most), a missed appointment (Meldeversäumnis) cuts it by 30% for a month, and if you refuse reasonable work (zumutbare Arbeit) the standard rate is not paid at all, while housing costs are paid directly to the landlord. In 2019 the Federal Constitutional Court (Bundesverfassungsgericht, 1 BvL 7/16) allowed reductions of up to 30%."
           },
           {
             "kind": "checklist",
@@ -55747,8 +55798,8 @@
               "Duty to apply for jobs (Bewerbungspflicht) — job search, reports to the job centre (Jobcenter)",
               "Cooperation plan (Kooperationsplan; §15 SGB II) — replaced the integration agreement (Eingliederungsvereinbarung)",
               "Duty to appear (Meldepflicht): attendance when summoned by the job centre (Jobcenter)",
-              "Sanctions of 10% / 20% / 30% for breaches (§31a)",
-              "On a total refusal to cooperate (Totalverweigerung) — up to 100% of the standard rate (Regelsatz) for 2 months (housing costs, KdU, remain)"
+              "Sanctions: minus 30% of the standard rate for a breach of duties (§31a), 30% in total at most",
+              "If you refuse reasonable work — the standard rate (Regelsatz) is withdrawn completely (§31a Abs. 7); housing costs (KdU) are paid directly to the landlord"
             ]
           },
           {
@@ -55839,11 +55890,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
-    "recentlyChangedAt": "2026-09-01",
-    "changeSummary": "Reform in force since 01.07.2026: Bürgergeld → 'new basic security' (Grundsicherungsgeld), tougher sanctions; the 563 € rate is unchanged."
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Since 01.07.2026: protected assets €5,000–20,000 by age, 30% sanctions, full loss of the rate for refusing work."
   },
   {
     "editorialVoice": "hackgermany",
@@ -60265,9 +60316,16 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Reform passed (Altersvorsorgereformgesetz, 2026): from 01.01.2027 no new Riester contracts can be signed; instead there is a state-subsidised pension depot (Altersvorsorgedepot): 50 ct per euro up to €360/year plus 25 ct up to €1,800 (max. €540), up to €300 a year per child, and a one-off €200 bonus for starters under 25; the self-employed are eligible too. Existing Riester contracts continue.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/reform-private-altersvorsorge-2400072",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Riester reform passed: from 2027 a pension depot with up to €540/year subsidy; no new Riester contracts."
   },
   {
     "editorialVoice": "hackgermany",
@@ -65426,7 +65484,7 @@
             "items": [
               "Admission by a university (Zulassungsbescheid)",
               "The APS certificate (APS-Zertifikat)",
-              "Financial proof: a blocked account (Sperrkonto) of 12,324€ (1027€×12) for 2026",
+              "Financial proof: a blocked account (Sperrkonto) of 11,904€ (992€×12) for 2026",
               "Health insurance",
               "Language: German DSH-2/TestDaF 4 or English B2-C1 (depending on the programme)",
               "Apply for the visa at the embassy or consulate-general responsible for your place of registration in China",
@@ -65531,7 +65589,7 @@
       },
       {
         "label": "Sperrkonto for one year",
-        "amountEUR": 12324.0,
+        "amountEUR": 11904.0,
         "note": "992€×12 months for students for 2026 (for Chancenkarte — 1027€×12); the money stays yours"
       },
       {
@@ -65590,7 +65648,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -66020,7 +66078,7 @@
           {
             "kind": "checklist",
             "items": [
-              "Students: admission (Zulassung) + a blocked account (Sperrkonto) of 12,324€ + insurance + APS (not required for Indians, unlike the PRC)",
+              "Students: admission (Zulassung) + a blocked account (Sperrkonto) of 11,904€ (992€×12) + insurance + APS (not required for Indians, unlike the PRC)",
               "Finances: you can prove a scholarship (Stipendium) from DAAD/Erasmus",
               "Issuing time for a student visa — 6-12 weeks",
               "The right to work: 140 full days or 280 half-days per year",
@@ -66122,7 +66180,7 @@
       {
         "label": "Sperrkonto (for Chancenkarte/students)",
         "amountEUR": 12324.0,
-        "note": "1027€×12 months for 2026"
+        "note": "1027€×12 months for 2026 for the Chancenkarte; for students — 992€×12 = 11,904€"
       }
     ],
     "sources": [
@@ -66176,7 +66234,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -66836,12 +66894,12 @@
     "id": "de-russia-citizens-visa-2026",
     "categoryId": "country_specific",
     "title": "Russian citizens: applying for a visa in 2026",
-    "tldr": "Since 12 September 2022 the EU–Russia Visa Facilitation Agreement has been FULLY suspended (Council Decision (EU) 2022/1500). For Russian citizens this means: the visa fee has risen from 35 € to 80 € (the standard Visa Code fee), more supporting documents are required, processing times are significantly longer, and the rules for issuing multiple-entry visas are stricter. In 2026, applying for a German Schengen/national visa runs through a limited number of locations: the embassy in Moscow and a few representations (intake is heavily reduced). This guide covers the current procedure, the fee, the documents and the realities of getting an appointment.",
+    "tldr": "Since 12 September 2022 the EU–Russia Visa Facilitation Agreement has been FULLY suspended (Council Decision (EU) 2022/1500). For Russian citizens this means: the visa fee has risen from 35 € to 90 € (the standard Visa Code fee), more supporting documents are required, processing times are significantly longer, and the rules for issuing multiple-entry visas are stricter. In 2026, applying for a German Schengen/national visa runs through a limited number of locations: the embassy in Moscow and a few representations (intake is heavily reduced). This guide covers the current procedure, the fee, the documents and the realities of getting an appointment.",
     "tags": [
       "Russia",
       "visa 2026",
       "Council Decision 2022/1500",
-      "80€ fee",
+      "90€ fee",
       "Moscow embassy"
     ],
     "estimatedReadMinutes": 5,
@@ -66857,7 +66915,7 @@
           {
             "kind": "checklist",
             "items": [
-              "Visa fee: 80 € (instead of the former 35 € under the facilitation agreement)",
+              "Visa fee: 90 € (since 11.06.2024; instead of the former 35 € under the facilitation agreement)",
               "More supporting documents (purpose, finances, ties, insurance)",
               "Significantly longer processing times than before",
               "Stricter rules for multiple-entry visas"
@@ -66886,7 +66944,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Short stays up to 90 days. Fee 80 €. Appointments and intake are heavily restricted; processing times are longer than usual. Grounds that are looked on more favourably: visiting close relatives, medical reasons, business/official purposes with an invitation."
+                    "text": "Short stays up to 90 days. Fee 90 €. Appointments and intake are heavily restricted; processing times are longer than usual. Grounds that are looked on more favourably: visiting close relatives, medical reasons, business/official purposes with an invitation."
                   }
                 ]
               },
@@ -66931,8 +66989,8 @@
     "costs": [
       {
         "label": "Schengen visa (type C)",
-        "amountEURMin": 80,
-        "amountEURMax": 80,
+        "amountEURMin": 90,
+        "amountEURMax": 90,
         "note": "Standard Visa Code fee after the suspension of facilitation for Russian citizens."
       },
       {
@@ -66992,7 +67050,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -68497,20 +68555,20 @@
     "editorialVoice": "hackgermany",
     "id": "de-ukraine-temporary-protection",
     "categoryId": "country_specific",
-    "title": "Ukrainians: §24 temporary protection until 2027",
-    "tldr": "Ukrainian citizens receive temporary protection in Germany under §24 AufenthG — the national implementation of the EU Temporary Protection Directive (2001/55/EG), activated by the Council of the EU in March 2022 by an implementing decision (Durchführungsbeschluss 2022/382). Protection has been extended by a Council of the EU decision until 4 March 2027 (approved in June–July 2025). The §24 status grants the right to reside, to work (without a separate permit), access to the basic benefit Bürgergeld (SGB II) and medical care, as well as integration courses. The application runs without an asylum procedure: registration with the immigration office (Ausländerbehörde) and issuance of a residence permit (Aufenthaltstitel) under §24. From this status you can switch to another residence permit (Aufenthaltstitel): work §18, EU Blue Card §18b, study §16b, family reunion. Issuing the residence-permit card (AT) costs around 100€, but for Ukrainians it is often reduced/waived.",
+    "title": "Ukrainians: §24 temporary protection until 2028",
+    "tldr": "Ukrainian citizens receive temporary protection in Germany under §24 AufenthG — the national implementation of the EU Temporary Protection Directive (2001/55/EG), activated by the Council of the EU in March 2022 by an implementing decision (Durchführungsbeschluss 2022/382). Protection has been extended by a Council of the EU decision until 4 March 2028 (Implementing Decision (EU) 2026/1912 of 30.07.2026); people applying for protection for the first time after 30.07.2026 must show they have complied with Ukraine's military obligations. The §24 status grants the right to reside, to work (without a separate permit), access to basic income support (Grundsicherungsgeld, formerly Bürgergeld; SGB II) and medical care, as well as integration courses. The application runs without an asylum procedure: registration with the immigration office (Ausländerbehörde) and issuance of a residence permit (Aufenthaltstitel) under §24. From this status you can switch to another residence permit (Aufenthaltstitel): work §18, EU Blue Card §18b, study §16b, family reunion. Issuing the residence-permit card (AT) costs around 100€, but for Ukrainians it is often reduced/waived.",
     "tags": [
       "Ukraine",
       "§24 AufenthG",
       "temporary protection",
       "Directive 2001/55",
-      "until 2027"
+      "until 2028"
     ],
     "estimatedReadMinutes": 7,
     "steps": [
       {
         "id": "legal-basis",
-        "title": "Legal basis and extension until 2027",
+        "title": "Legal basis and extension until 2028",
         "content": [
           {
             "kind": "paragraph",
@@ -68521,15 +68579,15 @@
             "items": [
               "EU Directive 2001/55/EG — Temporary Protection Directive, activated 04.03.2022",
               "German §24 AufenthG — the national implementation",
-              "Extension: the Council of the EU unanimously approved it in June 2025, formally confirmed until 4 March 2027",
+              "Extension: on 30.07.2026 the Council of the EU extended protection until 4 March 2028 (Decision (EU) 2026/1912)",
               "Status WITHOUT an asylum procedure — no need to go through the asylum procedure (Asylverfahren)",
               "Covers Ukrainian citizens and certain categories of people who were resident in Ukraine on 24.02.2022",
-              "The EU is discussing transitional mechanisms for the period AFTER March 2027"
+              "New condition: first-time applicants after 30.07.2026 must prove compliance with Ukraine's military obligations (e.g. an exit stamp or the Reserve+ app); people already under protection are not affected"
             ]
           },
           {
             "kind": "warning",
-            "text": "§24 is a temporary status. Those who plan to stay long-term should switch to a stable residence permit (Aufenthaltstitel) in good time — work, study, family reunion — rather than waiting for the regime to end in 2027."
+            "text": "§24 is a temporary status. Those who plan to stay long-term should switch to a stable residence permit (Aufenthaltstitel) in good time — work, study, family reunion — rather than waiting for the regime to end (currently March 2028)."
           }
         ]
       },
@@ -68546,7 +68604,7 @@
             "items": [
               "Right to reside on the residence-permit card (Aufenthaltstitel) §24 AufenthG",
               "Right to work — without a separate work permit (Arbeitserlaubnis); employment is allowed immediately",
-              "Access to the basic benefit Bürgergeld (SGB II) through the job centre (Jobcenter) — unlike asylum seekers (AsylbLG)",
+              "Access to basic income support (Grundsicherungsgeld, formerly Bürgergeld; SGB II) through the job centre (Jobcenter) — unlike asylum seekers (AsylbLG)",
               "Medical care through the ordinary insurance system — statutory health insurance (gesetzliche Krankenversicherung)",
               "Right to integration and language courses (Integrationskurs)",
               "Children's access to school and kindergarten",
@@ -68569,7 +68627,7 @@
               "Residence registration (Anmeldung) and contact with the immigration office (Ausländerbehörde)",
               "Proof of Ukrainian citizenship (passport) or of residence status in Ukraine on 24.02.2022",
               "Biometrics and issuance of the residence-permit card (Aufenthaltstitel) §24",
-              "Registration with the job centre (Jobcenter) for the basic benefit Bürgergeld and with a health insurer (Krankenkasse)",
+              "Registration with the job centre (Jobcenter) for basic income support (Grundsicherungsgeld) and with a health insurer (Krankenkasse)",
               "Switch to §18a/§18b (work), §18b Blue Card, §16b (study), §28/§30 (family) — if the conditions are met",
               "Time spent on §24 counts toward the period for naturalisation from the moment the status is granted",
               "Switching to a work residence permit is often better long-term: it does not depend on the temporary-protection regime being extended"
@@ -68577,7 +68635,7 @@
           },
           {
             "kind": "warning",
-            "text": "Follow the official decisions of the EU and the Federal Ministry of the Interior (BMI) on the fate of the regime after March 2027. Transitional rules are currently under discussion, but the final mechanism may change — plan your move to a stable permit well in advance."
+            "text": "Follow the official decisions of the EU and the Federal Ministry of the Interior (BMI): EU protection now runs until March 2028, while the automatic extension of §24 permits already issued in Germany is so far set by ordinance only until 04.03.2027 (the official Germany4Ukraine portal announces an extension to 04.03.2028; the ordinance is pending). The mechanism may change — plan your move to a stable permit well in advance."
           }
         ]
       }
@@ -68611,11 +68669,11 @@
         "lastRetrieved": "2026-06-03"
       },
       {
-        "title": "European Council — Temporary protection for Ukraine extended until March 2027",
-        "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/06/13/eu-member-states-agree-to-extend-temporary-protection-for-refugees-from-ukraine/",
+        "title": "Council of the EU — Temporary protection for Ukraine extended until 4 March 2028",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/15/eu-countries-agree-to-extend-temporary-protection-for-those-fleeing-ukraine-until-march-2028/",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-09-25"
       },
       {
         "title": "BAMF — Schutz für Geflüchtete aus der Ukraine (§24 AufenthG)",
@@ -68633,9 +68691,15 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "On 25.09.2026 the Bundesrat approved the 9th amendment to the Ukraine transitional residence ordinance (UkraineAufenthÜV): stays of up to 90 days without a residence permit remain possible for entries until 04.12.2027, and the ordinance runs until 04.03.2028; new arrivals subject to Ukraine's military obligations must prove compliance. It takes effect once published in the Federal Law Gazette.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "The EU extended temporary protection for Ukrainians to 04.03.2028; new applicants must prove compliance with military obligations."
   },
   {
     "editorialVoice": "hackgermany",
@@ -69200,7 +69264,7 @@
             "items": [
               "§22 — humanitarian admission for special reasons (usually not applied for on your own)",
               "§23 — federal-state and federal programmes, including Jewish immigration (quota refugees — Kontingentflüchtling)",
-              "§24 — temporary protection for Ukrainians (extended until 4 March 2027)",
+              "§24 — temporary protection for Ukrainians (extended until 4 March 2028)",
               "§25 — recognised refugees and the subsidiarily protected",
               "§28 — reunion with a German citizen (spouse, child, parents)",
               "§29-§30 — reunion with a foreign spouse holding a residence permit",
@@ -69264,7 +69328,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -71145,12 +71209,12 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "§24 AufenthG implements the EU Temporary Protection Directive 2001/55/EG, which was activated for the first time in EU history by Council Decision (EU) 2022/382 of 4 March 2022. Ukrainians receive a temporary residence permit (AE) under §24 for 1–3 years, with extension; in 2026 the EU Council extended it until March 2027."
+            "text": "§24 AufenthG implements the EU Temporary Protection Directive 2001/55/EG, which was activated for the first time in EU history by Council Decision (EU) 2022/382 of 4 March 2022. Ukrainians receive a temporary residence permit (AE) under §24 for 1–3 years, with extension; in 2026 the EU Council extended it until 4 March 2028."
           },
           {
             "kind": "checklist",
             "items": [
-              "§24 AufenthG — temporary protection; in force until 04.03.2027 (the latest EU Council decision)",
+              "§24 AufenthG — temporary protection; in force until 04.03.2028 (EU Council decision of 30.07.2026)",
               "Right to work from day one (without a priority check for local workers — Vorrangprüfung)",
               "Access to basic income support since June 2022 (transition from the AsylbLG — Übergang)",
               "Full access to statutory health insurance (Krankenversicherung GKV)",
@@ -71299,7 +71363,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -71819,9 +71883,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "The BStabG has been passed: from 01.01.2028 a member who covers a spouse or partner through family insurance pays a surcharge of 2.5 percentage points on their own rate — entirely themselves, with no employer share. Exceptions include a child under 12 or a child with a disability in the household, or caring for a relative with care level 2 or higher. Children stay insured for free.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2028-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -72476,9 +72545,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "The BStabG has been passed: from 01.01.2027, if your employment ends during sick leave (dismissal, termination agreement or end of a fixed-term contract), Krankengeld from the next day will be 60% of net pay (67% with a child) — the same level as unemployment benefit.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -73506,9 +73580,14 @@
       }
     ],
     "lastRetrieved": "2026-05-29",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Draft law (cabinet 02.09.2026, not yet passed): from 2027 the deduction for tradespeople's work (Handwerkerleistungen, §35a EStG) would drop from 20% to 15%, with the maximum falling from €1,200 to €900 a year. Work done and paid for in 2026 still gets the current deduction.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -75745,9 +75824,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Draft law (cabinet 29.04.2026, now in a Bundestag committee, not yet passed): in tight markets an index rent (Indexmiete) could only pass on half of any inflation above 3% a year; the furniture surcharge must be shown separately (a flat 10% of the rent); short-term lets limited to 6 months (extendable to 8).",
+      "sourceUrl": "https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0429_Miete_II.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -77002,10 +77085,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
-    "lastRetrieved": "2026-06-03"
+    "lastRetrieved": "2026-06-03",
+    "pendingLaw": {
+      "summary": "On 25.09.2026 the Bundesrat approved an amendment to the 35th BImSchV: electric cars with an \"E\" number plate (E-Kennzeichen) will no longer need an emissions sticker (Umweltplakette) to enter low-emission zones. It applies once published; EVs with foreign plates are not covered.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -79093,7 +79180,7 @@
     "id": "de-umsatzsteuer-voranmeldung",
     "categoryId": "self_employment",
     "title": "USt-Voranmeldung: monthly",
-    "tldr": "The advance VAT return (USt-Voranmeldung) is a preliminary return for value-added tax (VAT, Umsatzsteuer) that most entrepreneurs (except small businesses under §19 UStG) are required to file regularly through the tax authority's ELSTER portal. The default period is the quarter; those whose VAT payable (Zahllast) for the previous year exceeded 7500 € file monthly. The former rule that \"new businesses always file monthly for the first two years\" is suspended until the end of 2026, so newcomers currently file quarterly by default. The deadline is the 10th of the month following the reporting period. You can obtain a permanent deadline extension (Dauerfristverlängerung) of one more month (monthly filers need a special advance payment, the Sondervorauszahlung). In the return you show the VAT charged minus the deductible input VAT (Vorsteuer) and pay the difference (or receive a refund). Filing is electronic only, through ELSTER. A tax advisor (Steuerberater) charges roughly 50–200 € per month to handle it.",
+    "tldr": "The advance VAT return (USt-Voranmeldung) is a preliminary return for value-added tax (VAT, Umsatzsteuer) that most entrepreneurs (except small businesses under §19 UStG) are required to file regularly through the tax authority's ELSTER portal. The default period is the quarter; those whose VAT payable (Zahllast) for the previous year exceeded 9 000 € file monthly. The former rule that \"new businesses always file monthly for the first two years\" is suspended until the end of 2026, so newcomers currently file quarterly by default. The deadline is the 10th of the month following the reporting period. You can obtain a permanent deadline extension (Dauerfristverlängerung) of one more month (monthly filers need a special advance payment, the Sondervorauszahlung). In the return you show the VAT charged minus the deductible input VAT (Vorsteuer) and pay the difference (or receive a refund). Filing is electronic only, through ELSTER. A tax advisor (Steuerberater) charges roughly 50–200 € per month to handle it.",
     "tags": [
       "ust-voranmeldung",
       "umsatzsteuer",
@@ -79109,21 +79196,21 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "The frequency depends on the amount of VAT payable (Zahllast) for the previous year. By default the period is the quarter; monthly filing is mandatory only if last year's VAT exceeded 7500 €. For newcomers, the former rule of \"always monthly in the first two years\" is suspended and does not apply until the end of 2026."
+            "text": "The frequency depends on the amount of VAT payable (Zahllast) for the previous year. By default the period is the quarter; monthly filing is mandatory only if last year's VAT exceeded 9 000 €. For newcomers, the former rule of \"always monthly in the first two years\" is suspended and does not apply until the end of 2026."
           },
           {
             "kind": "checklist",
             "items": [
               "By default (including for new businesses until the end of 2026): quarterly",
-              "Last year's VAT above 7500 € — monthly",
-              "Projected VAT above 7500 € in the year of founding — monthly from the very first year",
-              "Last year's VAT no more than 1000 € — the tax office (Finanzamt) may exempt you from the advance return (annual only)",
+              "Last year's VAT above 9 000 € — monthly",
+              "Projected VAT above 9 000 € in the year of founding — monthly from the very first year",
+              "Last year's VAT no more than 2 000 € — the tax office (Finanzamt) may exempt you from the advance return (annual only)",
               "Small businesses under §19 UStG do not file an advance return at all"
             ]
           },
           {
             "kind": "warning",
-            "text": "Don't assume monthly filing is automatic: until the end of 2026 the suspension means that newcomers file quarterly by default, and monthly only if VAT exceeded 7500 € for the previous year. From 2027 the former rule for new businesses may return — check the current regime. Missing the deadline leads to a late-filing surcharge (Verspätungszuschlag) and interest, and if you fail to file at all, the tax office will estimate the VAT itself (Schätzung) — usually not in your favour."
+            "text": "Don't assume monthly filing is automatic: until the end of 2026 the suspension means that newcomers file quarterly by default, and monthly only if VAT exceeded 9 000 € for the previous year. From 2027 the former rule for new businesses may return — check the current regime. Missing the deadline leads to a late-filing surcharge (Verspätungszuschlag) and interest, and if you fail to file at all, the tax office will estimate the VAT itself (Schätzung) — usually not in your favour."
           }
         ]
       },
@@ -79263,9 +79350,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Thresholds corrected (since 2025): monthly filing above €9,000 VAT, exemption up to €2,000."
   },
   {
     "editorialVoice": "hackgermany",
@@ -80261,9 +80350,16 @@
         "lastVerified": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "From 01.01.2027 the minimum wage (Mindestlohn) rises to €14.60/hour (already set by ordinance), so the mini-job limit goes up to €633 a month and the Midijob range becomes €633.01–2,000. Separately, a draft law (cabinet 02.09.2026, not yet passed) would raise the flat-rate tax paid by the employer from 2% to 5%.",
+      "sourceUrl": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/fuenfte-mindestlohnanpassungsverordnung-milov5.html",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "From 2027 the mini-job limit is €633 (minimum wage €14.60)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -81707,11 +81803,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Draft law (cabinet 06.07.2026): from 2027 the planned Wohngeld indexation would be cancelled, the heating component cut and the formula tightened (payments under €15/month dropped). NOT passed yet — the current 2026 amounts apply.",
+      "summary": "Draft law (cabinet 06.07.2026): from 2027 the planned Wohngeld indexation would be cancelled, the heating component cut and the formula tightened (payments under €15/month dropped). NOT passed yet — the current 2026 amounts apply. The Bundesrat gave a critical opinion on 25.09.2026; the Bundestag has not voted yet.",
       "expectedDate": "2027-01-01",
       "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/neuordnung-wohngeld-2445796"
     }
@@ -84718,6 +84814,7 @@
               "Period: 14 days from the moment you receive the goods (withdrawal period, Widerrufsfrist)",
               "You do NOT need to give a reason",
               "A clear withdrawal declaration is enough (a form, an e-mail, a return button) — send it within the period",
+              "Since 19.06.2026 online shops must display a clearly visible withdrawal button (Widerrufsbutton, §356a BGB) — you can withdraw from a purchase in a couple of clicks",
               "The money is refunded within 14 days of the withdrawal, including the standard outbound delivery",
               "If the seller failed to inform you of the right of withdrawal, the period is extended to 12 months",
               "Returning the goods themselves — within 14 days of the withdrawal declaration"
@@ -84849,7 +84946,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -85570,13 +85667,13 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -86759,13 +86856,13 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -87800,7 +87897,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "For most participants the course is free. A co-payment (Kostenbeitrag) usually applies if your annual taxable income is above the threshold (roughly 20 000 € for individual tax assessment, or 40 000 € for joint assessment with a spouse), or if you work and pay social contributions; the rate is around 2.42 € per teaching hour. Recipients of social benefits and those referred by the job centre (Jobcenter) or employment agency (Agentur für Arbeit) are generally fully exempt. Check the exact figures and thresholds with the provider or BAMF."
+            "text": "For most participants the course is free. Under the amended §4 DeuFöV (since 30.04.2026), employed participants pay a contribution (Kostenbeitrag, 50% of the reimbursement rate) only if their annual gross pay exceeds 33% of the pension contribution ceiling — about €33,462 in 2026; with one child the threshold is higher by 10% of the ceiling (≈ €43,602), with two or more by 20% (≈ €53,742). Benefit recipients (Grundsicherung, unemployment benefit, AsylbLG) and apprentices (Azubis) are exempt. Check the exact figures with the provider or BAMF."
           },
           {
             "kind": "warning",
@@ -87864,7 +87961,7 @@
         "label": "Kostenbeitrag (co-payment) per teaching hour for income above the threshold",
         "amountEURMin": 2.42,
         "amountEURMax": 2.42,
-        "note": "Roughly 2.42 € per hour if your taxable income is above the threshold (≈20 000/40 000 €) or you are employed with social contributions; 50% can be refunded after passing the exam. The employer often reimburses it. Check with BAMF."
+        "note": "Contribution of 50% of the reimbursement rate (roughly 2.42 € per hour) — only for employed people earning above ≈ €33,462 gross a year (2026; higher with children); 50% can be refunded after passing the exam. The employer often reimburses it. Check with BAMF."
       },
       {
         "label": "telc B2/C1 exam for a resit outside the course",
@@ -87904,7 +88001,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -89700,7 +89797,7 @@
               "The eID in the national identity card (Personalausweis) — the main digital proof of identity for online government services",
               "BundID — a single digital account for submitting applications to the authorities",
               "Mein ELSTER — tax matters fully online",
-              "i-Kfz — vehicle registration online (but this is not \"a licence on your phone\")",
+              "i-Kfz — vehicle registration online; since November 2025 the i-Kfz app can hold a digital vehicle registration certificate (Fahrzeugschein) that replaces the paper one (but this is not \"a licence on your phone\")",
               "E-Rezept and ePA — prescriptions and the health record in digital form"
             ]
           },
@@ -89755,7 +89852,7 @@
             "items": [
               "Activate the eID in your national identity card (Personalausweis) — it covers online government services already today",
               "Install the AusweisApp and create a BundID",
-              "Carry the original driving licence (Führerschein) and (if needed) the vehicle registration certificate, part I (Zulassungsbescheinigung Teil I) in the car",
+              "Carry the original driving licence (Führerschein) and (if needed) the vehicle registration certificate, part I (Zulassungsbescheinigung Teil I) in the car — on paper or digitally in the i-Kfz app",
               "Don't throw away your plastic documents in anticipation of digital ones — the transition will take years"
             ]
           }
@@ -89814,7 +89911,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -94870,9 +94967,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "From 01.01.2027 the self-employed get access to subsidised private pension saving for the first time — the new Altersvorsorgedepot (Riester reform): state support of up to €540 a year (+ up to €300 per child). Compare it with Rürup before signing.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/reform-private-altersvorsorge-2400072",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -98848,7 +98950,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Ukrainian citizens who have received temporary protection under §24 AufenthG (the EU Massenzustrom-Richtlinie) may drive a car in Germany on their valid Ukrainian national driving licence. Temporary protection in the EU and in Germany has been extended to 4 March 2027. For people with temporary protection the regulator has introduced special rules: the period during which Ukrainian licences are recognised without a mandatory exchange has been extended by separate regulations. This differs from the general \"6 months\" rule that applies to other foreigners."
+            "text": "Ukrainian citizens who have received temporary protection under §24 AufenthG (the EU Massenzustrom-Richtlinie) may drive a car in Germany on their valid Ukrainian national driving licence. Temporary protection in the EU has been extended to 4 March 2028. For people with temporary protection the regulator has introduced special rules: the period during which Ukrainian licences are recognised without a mandatory exchange has been extended by separate regulations. This differs from the general \"6 months\" rule that applies to other foreigners."
           },
           {
             "kind": "warning",
@@ -98989,7 +99091,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -100018,7 +100120,7 @@
     "id": "de-anlage-vorsorge",
     "categoryId": "taxes",
     "title": "Anlage Vorsorgeaufwand: insurance contributions",
-    "tldr": "Anlage Vorsorgeaufwand is the attachment to the tax return where you claim insurance contributions as a deduction (§10 EStG): pension insurance (Rentenversicherung), health insurance (Krankenversicherung), long-term care insurance (Pflegeversicherung), unemployment insurance (Arbeitslosenversicherung), as well as personal liability insurance (Haftpflicht). Basic health and long-term care insurance (Basisabsicherung) is fully deductible. Contributions to retirement provision (Altersvorsorge) are deductible up to a cap — around 27 566€ per person in 2026 (double for a joint return). This is one of the largest deductions available to an employee.",
+    "tldr": "Anlage Vorsorgeaufwand is the attachment to the tax return where you claim insurance contributions as a deduction (§10 EStG): pension insurance (Rentenversicherung), health insurance (Krankenversicherung), long-term care insurance (Pflegeversicherung), unemployment insurance (Arbeitslosenversicherung), as well as personal liability insurance (Haftpflicht). Basic health and long-term care insurance (Basisabsicherung) is fully deductible. Contributions to retirement provision (Altersvorsorge) are deductible up to a cap — around 30 826€ per person in 2026 (double for a joint return). This is one of the largest deductions available to an employee.",
     "tags": [
       "anlage-vorsorge",
       "insurance",
@@ -100055,7 +100157,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Since 2023, contributions to basic retirement provision are counted at 100% up to the maximum deduction. In 2026 the cap for retirement provision (Altersvorsorge) is roughly 27 566€ per person (double for jointly assessed spouses). The employer's share of pension insurance (Rentenversicherung) is also subtracted from this amount — tax software and ELSTER calculate this automatically."
+            "text": "Since 2023, contributions to basic retirement provision are counted at 100% up to the maximum deduction. In 2026 the cap for retirement provision (Altersvorsorge) is roughly 30 826€ per person (double for jointly assessed spouses). The employer's share of pension insurance (Rentenversicherung) is also subtracted from this amount — tax software and ELSTER calculate this automatically."
           },
           {
             "kind": "checklist",
@@ -100155,7 +100257,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -101052,9 +101154,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Draft law (cabinet 02.09.2026, not yet passed): from 2027 the employee lump-sum deduction (Arbeitnehmer-Pauschbetrag) would rise from €1,230 to €1,430 and the basic tax-free allowance (Grundfreibetrag) to €12,564. For 2026 returns, €1,230 applies.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -103030,7 +103137,7 @@
     "id": "de-ev-charging-emobility",
     "categoryId": "auto_driving",
     "title": "Electric cars: charging and state support (Förderung)",
-    "tldr": "Charging an electric car in Germany means public charging points (Ladesäulen, ~0.40–0.60 €/kWh and higher on fast DC) and a home wallbox (Wallbox). Charging cards and apps (EnBW mobility+, ADAC e-Charge and others) give you access to the networks. The federal purchase grant (Kaufprämie, Umweltbonus) for buying an EV ended in December 2023 — it no longer exists. But EV owners can sell their emissions-reduction quota (THG-Quote, the CO2 quota) and earn ~80–300 € a year. For a wallbox, check local programmes.",
+    "tldr": "Charging an electric car in Germany means public charging points (Ladesäulen, ~0.40–0.60 €/kWh and higher on fast DC) and a home wallbox (Wallbox). Charging cards and apps (EnBW mobility+, ADAC e-Charge and others) give you access to the networks. The old Umweltbonus ended in December 2023, but since 2026 a new federal programme (E-Auto-Förderung) pays up to €6,000 for a new electric car (purchase or leasing, registered from 01.01.2026) to households with taxable income up to €80,000 (+€5,000 per child, max. €90,000); apply on the foerderzentrale.gov.de portal (BAFA). In addition, EV owners can sell their emissions-reduction quota (THG-Quote, the CO2 quota) and earn ~80–300 € a year. For a wallbox, check local programmes.",
     "tags": [
       "electric car",
       "ev",
@@ -103103,11 +103210,11 @@
       },
       {
         "id": "foerderung-thg",
-        "title": "Step 4. State support (Förderung): the Umweltbonus grant has ended, the THG-Quote still works",
+        "title": "Step 4. State support (Förderung): the new 2026 grant and the THG-Quote",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Important for your budget: the federal purchase grant (Kaufprämie, Umweltbonus) for buying a new electric car was discontinued in December 2023 — no more applications are accepted. So you shouldn't count on a state \"EV purchase grant\" today. The programme was run by BAFA."
+            "text": "Important for your budget: the old Umweltbonus ended in December 2023, but since 2026 there is a new programme, the E-Auto-Förderung, for low- and middle-income households. Battery electric car (BEV): a €3,000 base, +€1,000 for income up to €60,000 and another +€1,000 up to €45,000, +€500 per child (max. two) — up to €6,000 in total; plug-in hybrid (PHEV) — up to €4,500. Conditions: taxable household income up to €80,000 (+€5,000 per child, max. €90,000), a new vehicle, purchase or leasing, registered from 01.01.2026. You apply via the foerderzentrale.gov.de portal and BAFA pays out; the budget is limited, so don't put off your application."
           },
           {
             "kind": "paragraph",
@@ -103116,7 +103223,7 @@
           {
             "kind": "checklist",
             "items": [
-              "The Umweltbonus grant (Kaufprämie) — ended in December 2023, no new payouts",
+              "New E-Auto-Förderung 2026: up to €6,000 (BEV) / €4,500 (PHEV) with income up to €80,000–90,000 — apply at foerderzentrale.gov.de",
               "The THG-Quote — available to BEV owners (fully electric), not hybrids",
               "You need the registration certificate (Zulassungsbescheinigung Teil I, a photo) and registration with a quota provider",
               "Paid out once a year; compare providers and terms (fixed vs market share)",
@@ -103140,19 +103247,19 @@
         "note": "Annual income for a BEV owner; the amount fluctuates with the market price of the quota."
       },
       {
-        "label": "Umweltbonus (Kaufprämie)",
-        "amountEURMin": 0,
-        "amountEURMax": 0,
-        "note": "The federal EV purchase grant was discontinued in December 2023 — no longer paid out."
+        "label": "E-Auto-Förderung 2026 grant",
+        "amountEURMin": 1500,
+        "amountEURMax": 6000,
+        "note": "One-off federal grant for a new EV (BEV up to €6,000, PHEV up to €4,500) for household income up to €80,000 (+€5,000 per child). Apply via BAFA."
       }
     ],
     "sources": [
       {
-        "title": "BAFA — Elektromobilität / Umweltbonus (historical programme)",
+        "title": "BAFA — E-Auto-Förderung (new 2026 programme)",
         "url": "https://www.bafa.de/DE/Energie/Energieeffizienz/Elektromobilitaet/elektromobilitaet_node.html",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-09-25"
       },
       {
         "title": "Umweltbundesamt (UBA) — THG-Quote im Verkehr",
@@ -103176,9 +103283,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "New 2026 EV grant: up to €6,000 for household income up to €80–90k (apply via BAFA)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -103300,9 +103409,16 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Fuel tax cut (Tankrabatt): on 25.09.2026 the Bundestag and Bundesrat approved cutting the energy tax on petrol and diesel by 14.04 ct/l (about 17 ct/l including VAT) for 01.10–31.12.2026. It applies once published in the Federal Law Gazette; whether stations pass on the full cut depends on the market.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html",
+      "expectedDate": "2026-10-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Fuel tax cut by ~17 ct/l for 01.10–31.12.2026 (approved 25.09.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -106523,7 +106639,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "Many juices, wines, milk and some other drinks carry no deposit at all — such packaging goes into ordinary separate collection (glass into the glass container, Altglas; deposit-free PET into the yellow bin/yellow bag, Gelber Sack)."
+            "text": "Juice, wine and milk in glass bottles or cartons (Tetra Pak) usually carry no deposit — such packaging goes into ordinary separate collection (glass into the glass container, Altglas; cartons into the yellow bin/yellow bag, Gelber Sack). Single-use plastic bottles and cans for drinks, however, almost always carry a 25 ct deposit: juices since 2022, milk and dairy drinks since 01.01.2024."
           }
         ]
       },
@@ -106586,7 +106702,7 @@
             "items": [
               "A shop is obliged to take back the type of deposit container it sells (single-use/reusable)",
               "Small shops (< 200 m²) may only take back the brands/materials they sell themselves",
-              "Bottles from dairy drinks and some juices often carry no deposit — check the symbol",
+              "Milk and dairy drinks in single-use plastic bottles also carry a 25 ct deposit since 2024 — check for the DPG symbol on the label",
               "The machine won't accept broken or badly crushed containers — hand these in at the till where possible",
               "Deposit-free glass is taken to street glass containers (Altglas), sorted by colour (Weiß/Grün/Braun)"
             ]
@@ -106650,7 +106766,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -110162,7 +110278,7 @@
     "id": "de-university-tuition-fees",
     "categoryId": "education_children",
     "title": "University fees: are there any in Germany",
-    "tldr": "Good news: public universities (öffentliche Hochschulen) in Germany are mostly free — there are no tuition fees (Studiengebühren) even for foreigners. A student pays only a semester fee (Semesterbeitrag) of ~150–350 €, which usually includes a transport pass (Semesterticket) and student services. The exceptions: the state of Baden-Württemberg charges students from non-EU/EEA countries around 1500 € per semester, and private universities (private Hochschulen) always charge fees. Doctoral studies (Promotion) are usually free of charge too. The reference source on studying for foreigners is the German Academic Exchange Service (DAAD).",
+    "tldr": "Good news: public universities (öffentliche Hochschulen) in Germany are mostly free — there are no tuition fees (Studiengebühren) even for foreigners. A student pays only a semester fee (Semesterbeitrag) of ~150–350 €, which usually includes a transport pass (Semesterticket) and student services. The exceptions: the state of Baden-Württemberg charges students from non-EU/EEA countries around 1500 € per semester; in Bavaria universities may set their own fees for non-EU students — e.g. TUM (usually 2 000–6 000 € per semester), THI and FAU (from the 2027 summer semester); private universities (private Hochschulen) always charge fees. Doctoral studies (Promotion) are usually free of charge too. The reference source on studying for foreigners is the German Academic Exchange Service (DAAD).",
     "tags": [
       "university",
       "studiengebühren",
@@ -110227,7 +110343,7 @@
       },
       {
         "id": "exceptions",
-        "title": "Exceptions: Baden-Württemberg and private universities",
+        "title": "Exceptions: Baden-Württemberg, Bavaria and private universities",
         "content": [
           {
             "kind": "paragraph",
@@ -110268,7 +110384,7 @@
           },
           {
             "kind": "warning",
-            "text": "The rules on university fees are the responsibility of the states, and they change: besides Baden-Württemberg, individual states discuss fees for non-EU students from time to time. Always check the current terms on the website of the specific university and on DAAD. Don't confuse the semester fee (Semesterbeitrag; everyone pays it, ~150–350 €) with an actual tuition fee (Studiengebühren). And remember: for a visa and for extending a residence permit you usually need to prove your funding (Finanzierungsnachweis), often through a blocked account (Sperrkonto)."
+            "text": "The rules on university fees are the responsibility of the states, and they change: besides Baden-Württemberg, Bavarian universities are introducing fees for non-EU students (TUM since 2024/25, THI, FAU from the 2027 summer semester; based on Art. 13 BayHIG), and other states are discussing them. Always check the current terms on the website of the specific university and on DAAD. Don't confuse the semester fee (Semesterbeitrag; everyone pays it, ~150–350 €) with an actual tuition fee (Studiengebühren). And remember: for a visa and for extending a residence permit you usually need to prove your funding (Finanzierungsnachweis), often through a blocked account (Sperrkonto)."
           }
         ]
       }
@@ -110322,7 +110438,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },

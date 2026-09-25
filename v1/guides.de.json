@@ -17691,7 +17691,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Wenn Sie B1 nicht erreichen, haben Sie bei Erfüllung der BAMF-Voraussetzungen Anspruch auf eine kostenlose Wiederholung – in der Regel nach einem zusätzlichen Wiederholerkurs (bis zu 300 Unterrichtsstunden). Das ist ein erheblicher Vorteil – lassen Sie ihn sich nicht entgehen."
+                    "text": "Wenn Sie B1 nicht erreichen, ist die Wiederholung (bis zu 300 Unterrichtsstunden) mit neuem Testversuch nach aktuellem §13 IntV nur für Teilnehmende eines Alphabetisierungs- oder Spezialkurses vorgesehen. Alle anderen klären beim BAMF oder beim Kursträger, wie sie den Test wiederholen können."
                   }
                 ]
               }
@@ -17741,12 +17741,12 @@
       {
         "label": "Wiederholerkurs (bis zu 300 Stunden)",
         "amountEUR": 0,
-        "note": "Kostenlos für alle, die den DTZ im ersten Anlauf nicht auf B1 bestanden haben"
+        "note": "Nur nach einem Alphabetisierungs- oder Spezialkurs (§13 IntV)"
       },
       {
         "label": "Erstattung von 50 % des Integrationskurses",
-        "amountEUR": -770,
-        "note": "Bei Selbstzahlung von €1540 und bestandenem B1 innerhalb von 2 Jahren werden €770 nach §9 IntV erstattet"
+        "amountEUR": -802,
+        "note": "Bei Selbstzahlung von €1603 (2,29 € × 700 Std.) und bestandenem B1 innerhalb von 2 Jahren werden ≈€802 nach §9 IntV erstattet"
       }
     ],
     "sources": [
@@ -17786,7 +17786,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -18353,7 +18353,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Nach §44 Abs. 4 können EU-Bürger einen Anspruch (eine Zulassung) erhalten, wenn ein 'Integrationsbedarf' besteht. Darüber entscheidet das BAMF im Einzelfall. In der Praxis wird die Zulassung erteilt, wenn Ihre Deutschkenntnisse gering sind und Sie planen, lange in Deutschland zu leben."
+                    "text": "Nach §44 Abs. 4 können EU-Bürger einen Anspruch (eine Zulassung) erhalten, wenn ein 'Integrationsbedarf' besteht. Darüber entscheidet das BAMF im Einzelfall. Derzeit (2026) ist eine Zulassung nur bei freien Plätzen und im Rahmen des Budgets möglich: Vorrang haben §24-Inhaber sowie Deutsche und EU-Bürger, deren Deutsch für den Beruf nicht ausreicht, und ihre Familienangehörigen; Anträge werden in der Reihenfolge des Eingangs bearbeitet."
                   }
                 ]
               },
@@ -18441,7 +18441,7 @@
                       "Kopie des Aufenthaltstitels oder der Fiktionsbescheinigung",
                       "Kopie des Passes",
                       "Formloses Schreiben zur Begründung (für EU-Bürger)",
-                      "Per Post an die Regionalstelle des BAMF (Adresse nach PLZ) oder persönlich einreichen"
+                      "Online über das Bundesportal (vom BAMF empfohlen) oder per Post an die Regionalstelle des BAMF (Adresse nach PLZ) einreichen"
                     ]
                   }
                 ]
@@ -18571,7 +18571,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
     "recentlyChangedAt": "2026-09-01",
@@ -20027,7 +20027,7 @@
     "id": "de-bonusheft-dental",
     "categoryId": "healthcare",
     "title": "Bonusheft: Rabatt auf Kronen",
-    "tldr": "Das Bonusheft ist ein Heft in Papier- oder elektronischer Form für regelmäßige Zahnarztbesuche. Nach § 55 SGB V erhöhen regelmäßige Kontrollen den Festzuschuss zum Zahnersatz: 5 Jahre ohne Lücken steigern ihn um 20 % (insgesamt 70 % vom Standard), 10 Jahre um 30 % (insgesamt 75 %). Ohne Bonusheft zahlt die Kasse 2026 die Grundleistung von 60 %. Ab dem 1. Januar 2027 sollen die Sätze sinken: das GKV-Beitragssatzstabilisierungsgesetz wurde am 29.04.2026 vom Kabinett gebilligt, durchläuft aber noch Bundestag/Bundesrat — am endgültigen Text sind Änderungen möglich, prüfen Sie die Aktualität.",
+    "tldr": "Das Bonusheft ist ein Heft in Papier- oder elektronischer Form für regelmäßige Zahnarztbesuche. Nach § 55 SGB V erhöhen regelmäßige Kontrollen den Festzuschuss zum Zahnersatz: 5 Jahre ohne Lücken steigern ihn um 20 % (insgesamt 70 % vom Standard), 10 Jahre um 30 % (insgesamt 75 %). Ohne Bonusheft zahlt die Kasse 2026 die Grundleistung von 60 %. Ab dem 1. Januar 2027 sinken die Sätze auf 50 % / 60 % / 65 %: Das GKV-Beitragssatzstabilisierungsgesetz wurde am 10.07.2026 beschlossen (BGBl. 2026 I Nr. 228). Für einen vor dem 01.01.2027 von der Kasse bewilligten Heil- und Kostenplan gelten die bisherigen Sätze.",
     "tags": [
       "zahnarzt",
       "bonusheft",
@@ -20070,7 +20070,7 @@
               "5 Jahre regelmäßige Besuche: Bonus +20 %, insgesamt 70 %",
               "10 Jahre regelmäßige Besuche: Bonus +30 %, insgesamt 75 %",
               "Härtefallregelung: bei niedrigem Einkommen übernimmt die Kasse 100 % der Standardbehandlung",
-              "Ab dem 1. Januar 2027 sollen die Sätze auf 50 % / 60 % / 65 % sinken (GKV-Beitragssatzstabilisierungsgesetz, am 29.04.2026 vom Kabinett gebilligt, im Stadium Bundestag/Bundesrat)"
+              "Ab dem 1. Januar 2027 sinken die Sätze auf 50 % / 60 % / 65 % (GKV-Beitragssatzstabilisierungsgesetz, beschlossen am 10.07.2026)"
             ]
           }
         ]
@@ -20148,7 +20148,7 @@
           },
           {
             "kind": "warning",
-            "text": "Sollte die Reform 2027 in Kraft treten, ist es dennoch vorteilhafter, ein Bonusheft zu haben, als keines — doch der absolute Betrag des Festzuschusses sinkt (60 % → 50 %, 70 % → 60 %, 75 % → 65 %). Die Härtefallregelung für Geringverdiener bleibt erhalten. Teuren Zahnersatz bei medizinischer Indikation sollten Sie vor den Änderungen einplanen."
+            "text": "Auch nach der Reform 2027 ist es vorteilhafter, ein Bonusheft zu haben, als keines — doch der absolute Betrag des Festzuschusses sinkt (60 % → 50 %, 70 % → 60 %, 75 % → 65 %). Die Härtefallregelung für Geringverdiener bleibt erhalten. Teuren Zahnersatz bei medizinischer Indikation sollten Sie sich noch 2026 von der Kasse bewilligen lassen (Heil- und Kostenplan)."
           }
         ]
       }
@@ -20214,9 +20214,16 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Ab 01.01.2027 sinkt der Festzuschuss für Zahnersatz von 60 % auf 50 % (mit Bonusheft: 70 % → 60 %, 75 % → 65 %) — das BStabG ist beschlossen. Tipp: Wer Zahnersatz braucht, sollte den Heil- und Kostenplan noch 2026 bewilligen lassen.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Beschlossen: Ab 2027 zahlt die Kasse 50 % statt 60 % beim Zahnersatz – Heil- und Kostenplan am besten 2026 bewilligen lassen."
   },
   {
     "editorialVoice": "hackgermany",
@@ -20493,7 +20500,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "10 % vom Preis, mindestens 5 €, höchstens 10 € pro Packung (gültig 2026). Ab 2027 soll die Grenze auf 7,50 € / 15 € steigen — das GKV-Beitragssatzstabilisierungsgesetz wurde am 29.04.2026 vom Kabinett gebilligt und durchläuft Bundestag/Bundesrat; achten Sie auf die finale Fassung."
+                    "text": "10 % vom Preis, mindestens 5 €, höchstens 10 € pro Packung (gültig 2026). Ab 01.01.2027 steigt die Grenze auf 7,50 € / 15 € — das GKV-Beitragssatzstabilisierungsgesetz wurde am 10.07.2026 beschlossen."
                   }
                 ]
               },
@@ -20633,9 +20640,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Das BStabG ist beschlossen: Ab 01.01.2027 steigen die GKV-Zuzahlungen um 50 % – 7,50–15 € statt 5–10 € je Arzneimittel. Der Festzuschuss für Zahnersatz sinkt von 60 % auf 50 % (mit Bonusheft 60 % / 65 %).",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -21551,9 +21563,16 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Das BStabG ist beschlossen: Ab 01.01.2028 zahlt, wer den Ehe- oder Lebenspartner beitragsfrei mitversichert, einen Zuschlag von 2,5 Beitragssatzpunkten – allein, ohne Arbeitgeberanteil. Ausnahmen u. a.: ein Kind unter 12 Jahren oder ein Kind mit Behinderung im Haushalt, Pflege eines Angehörigen ab Pflegegrad 2. Kinder bleiben beitragsfrei mitversichert.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2028-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Ab 2028 Zuschlag von 2,5 Punkten für beitragsfrei mitversicherte Ehepartner (BStabG)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -22211,9 +22230,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Referentenentwurf des BMAS (21.09.2026, Kabinett und Bundesrat stehen aus): 2027 soll die Versicherungspflichtgrenze 84 150 € pro Jahr und die Beitragsbemessungsgrenze in der Kranken- und Pflegeversicherung 6 375 € im Monat (76 500 € im Jahr) betragen.",
+      "sourceUrl": "https://www.bmas.de/DE/Service/Presse/Meldungen/2026/referentenentwurf-zur-sozialversicherungsrechengroessen-verordnung-2027.html",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -25908,9 +25932,13 @@
       }
     ],
     "lastRetrieved": "2026-05-29",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Gesetzentwurf (Kabinett 29.04.2026, derzeit im Rechtsausschuss des Bundestags, noch nicht beschlossen): In angespannten Märkten dürfte eine Indexmiete Inflation über 3 % pro Jahr nur zur Hälfte weitergeben; der Möblierungszuschlag ist gesondert auszuweisen (pauschal 10 % der Miete); Kurzzeitvermietung höchstens 6 Monate (verlängerbar auf 8).",
+      "sourceUrl": "https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0429_Miete_II.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -29039,9 +29067,14 @@
         "lastVerified": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Gesetzentwurf (Kabinett 02.09.2026, noch nicht beschlossen): Ab 2027 soll der Arbeitnehmer-Pauschbetrag von 1 230 auf 1 430 € und der Grundfreibetrag auf 12 564 € steigen. Für die Erklärung 2026 gelten 1 230 €.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -30732,7 +30765,7 @@
             "kind": "checklist",
             "items": [
               "Pflichtveranlagung ohne Steuerberater: 31. Juli des Folgejahres (für 2026 → 31.07.2027)",
-              "Pflichtveranlagung über Steuerberater/Lohnsteuerhilfeverein: letzter Tag im Februar des übernächsten Jahres (für 2026 → 28.02.2028)",
+              "Pflichtveranlagung über Steuerberater/Lohnsteuerhilfeverein: letzter Tag im Februar des übernächsten Jahres (für 2026 → 29.02.2028)",
               "Antragsveranlagung (freiwillig): 4 Jahre (für 2026 → 31.12.2030)",
               "Verspätungszuschlag (§ 152 AO): 0,25 % der Steuerschuld je Monat der Verspätung, mindestens 25 €/Monat, höchstens 25.000 €",
               "Bei sehr großer Verspätung schätzt das Finanzamt die Besteuerungsgrundlage (Schätzung) — in der Regel zu Ihrem Nachteil"
@@ -30920,7 +30953,7 @@
         "lastVerified": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -31816,9 +31849,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Gesetzentwurf (Kabinett 02.09.2026, noch nicht beschlossen): Ab 2027 soll die Steuerermäßigung für Handwerkerleistungen (§35a EStG) von 20 % auf 15 % und der Höchstbetrag von 1 200 € auf 900 € pro Jahr sinken. Für 2026 erbrachte und bezahlte Leistungen gilt noch die bisherige Ermäßigung.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -32347,7 +32385,7 @@
     "id": "de-lohnsteuerhilfeverein",
     "categoryId": "taxes",
     "title": "Lohnsteuerhilfeverein: die günstige Alternative",
-    "tldr": "Ein Lohnsteuerhilfeverein ist ein gemeinnütziger Verein, der für Arbeitnehmer und Rentner die Steuererklärung gegen einen festen jährlichen Mitgliedsbeitrag erstellt (je nach Einkommen etwa 50–200€) – nicht gegen einen Prozentsatz der Erstattung. Das ist günstiger als ein Steuerberater und bietet eine persönliche Beratung, anders als eine Software. Die zentrale Einschränkung nach §4 StBerG: Sie helfen nur bei Einkunftsarten von Arbeitnehmern und Rentnern (Lohn, Rente, Vermietung in engen Grenzen usw.). Wenn Sie Einkünfte aus selbständiger Arbeit oder Gewerbe haben (Anlage S/G), darf der Verein Ihnen NICHT helfen – dann brauchen Sie einen Steuerberater. Als Mitglied erhalten Sie eine verlängerte Abgabefrist (bis etwa Ende Februar).",
+    "tldr": "Ein Lohnsteuerhilfeverein ist ein gemeinnütziger Verein, der für Arbeitnehmer und Rentner die Steuererklärung gegen einen festen jährlichen Mitgliedsbeitrag erstellt (je nach Einkommen etwa 50–200€) – nicht gegen einen Prozentsatz der Erstattung. Das ist günstiger als ein Steuerberater und bietet eine persönliche Beratung, anders als eine Software. Die zentrale Einschränkung nach §4 StBerG: Sie helfen nur bei Einkunftsarten von Arbeitnehmern und Rentnern (Lohn, Rente und – seit 01.09.2026 – Kapital- und Mieteinkünfte ohne die frühere Grenze von 18 000/36 000 €). Wenn Sie Einkünfte aus selbständiger Arbeit oder Gewerbe haben (Anlage S/G), darf der Verein Ihnen NICHT helfen – dann brauchen Sie einen Steuerberater. Als Mitglied erhalten Sie eine verlängerte Abgabefrist (bis etwa Ende Februar).",
     "tags": [
       "lohnsteuerhilfeverein",
       "beratung",
@@ -32362,7 +32400,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Ein Lohnsteuerhilfeverein (oft als LStHV abgekürzt) ist ein Selbsthilfeverein, der im Rahmen von §4 Nr. 11 StBerG Hilfe in Steuersachen leisten darf. Sie treten einer örtlichen Beratungsstelle bei und zahlen einen Jahresmitgliedsbeitrag, dessen Höhe von Ihrem Jahreseinkommen abhängt (Beitragsstaffel). Dafür übernimmt der Verein Ihre Steuererklärung vollständig und berät Sie."
+            "text": "Ein Lohnsteuerhilfeverein (oft als LStHV abgekürzt) ist ein Selbsthilfeverein, der im Rahmen von §4 StBerG Hilfe in Steuersachen leisten darf. Sie treten einer örtlichen Beratungsstelle bei und zahlen einen Jahresmitgliedsbeitrag, dessen Höhe von Ihrem Jahreseinkommen abhängt (Beitragsstaffel). Dafür übernimmt der Verein Ihre Steuererklärung vollständig und berät Sie."
           },
           {
             "kind": "checklist",
@@ -32382,16 +32420,16 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Das ist das Wichtigste, das Sie verstehen müssen. Nach dem Gesetz (§4 Nr. 11 StBerG) darf ein Lohnsteuerhilfeverein Steuererklärungen nur für bestimmte Einkunftsarten erstellen – im Wesentlichen Lohn, Rente, staatliche Leistungen, Kapitaleinkünfte und Vermietung in festgelegten Grenzen. Wenn Sie Einkünfte aus selbständiger Arbeit, freiberuflicher Tätigkeit oder Gewerbe haben (Anlage S oder G), darf der Verein Ihnen NICHT helfen."
+            "text": "Das ist das Wichtigste, das Sie verstehen müssen. Nach dem Gesetz (§4 StBerG) darf ein Lohnsteuerhilfeverein Steuererklärungen nur für bestimmte Einkunftsarten erstellen – im Wesentlichen Lohn, Rente, staatliche Leistungen, Kapitaleinkünfte und Vermietung (seit 01.09.2026 ohne Einkommensgrenze; zuvor 18 000 €, bei Zusammenveranlagung 36 000 € pro Jahr). Wenn Sie Einkünfte aus selbständiger Arbeit, freiberuflicher Tätigkeit oder Gewerbe haben (Anlage S oder G), darf der Verein Ihnen NICHT helfen."
           },
           {
             "kind": "warning",
-            "text": "Schon geringe Einkünfte aus selbständiger Arbeit oder freiberuflicher Tätigkeit (Anlage S/G) bringen Sie außerhalb der Befugnis eines Lohnsteuerhilfevereins. In diesem Fall muss ein Steuerberater die Erklärung erstellen. Versuchen Sie nicht, solche Einkünfte zu verschweigen – der Verein muss ablehnen."
+            "text": "Schon geringe Einkünfte aus selbständiger Arbeit oder freiberuflicher Tätigkeit (Anlage S/G) bringen Sie außerhalb der Befugnis eines Lohnsteuerhilfevereins. In diesem Fall muss ein Steuerberater die Erklärung erstellen. Versuchen Sie nicht, solche Einkünfte zu verschweigen – der Verein muss ablehnen. Ausnahme: vollständig steuerfreie Einkünfte, etwa die Übungsleiter- oder Ehrenamtspauschale (§3 Nr. 26/26a EStG) oder eine kleine Photovoltaikanlage (§3 Nr. 72 EStG)."
           },
           {
             "kind": "checklist",
             "items": [
-              "Erlaubt: Lohn (Anlage N), Rente, Elterngeld/Arbeitslosengeld, Kapital (Anlage KAP), Vermietung im Rahmen der Grenze",
+              "Erlaubt: Lohn (Anlage N), Rente, Elterngeld/Arbeitslosengeld, Kapital (Anlage KAP), Vermietung (seit 01.09.2026 ohne Grenze)",
               "Nicht erlaubt: Einkünfte aus selbständiger Arbeit (Anlage S), Gewerbe (Anlage G), Land- und Forstwirtschaft",
               "Bei Mischeinkünften mit Selbständigkeit – nur ein Steuerberater"
             ]
@@ -32476,9 +32514,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Seit 01.09.2026 dürfen Lohnsteuerhilfevereine bei Miet- und Kapitaleinkünften ohne die Grenze von 18 000/36 000 € beraten."
   },
   {
     "editorialVoice": "hackgermany",
@@ -36102,7 +36142,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Der wichtigste finanzielle Unterschied ist die Gewerbesteuer (GewSt). Für ein Gewerbe beträgt sie 7-17% des Gewinns (der Hebesatz hängt von der Gemeinde ab: Berlin 410%, München 490%, Frankfurt 460%). Der Freibetrag für einen Einzelunternehmer beträgt 24.500€/Jahr (§11 Abs. 1 GewStG)."
+            "text": "Der wichtigste finanzielle Unterschied ist die Gewerbesteuer (GewSt). Für ein Gewerbe beträgt sie 7-17% des Gewinns (ab 2027 Mindesthebesatz 280 %, also mindestens ~9,8 %) (der Hebesatz hängt von der Gemeinde ab: Berlin 410%, München 490%, Frankfurt 460%). Der Freibetrag für einen Einzelunternehmer beträgt 24.500€/Jahr (§11 Abs. 1 GewStG)."
           },
           {
             "kind": "checklist",
@@ -36213,7 +36253,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -37826,7 +37866,7 @@
               "Der freiwillige Verzicht bindet für 5 Jahre — überlegt entscheiden",
               "Geben Sie auf den Rechnungen den Grund an: 'Steuerbefreiung als Kleinunternehmer nach §19 UStG'",
               "Seit 2025: Auch Kleinunternehmer sind verpflichtet, eine E-Rechnung von B2B-Geschäftspartnern ANZUNEHMEN",
-              "Selbst E-Rechnungen auszustellen wird erst später verpflichtend: ab 2027 (Umsatz >800 000 €), ab 2028 — für alle im B2B"
+              "Selbst E-Rechnungen auszustellen, bleibt für Kleinunternehmer auch nach 2027/2028 freiwillig: Nach §34a UStDV dürfen sie weiterhin sonstige Rechnungen (PDF oder Papier) ausstellen"
             ]
           },
           {
@@ -37886,7 +37926,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -40865,13 +40905,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -41226,13 +41266,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -41878,11 +41918,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Die BAföG-Reform wurde am 12.08.2026 vom Kabinett beschlossen (jetzt im Bundestag): Wohnkostenpauschale 380 → 440 € ab 01.04.2027, Grundbedarf 475 → 503 € ab dem Wintersemester 2027/28. Zum WS 2026/27 gibt es keine Erhöhung — es gelten die aktuellen Sätze.",
+      "summary": "BAföG-Reform (Kabinett 12.08.2026; Stellungnahme des Bundesrats 25.09.2026, jetzt im Bundestag – noch kein Gesetz): Wohnkostenpauschale 380 → 440 € ab 01.04.2027, Grundbedarf 475 → 503 € ab dem Wintersemester 2027/28 und 563 € ab 01.04.2029; Anträge nur noch über BAföG Digital. Zum WS 2026/27 gibt es keine Erhöhung – es gelten die aktuellen Sätze.",
       "expectedDate": "2027-04-01",
       "sourceUrl": "https://www.bmftr.bund.de/SharedDocs/Kurzmeldungen/DE/2026/08/120826-bafoeg-kabinettsbeschluss.html"
     }
@@ -43813,9 +43853,16 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Ab 01.01.2027 wird das Kindergeld ohne Antrag gezahlt, wenn der Familienkasse die Daten der Familie bereits vorliegen: Bundestag (09.07.2026) und Bundesrat (25.09.2026) haben zugestimmt, die Einführung erfolgt 2027 stufenweise. Zudem sieht ein Regierungsentwurf (Kabinett 02.09.2026) eine Erhöhung von 259 auf 267 € (2027) und 272 € (2028) vor — noch nicht beschlossen.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Ab 2027 Kindergeld ohne Antrag (beschlossen 25.09.2026); Erhöhung auf 267 € noch Entwurf."
   },
   {
     "editorialVoice": "hackgermany",
@@ -45877,7 +45924,7 @@
         "content": [
           {
             "kind": "warning",
-            "text": "Der Anhörungsbogen kommt 6-8 Wochen vor dem Bußgeldbescheid. Sie haben das Recht, sich nicht selbst zu belasten — Sie müssen nicht angeben, wer am Steuer saß. Manchmal wird das Verfahren wegen des Ablaufs der Verjährungsfrist eingestellt (3 Monate bei Ordnungswidrigkeiten)."
+            "text": "Der Anhörungsbogen kommt 6-8 Wochen vor dem Bußgeldbescheid. Sie haben das Recht, sich nicht selbst zu belasten — Sie müssen nicht angeben, wer am Steuer saß. Manchmal wird das Verfahren wegen des Ablaufs der Verjährungsfrist eingestellt (inzwischen sechs Monate bei Verkehrsordnungswidrigkeiten, §26 Abs. 3 StVG; früher 3 Monate)."
           },
           {
             "kind": "warning",
@@ -45987,7 +46034,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -49187,9 +49234,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Gesetz beschlossen (Bundestag 09.07.2026, Bundesrat 25.09.2026): Die Ausnahme nach §8 StVG entfällt für E-Scooter, Halter einschließlich Verleihfirmen haften damit verschuldensunabhängig – Geschädigte kommen leichter zu Schadensersatz. Inkrafttreten zum ersten Tag des Quartals nach Verkündung.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -52722,7 +52773,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "Apotheken erkennt man am roten gotischen A auf weißem Grund. Die Öffnungszeiten sind meist Mo–Fr 8:30–18:30 Uhr, Sa bis 13:00–14:00 Uhr. Sonntags und an Feiertagen haben nur die Notdienst-Apotheken geöffnet – reihum in jedem Stadtteil."
+            "text": "Apotheken erkennt man am roten gotischen A auf weißem Grund. Die Öffnungszeiten sind meist Mo–Fr 8:30–18:30 Uhr, Sa bis 13:00–14:00 Uhr; nach der Reform der Apothekenbetriebsordnung (September 2026) sind jedoch nur mindestens 6 Stunden werktags zwischen 8 und 18 Uhr Pflicht, samstags muss nicht mehr geöffnet sein. Die Zeiten werden unterschiedlicher – prüfen Sie die jeweilige Apotheke. Sonntags und an Feiertagen haben nur die Notdienst-Apotheken geöffnet – reihum in jedem Stadtteil."
           },
           {
             "kind": "checklist",
@@ -52844,7 +52895,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
     "pendingLaw": {
@@ -55540,11 +55591,11 @@
           },
           {
             "kind": "warning",
-            "text": "Die Karenzzeit (erstes Jahr des Bürgergeldbezugs) ist seit 2025 durch eine Reform stark verkürzt: Die Mietkosten werden sofort geprüft, die Anforderungen an die Angemessenheit sind streng. Die Beträge hängen von der Stadt ab (Mietspiegel)."
+            "text": "Die Karenzzeit für die Unterkunft ist das erste Bezugsjahr: Die tatsächliche Miete wird übernommen, höchstens jedoch das Eineinhalbfache der örtlichen Angemessenheitsgrenze; danach nur bis zur Grenze. Die Beträge hängen von der Stadt ab (Mietspiegel)."
           },
           {
             "kind": "warning",
-            "text": "Vermögensfreigrenze (Schonvermögen): im ersten Bezugsjahr (Karenzzeit) — 40.000 € für das Oberhaupt der Bedarfsgemeinschaft plus 15.000 € für jedes weitere Mitglied, danach 15.000 € pro Person. Ab dem 1. Juli 2026 haben sich im Rahmen der Reform „neue Grundsicherung“ (Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende) die Regeln zu Karenzzeit und Schonvermögen geändert: Die einjährige Vermögens-Karenzzeit entfällt, die Freibeträge sind altersgestaffelt, Sanktionen wurden verschärft — prüfen Sie die geltende Fassung des SGB II."
+            "text": "Schonvermögen (Vermögensfreigrenze, §12 SGB II): seit 01.07.2026 je Mitglied der Bedarfsgemeinschaft 5 000 € bis 30 Jahre, 10 000 € ab 31, 12 500 € ab 41, 20 000 € ab 51; nicht ausgeschöpfte Freibeträge werden auf andere Mitglieder übertragen. Die frühere Karenzzeit (40 000 € im ersten Jahr) gibt es nicht mehr."
           }
         ]
       }
@@ -55604,7 +55655,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -55628,7 +55679,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Das Bürgergeld ist die soziale Mindestsicherung für erwerbsfähige Personen (15-67 Jahre) und ihre Familienmitglieder. Eingeführt wurde es mit der Reform vom 1.1.2023 (Bürgergeld-Gesetz vom 16.12.2022) anstelle von Hartz IV / Arbeitslosengeld II. Seit 2025 wurde ein Teil der Lockerungen der Reform zurückgenommen (Wachstumsinitiative): strengere Sanktionen, niedrigere Vermögensfreigrenze."
+            "text": "Das Bürgergeld ist die soziale Mindestsicherung für erwerbsfähige Personen (15-67 Jahre) und ihre Familienmitglieder. Eingeführt wurde es mit der Reform vom 1.1.2023 (Bürgergeld-Gesetz vom 16.12.2022) anstelle von Hartz IV / Arbeitslosengeld II. Seit dem 01.07.2026 gilt stattdessen die „neue Grundsicherung“ (ausgezahlt als Grundsicherungsgeld): strengere Sanktionen, altersgestaffeltes Schonvermögen, keine Vermögens-Karenzzeit mehr."
           },
           {
             "kind": "checklist",
@@ -55636,7 +55687,7 @@
               "Finanziert vom Staat über das Jobcenter (gemeinsam Bundesagentur für Arbeit, BA, + Kommune)",
               "Besteht aus: Regelbedarf + Mehrbedarfe + Kosten der Unterkunft (KdU) + Sozialversicherung",
               "Einkommen wird angerechnet — es gibt Freibeträge für Erwerbstätige",
-              "Vermögensfreigrenze: 15.000 € pro Person (40.000 € im ersten Jahr der Karenzzeit)"
+              "Schonvermögen (§12 SGB II): pro Person 5 000 € bis 30 Jahre, 10 000 € ab 31, 12 500 € ab 41, 20 000 € ab 51; keine Karenzzeit mehr beim Vermögen"
             ]
           }
         ]
@@ -55662,7 +55713,7 @@
           },
           {
             "kind": "warning",
-            "text": "Wichtig: 2026 gilt ein Einfrieren (Besitzschutz nach §28a Abs.5 SGB XII: rechnerische Höhe 557 €, doch der Satz darf nicht gesenkt werden, daher bleibt es bei 563 €). Zudem wird das Bürgergeld ab dem 1. Juli 2026 in „neue Grundsicherung“ umbenannt (Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende): Der Regelsatz selbst bleibt 563 €, doch die Regeln zu Karenzzeit, Vermögen und Sanktionen ändern sich — prüfen Sie die geltende Fassung des SGB II."
+            "text": "Wichtig: 2026 gilt ein Einfrieren (Besitzschutz nach §28a Abs.5 SGB XII: rechnerische Höhe 557 €, doch der Satz darf nicht gesenkt werden, daher bleibt es bei 563 €). Zudem gilt seit dem 1. Juli 2026 die „neue Grundsicherung“ (Gesetz zur Umgestaltung der Grundsicherung für Arbeitsuchende): Der Regelsatz bleibt bei 563 €, die Regeln zu Vermögen und Sanktionen wurden verschärft — Details unten."
           }
         ]
       },
@@ -55679,11 +55730,11 @@
             "items": [
               {
                 "id": "kdu1",
-                "title": "Karenzzeit (seit 2025 — verkürzt)",
+                "title": "Karenzzeit – das erste Jahr",
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Früher wurde im ersten Jahr jede Miete übernommen. Seit 2025 ist das für neue Bezieher in den meisten Konstellationen abgeschafft — die Angemessenheit wird sofort geprüft."
+                    "text": "Im ersten Bezugsjahr (Karenzzeit, §22 Abs. 1 SGB II) wird die tatsächliche Miete übernommen, höchstens jedoch das Eineinhalbfache der örtlichen Angemessenheitsgrenze. Für Heizkosten gilt die Karenzzeit nicht – sie werden nur in angemessener Höhe übernommen."
                   }
                 ]
               },
@@ -55739,7 +55790,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Seit dem 28.3.2024 (Bundestagsbeschluss, „Totalverweigerer-Sanktionen“) sind die Sanktionen verschärft — das Bundesverfassungsgericht hatte 2019 (1 BvL 7/16) Kürzungen bis 30 % erlaubt, die Neuregelung bis 100 % bei vollständiger Totalverweigerung."
+            "text": "Seit dem 01.07.2026 (Reform „neue Grundsicherung“) sind die Sanktionen verschärft: Jede Pflichtverletzung mindert den Regelbedarf um 30 % (insgesamt höchstens 30 %), ein Meldeversäumnis um 30 % für einen Monat, und bei Ablehnung zumutbarer Arbeit entfällt der Regelbedarf ganz, die Kosten der Unterkunft gehen dann direkt an den Vermieter. Das Bundesverfassungsgericht hatte 2019 (1 BvL 7/16) Kürzungen bis 30 % erlaubt."
           },
           {
             "kind": "checklist",
@@ -55747,8 +55798,8 @@
               "Bewerbungspflicht — Arbeitsuche, Berichte an das Jobcenter",
               "Kooperationsplan (§15 SGB II) — hat die Eingliederungsvereinbarung ersetzt",
               "Meldepflicht: Erscheinen zu den Terminen des Jobcenters",
-              "Sanktionen 10 % / 20 % / 30 % bei Verstößen (§31a)",
-              "Bei Totalverweigerung — bis 100 % des Regelsatzes für 2 Monate (die KdU bleiben)"
+              "Sanktionen: minus 30 % des Regelbedarfs je Pflichtverletzung (§31a), insgesamt höchstens 30 %",
+              "Bei Ablehnung zumutbarer Arbeit entfällt der Regelbedarf vollständig (§31a Abs. 7); die KdU werden direkt an den Vermieter gezahlt"
             ]
           },
           {
@@ -55839,11 +55890,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
-    "recentlyChangedAt": "2026-09-01",
-    "changeSummary": "Reform seit 01.07.2026 in Kraft: Bürgergeld → „neue Grundsicherung“ (Grundsicherungsgeld), verschärfte Sanktionen; Regelsatz weiter 563 €."
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Seit 01.07.2026: Schonvermögen 5 000–20 000 € nach Alter, Sanktionen 30 %, bei Arbeitsablehnung Wegfall des Regelbedarfs."
   },
   {
     "editorialVoice": "hackgermany",
@@ -60265,9 +60316,16 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Reform beschlossen (Altersvorsorgereformgesetz, 2026): Ab 01.01.2027 können keine neuen Riester-Verträge mehr abgeschlossen werden; stattdessen gibt es das geförderte Altersvorsorgedepot: 50 ct je Euro bis 360 €/Jahr plus 25 ct bis 1 800 € (max. 540 €), bis 300 € pro Kind und Jahr, einmalig 200 € Bonus für Starter unter 25; auch Selbstständige sind förderberechtigt. Bestehende Riester-Verträge laufen weiter.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/reform-private-altersvorsorge-2400072",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Riester-Reform beschlossen: Ab 2027 Altersvorsorgedepot mit bis zu 540 €/Jahr Förderung, keine neuen Riester-Verträge."
   },
   {
     "editorialVoice": "hackgermany",
@@ -65426,7 +65484,7 @@
             "items": [
               "Zulassung durch die Universität (Zulassungsbescheid)",
               "APS-Zertifikat",
-              "Finanznachweis: Sperrkonto 12.324 € (1027 € × 12) für 2026",
+              "Finanznachweis: Sperrkonto 11.904 € (992 € × 12) für 2026",
               "Krankenversicherung",
               "Sprachkenntnisse: Deutsch DSH-2/TestDaF 4 oder Englisch B2-C1 (je nach Programm)",
               "Das Visum wird in der Botschaft/im Generalkonsulat des Wohnsitzes in China beantragt",
@@ -65531,7 +65589,7 @@
       },
       {
         "label": "Sperrkonto für ein Jahr",
-        "amountEUR": 12324.0,
+        "amountEUR": 11904.0,
         "note": "992 € × 12 Monate für Studierende für 2026 (für die Chancenkarte – 1027 € × 12); das Geld bleibt Ihres"
       },
       {
@@ -65590,7 +65648,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -66020,7 +66078,7 @@
           {
             "kind": "checklist",
             "items": [
-              "Studierende: Zulassung + Sperrkonto 12.324 € + Versicherung + APS (für Inder nicht erforderlich, anders als für China)",
+              "Studierende: Zulassung + Sperrkonto 11.904 € (992 € × 12) + Versicherung + APS (für Inder nicht erforderlich, anders als für China)",
               "Finanzen: Nachweis über ein Stipendium von DAAD/Erasmus möglich",
               "Bearbeitungsdauer des Studentenvisums – 6-12 Wochen",
               "Recht auf Arbeit: 140 volle Tage oder 280 halbe Tage im Jahr",
@@ -66122,7 +66180,7 @@
       {
         "label": "Sperrkonto (für Chancenkarte/Studierende)",
         "amountEUR": 12324.0,
-        "note": "1027 € × 12 Monate für 2026"
+        "note": "1027 € × 12 Monate für 2026 für die Chancenkarte; für Studierende – 992 € × 12 = 11.904 €"
       }
     ],
     "sources": [
@@ -66176,7 +66234,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -66836,12 +66894,12 @@
     "id": "de-russia-citizens-visa-2026",
     "categoryId": "country_specific",
     "title": "Russische Staatsbürger: Visumantrag 2026",
-    "tldr": "Seit dem 12. September 2022 ist das Abkommen über Visaerleichterungen zwischen der EU und Russland VOLLSTÄNDIG ausgesetzt (Beschluss (EU) 2022/1500 des Rates). Für russische Staatsbürger bedeutet das: Die Visumgebühr ist von 35 € auf 80 € gestiegen (Standardgebühr nach dem Visakodex), es sind mehr Nachweise erforderlich, die Bearbeitungszeiten sind erheblich länger und die Regeln für die Erteilung von Mehrfachvisa sind strenger. 2026 läuft die Beantragung eines Schengen-/nationalen Visums für Deutschland für Russen über eine begrenzte Zahl von Stellen: die Botschaft in Moskau und einzelne Vertretungen (die Antragsannahme ist stark reduziert). Dieser Leitfaden erklärt den aktuellen Ablauf, die Gebühr, die Unterlagen und die Realität der Terminvergabe.",
+    "tldr": "Seit dem 12. September 2022 ist das Abkommen über Visaerleichterungen zwischen der EU und Russland VOLLSTÄNDIG ausgesetzt (Beschluss (EU) 2022/1500 des Rates). Für russische Staatsbürger bedeutet das: Die Visumgebühr ist von 35 € auf 90 € gestiegen (Standardgebühr nach dem Visakodex), es sind mehr Nachweise erforderlich, die Bearbeitungszeiten sind erheblich länger und die Regeln für die Erteilung von Mehrfachvisa sind strenger. 2026 läuft die Beantragung eines Schengen-/nationalen Visums für Deutschland für Russen über eine begrenzte Zahl von Stellen: die Botschaft in Moskau und einzelne Vertretungen (die Antragsannahme ist stark reduziert). Dieser Leitfaden erklärt den aktuellen Ablauf, die Gebühr, die Unterlagen und die Realität der Terminvergabe.",
     "tags": [
       "Russland",
       "Visum 2026",
       "Beschluss 2022/1500",
-      "Gebühr 80€",
+      "Gebühr 90€",
       "Botschaft Moskau"
     ],
     "estimatedReadMinutes": 5,
@@ -66857,7 +66915,7 @@
           {
             "kind": "checklist",
             "items": [
-              "Visumgebühr: 80 € (statt der früheren 35 € nach dem Abkommen über Visaerleichterungen)",
+              "Visumgebühr: 90 € (seit 11.06.2024; statt der früheren 35 € nach dem Abkommen über Visaerleichterungen)",
               "Mehr Nachweise (Zweck, Finanzen, Bindungen, Versicherung)",
               "Erheblich längere Bearbeitungszeiten als zuvor",
               "Strengere Regeln für Mehrfachvisa (multiple-entry)"
@@ -66886,7 +66944,7 @@
                 "content": [
                   {
                     "kind": "paragraph",
-                    "text": "Kurzaufenthalte bis zu 90 Tage. Gebühr 80 €. Termine und Annahme sind stark eingeschränkt; die Bearbeitungszeiten sind länger als üblich. Gründe, die eher berücksichtigt werden: Besuch enger Verwandter, medizinische Behandlung, geschäftliche/offizielle Zwecke mit Einladung."
+                    "text": "Kurzaufenthalte bis zu 90 Tage. Gebühr 90 €. Termine und Annahme sind stark eingeschränkt; die Bearbeitungszeiten sind länger als üblich. Gründe, die eher berücksichtigt werden: Besuch enger Verwandter, medizinische Behandlung, geschäftliche/offizielle Zwecke mit Einladung."
                   }
                 ]
               },
@@ -66931,8 +66989,8 @@
     "costs": [
       {
         "label": "Schengen-Visum (Typ C)",
-        "amountEURMin": 80,
-        "amountEURMax": 80,
+        "amountEURMin": 90,
+        "amountEURMax": 90,
         "note": "Standardgebühr nach dem Visakodex nach Aufhebung der Erleichterungen für russische Staatsbürger."
       },
       {
@@ -66992,7 +67050,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -68497,20 +68555,20 @@
     "editorialVoice": "hackgermany",
     "id": "de-ukraine-temporary-protection",
     "categoryId": "country_specific",
-    "title": "Ukrainer: §24 vorübergehender Schutz bis 2027",
-    "tldr": "Ukrainische Staatsangehörige erhalten in Deutschland vorübergehenden Schutz nach §24 AufenthG – die nationale Umsetzung der EU-Richtlinie über den vorübergehenden Schutz (2001/55/EG), die der Rat der EU im März 2022 mit einem Durchführungsbeschluss (Durchführungsbeschluss 2022/382) aktiviert hat. Der Schutz wurde durch Beschluss des Rates der EU bis zum 4. März 2027 verlängert (genehmigt im Juni–Juli 2025). Der Status nach §24 berechtigt zum Aufenthalt, zur Arbeit (ohne gesonderte Erlaubnis), zum Bezug von Bürgergeld (SGB II) und zur medizinischen Versorgung sowie zu Integrationskursen. Die Beantragung erfolgt ohne Asylverfahren: Registrierung bei der Ausländerbehörde, Erteilung eines Aufenthaltstitels nach §24. Von diesem Status kann man auf einen anderen Aufenthaltstitel wechseln: Arbeit §18, Blaue Karte §18b, Studium §16b, Familiennachzug. Die Ausstellung der Aufenthaltstitel-Karte kostet rund 100€, für Ukrainer jedoch häufig ermäßigt oder gebührenfrei.",
+    "title": "Ukrainer: §24 vorübergehender Schutz bis 2028",
+    "tldr": "Ukrainische Staatsangehörige erhalten in Deutschland vorübergehenden Schutz nach §24 AufenthG – die nationale Umsetzung der EU-Richtlinie über den vorübergehenden Schutz (2001/55/EG), die der Rat der EU im März 2022 mit einem Durchführungsbeschluss (Durchführungsbeschluss 2022/382) aktiviert hat. Der Schutz wurde durch Beschluss des Rates der EU bis zum 4. März 2028 verlängert (Durchführungsbeschluss (EU) 2026/1912 vom 30.07.2026); wer nach dem 30.07.2026 erstmals Schutz beantragt, muss die Erfüllung der ukrainischen Wehrpflichten nachweisen. Der Status nach §24 berechtigt zum Aufenthalt, zur Arbeit (ohne gesonderte Erlaubnis), zum Bezug von Grundsicherungsgeld (früher Bürgergeld; SGB II) und zur medizinischen Versorgung sowie zu Integrationskursen. Die Beantragung erfolgt ohne Asylverfahren: Registrierung bei der Ausländerbehörde, Erteilung eines Aufenthaltstitels nach §24. Von diesem Status kann man auf einen anderen Aufenthaltstitel wechseln: Arbeit §18, Blaue Karte §18b, Studium §16b, Familiennachzug. Die Ausstellung der Aufenthaltstitel-Karte kostet rund 100€, für Ukrainer jedoch häufig ermäßigt oder gebührenfrei.",
     "tags": [
       "Ukraine",
       "§24 AufenthG",
       "vorübergehender Schutz",
       "Richtlinie 2001/55",
-      "bis 2027"
+      "bis 2028"
     ],
     "estimatedReadMinutes": 7,
     "steps": [
       {
         "id": "legal-basis",
-        "title": "Rechtsgrundlage und Verlängerung bis 2027",
+        "title": "Rechtsgrundlage und Verlängerung bis 2028",
         "content": [
           {
             "kind": "paragraph",
@@ -68521,15 +68579,15 @@
             "items": [
               "EU-Richtlinie 2001/55/EG – Temporary Protection Directive, aktiviert am 04.03.2022",
               "Der deutsche §24 AufenthG – die nationale Umsetzung",
-              "Verlängerung: Der Rat der EU hat im Juni 2025 einstimmig zugestimmt und den Schutz förmlich bis zum 4. März 2027 bestätigt",
+              "Verlängerung: Der Rat der EU hat den Schutz am 30.07.2026 bis zum 4. März 2028 verlängert (Beschluss (EU) 2026/1912)",
               "Status OHNE Asylverfahren – ein Asylverfahren muss nicht durchlaufen werden",
               "Gilt für ukrainische Staatsangehörige und bestimmte weitere Personengruppen, die am 24.02.2022 in der Ukraine gelebt haben",
-              "Die EU erörtert Übergangsmechanismen für die Zeit NACH März 2027 (transition)"
+              "Neue Bedingung: Wer nach dem 30.07.2026 erstmals Schutz beantragt, muss die Erfüllung der ukrainischen Wehrpflichten nachweisen (z. B. Ausreisestempel oder App Reserve+); wer bereits Schutz hat, ist nicht betroffen"
             ]
           },
           {
             "kind": "warning",
-            "text": "§24 ist ein vorübergehender Status. Wer plant, lange zu bleiben, sollte frühzeitig auf einen dauerhaften Aufenthaltstitel wechseln: Arbeit, Studium, Familiennachzug – und nicht bis zum Ende der Regelung 2027 warten."
+            "text": "§24 ist ein vorübergehender Status. Wer plant, lange zu bleiben, sollte frühzeitig auf einen dauerhaften Aufenthaltstitel wechseln: Arbeit, Studium, Familiennachzug – und nicht bis zum Ende der Regelung (derzeit März 2028) warten."
           }
         ]
       },
@@ -68546,7 +68604,7 @@
             "items": [
               "Aufenthaltsrecht auf Grundlage der Aufenthaltstitel-Karte §24 AufenthG",
               "Recht auf Arbeit – ohne gesonderte Arbeitserlaubnis; eine Beschäftigung ist sofort zulässig",
-              "Zugang zum Bürgergeld (SGB II) über das Jobcenter – anders als bei Asylsuchenden (AsylbLG)",
+              "Zugang zum Grundsicherungsgeld (früher Bürgergeld; SGB II) über das Jobcenter – anders als bei Asylsuchenden (AsylbLG)",
               "Medizinische Versorgung über das reguläre Versicherungssystem – die gesetzliche Krankenversicherung",
               "Anspruch auf Integrations- und Sprachkurse (Integrationskurs)",
               "Zugang der Kinder zu Schule und Kindergarten",
@@ -68569,7 +68627,7 @@
               "Anmeldung des Wohnsitzes und Vorsprache bei der Ausländerbehörde",
               "Nachweis der ukrainischen Staatsangehörigkeit (Pass) oder des Aufenthaltsstatus in der Ukraine am 24.02.2022",
               "Biometrie und Ausstellung der Aufenthaltstitel-Karte §24",
-              "Registrierung beim Jobcenter für das Bürgergeld und bei der Krankenkasse",
+              "Registrierung beim Jobcenter für das Grundsicherungsgeld und bei der Krankenkasse",
               "Wechsel auf §18a/§18b (Arbeit), §18b Blaue Karte, §16b (Studium), §28/§30 (Familie) – bei Erfüllung der Voraussetzungen",
               "Die Zeit mit dem Status nach §24 wird für die Einbürgerung ab dem Zeitpunkt der Statuserteilung angerechnet",
               "Der Wechsel auf einen Aufenthaltstitel zur Arbeit ist langfristig oft vorteilhafter: Er hängt nicht von der Verlängerung der Regelung zum vorübergehenden Schutz ab"
@@ -68577,7 +68635,7 @@
           },
           {
             "kind": "warning",
-            "text": "Verfolgen Sie die offiziellen Beschlüsse der EU und des Bundesministeriums des Innern (BMI) zur Zukunft der Regelung nach März 2027. Derzeit werden Übergangsregeln erörtert, doch der endgültige Mechanismus kann sich ändern – planen Sie den Wechsel auf einen dauerhaften Titel rechtzeitig."
+            "text": "Verfolgen Sie die offiziellen Beschlüsse der EU und des Bundesministeriums des Innern (BMI): Der EU-Schutz gilt jetzt bis März 2028, die automatische Verlängerung bereits erteilter §24-Titel ist per Verordnung bisher nur bis 04.03.2027 geregelt (das offizielle Portal Germany4Ukraine kündigt die Verlängerung bis 04.03.2028 an, die Verordnung steht aus). Der Mechanismus kann sich ändern – planen Sie den Wechsel auf einen dauerhaften Titel rechtzeitig."
           }
         ]
       }
@@ -68611,11 +68669,11 @@
         "lastRetrieved": "2026-06-03"
       },
       {
-        "title": "European Council — Temporary protection for Ukraine extended until March 2027",
-        "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/06/13/eu-member-states-agree-to-extend-temporary-protection-for-refugees-from-ukraine/",
+        "title": "Council of the EU — Temporary protection for Ukraine extended until 4 March 2028",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/15/eu-countries-agree-to-extend-temporary-protection-for-those-fleeing-ukraine-until-march-2028/",
         "kind": "official",
         "language": "en",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-09-25"
       },
       {
         "title": "BAMF — Schutz für Geflüchtete aus der Ukraine (§24 AufenthG)",
@@ -68633,9 +68691,15 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Der Bundesrat hat am 25.09.2026 der 9. Änderung der Ukraine-Aufenthaltsübergangsverordnung (UkraineAufenthÜV) zugestimmt: Aufenthalte bis zu 90 Tagen ohne Aufenthaltstitel bleiben für Einreisen bis 04.12.2027 möglich, die Verordnung gilt bis 04.03.2028; Neuankommende, die der ukrainischen Wehrpflicht unterliegen, müssen deren Erfüllung nachweisen. Inkrafttreten nach Verkündung im BGBl.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Die EU hat den Schutz für Ukrainer bis 04.03.2028 verlängert; Erstantragsteller müssen die Erfüllung der Wehrpflichten nachweisen."
   },
   {
     "editorialVoice": "hackgermany",
@@ -69200,7 +69264,7 @@
             "items": [
               "§22 – humanitäre Aufnahme aus besonderen Gründen (in der Regel nicht selbst beantragt)",
               "§23 – Programme der Länder und des Bundes, u. a. jüdische Zuwanderung (Kontingentflüchtling)",
-              "§24 – vorübergehender Schutz für Ukrainer (verlängert bis zum 4. März 2027)",
+              "§24 – vorübergehender Schutz für Ukrainer (verlängert bis zum 4. März 2028)",
               "§25 – anerkannte Flüchtlinge und subsidiär Schutzberechtigte",
               "§28 – Nachzug zu einem Deutschen (Ehegatte, Kind, Eltern)",
               "§29-§30 – Nachzug zu einem ausländischen Ehegatten mit Aufenthaltstitel",
@@ -69264,7 +69328,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -71145,12 +71209,12 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "§24 AufenthG setzt die EU-Massenzustromrichtlinie 2001/55/EG um, die erstmals in der Geschichte der EU durch den Beschluss des EU-Rates 2022/382 vom 4. März 2022 aktiviert wurde. Ukrainer erhalten nach §24 eine befristete Aufenthaltserlaubnis (AE) für 1–3 Jahre mit Verlängerung; 2026 hat der EU-Rat die Geltung bis März 2027 verlängert."
+            "text": "§24 AufenthG setzt die EU-Massenzustromrichtlinie 2001/55/EG um, die erstmals in der Geschichte der EU durch den Beschluss des EU-Rates 2022/382 vom 4. März 2022 aktiviert wurde. Ukrainer erhalten nach §24 eine befristete Aufenthaltserlaubnis (AE) für 1–3 Jahre mit Verlängerung; 2026 hat der EU-Rat die Geltung bis zum 4. März 2028 verlängert."
           },
           {
             "kind": "checklist",
             "items": [
-              "§24 AufenthG — vorübergehender Schutz; gilt bis zum 04.03.2027 (letzter Beschluss des EU-Rates)",
+              "§24 AufenthG — vorübergehender Schutz; gilt bis zum 04.03.2028 (Beschluss des EU-Rates vom 30.07.2026)",
               "Recht auf Arbeit ab dem ersten Tag (ohne Vorrangprüfung)",
               "Zugang zum Bürgergeld seit Juni 2022 (Übergang vom AsylbLG)",
               "Voller Zugang zur gesetzlichen Krankenversicherung (GKV)",
@@ -71299,7 +71363,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -71819,9 +71883,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Das BStabG ist beschlossen: Ab 01.01.2028 zahlt, wer den Ehe- oder Lebenspartner beitragsfrei mitversichert, einen Zuschlag von 2,5 Beitragssatzpunkten – allein, ohne Arbeitgeberanteil. Ausnahmen u. a.: ein Kind unter 12 Jahren oder ein Kind mit Behinderung im Haushalt, Pflege eines Angehörigen ab Pflegegrad 2. Kinder bleiben beitragsfrei mitversichert.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2028-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -72476,9 +72545,14 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Das BStabG ist beschlossen: Endet das Beschäftigungsverhältnis während der Arbeitsunfähigkeit (Kündigung, Aufhebungsvertrag oder Ende einer Befristung), beträgt das Krankengeld ab 01.01.2027 ab dem Folgetag 60 % des Nettoentgelts (67 % mit Kind) – wie beim Arbeitslosengeld.",
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/228/VO.html",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -73506,9 +73580,14 @@
       }
     ],
     "lastRetrieved": "2026-05-29",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Gesetzentwurf (Kabinett 02.09.2026, noch nicht beschlossen): Ab 2027 soll die Steuerermäßigung für Handwerkerleistungen (§35a EStG) von 20 % auf 15 % und der Höchstbetrag von 1 200 € auf 900 € pro Jahr sinken. Für 2026 erbrachte und bezahlte Leistungen gilt noch die bisherige Ermäßigung.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -75745,9 +75824,13 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Gesetzentwurf (Kabinett 29.04.2026, derzeit im Rechtsausschuss des Bundestags, noch nicht beschlossen): In angespannten Märkten dürfte eine Indexmiete Inflation über 3 % pro Jahr nur zur Hälfte weitergeben; der Möblierungszuschlag ist gesondert auszuweisen (pauschal 10 % der Miete); Kurzzeitvermietung höchstens 6 Monate (verlängerbar auf 8).",
+      "sourceUrl": "https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0429_Miete_II.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -77002,10 +77085,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
-    "lastRetrieved": "2026-06-03"
+    "lastRetrieved": "2026-06-03",
+    "pendingLaw": {
+      "summary": "Der Bundesrat hat am 25.09.2026 einer Änderung der 35. BImSchV zugestimmt: Elektroautos mit E-Kennzeichen brauchen für Umweltzonen keine Umweltplakette mehr. Die Regel gilt ab Verkündung; für E-Autos mit ausländischem Kennzeichen gilt sie nicht.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -79093,7 +79180,7 @@
     "id": "de-umsatzsteuer-voranmeldung",
     "categoryId": "self_employment",
     "title": "USt-Voranmeldung: monatlich",
-    "tldr": "Die USt-Voranmeldung ist die vorläufige Anmeldung der Umsatzsteuer, die die meisten Unternehmer (außer Kleinunternehmer nach §19 UStG) regelmäßig über das Finanzamtsportal ELSTER abgeben müssen. Der Standardzeitraum ist das Quartal; monatlich geben diejenigen ab, deren Zahllast des Vorjahres 7500 € überstieg. Die frühere Regel „neue Betriebe melden die ersten zwei Jahre immer monatlich“ ist bis Ende 2026 ausgesetzt, deshalb melden Neugründer derzeit standardmäßig vierteljährlich. Frist – bis zum 10. des Monats, der auf den Meldezeitraum folgt. Man kann eine Dauerfristverlängerung erhalten – einen weiteren Monat (für Monatsmelder ist eine Sondervorauszahlung nötig). In der Anmeldung weisen Sie die berechnete Umsatzsteuer abzüglich der abziehbaren Vorsteuer aus und zahlen die Differenz (oder erhalten eine Erstattung). Die Abgabe erfolgt ausschließlich elektronisch über ELSTER. Der Steuerberater verlangt für die Bearbeitung rund 50–200 € pro Monat.",
+    "tldr": "Die USt-Voranmeldung ist die vorläufige Anmeldung der Umsatzsteuer, die die meisten Unternehmer (außer Kleinunternehmer nach §19 UStG) regelmäßig über das Finanzamtsportal ELSTER abgeben müssen. Der Standardzeitraum ist das Quartal; monatlich geben diejenigen ab, deren Zahllast des Vorjahres 9 000 € überstieg. Die frühere Regel „neue Betriebe melden die ersten zwei Jahre immer monatlich“ ist bis Ende 2026 ausgesetzt, deshalb melden Neugründer derzeit standardmäßig vierteljährlich. Frist – bis zum 10. des Monats, der auf den Meldezeitraum folgt. Man kann eine Dauerfristverlängerung erhalten – einen weiteren Monat (für Monatsmelder ist eine Sondervorauszahlung nötig). In der Anmeldung weisen Sie die berechnete Umsatzsteuer abzüglich der abziehbaren Vorsteuer aus und zahlen die Differenz (oder erhalten eine Erstattung). Die Abgabe erfolgt ausschließlich elektronisch über ELSTER. Der Steuerberater verlangt für die Bearbeitung rund 50–200 € pro Monat.",
     "tags": [
       "ust-voranmeldung",
       "umsatzsteuer",
@@ -79109,21 +79196,21 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Die Häufigkeit hängt von der Zahllast des Vorjahres ab. Standardzeitraum ist das Quartal; die monatliche Abgabe ist nur Pflicht, wenn die Umsatzsteuer des Vorjahres 7500 € überstieg. Für Neugründer ist die frühere Regel „immer monatlich in den ersten zwei Jahren“ ausgesetzt und gilt bis Ende 2026 nicht."
+            "text": "Die Häufigkeit hängt von der Zahllast des Vorjahres ab. Standardzeitraum ist das Quartal; die monatliche Abgabe ist nur Pflicht, wenn die Umsatzsteuer des Vorjahres 9 000 € überstieg. Für Neugründer ist die frühere Regel „immer monatlich in den ersten zwei Jahren“ ausgesetzt und gilt bis Ende 2026 nicht."
           },
           {
             "kind": "checklist",
             "items": [
               "Standardmäßig (auch für neue Betriebe bis Ende 2026): vierteljährlich",
-              "Umsatzsteuer des Vorjahres über 7500 € – monatlich",
-              "Prognose der Umsatzsteuer über 7500 € im Gründungsjahr – monatlich schon ab dem ersten Jahr",
-              "Umsatzsteuer des Vorjahres nicht mehr als 1000 € – das Finanzamt kann von der Voranmeldung befreien (nur Jahreserklärung)",
+              "Umsatzsteuer des Vorjahres über 9 000 € – monatlich",
+              "Prognose der Umsatzsteuer über 9 000 € im Gründungsjahr – monatlich schon ab dem ersten Jahr",
+              "Umsatzsteuer des Vorjahres nicht mehr als 2 000 € – das Finanzamt kann von der Voranmeldung befreien (nur Jahreserklärung)",
               "Kleinunternehmer nach §19 UStG geben überhaupt keine Voranmeldung ab"
             ]
           },
           {
             "kind": "warning",
-            "text": "Halten Sie die monatliche Abgabe nicht für automatisch: Bis Ende 2026 bedeutet die Aussetzung, dass Neugründer standardmäßig vierteljährlich abgeben und monatlich nur bei einer Umsatzsteuer über 7500 € des Vorjahres. Ab 2027 kann die frühere Regel für neue Betriebe zurückkehren – klären Sie den aktuellen Modus. Eine Fristversäumnis führt zu einem Verspätungszuschlag und Säumniszuschlägen, und bei Nichtabgabe schätzt das Finanzamt die Umsatzsteuer selbst (Schätzung) – meist nicht zu Ihren Gunsten."
+            "text": "Halten Sie die monatliche Abgabe nicht für automatisch: Bis Ende 2026 bedeutet die Aussetzung, dass Neugründer standardmäßig vierteljährlich abgeben und monatlich nur bei einer Umsatzsteuer über 9 000 € des Vorjahres. Ab 2027 kann die frühere Regel für neue Betriebe zurückkehren – klären Sie den aktuellen Modus. Eine Fristversäumnis führt zu einem Verspätungszuschlag und Säumniszuschlägen, und bei Nichtabgabe schätzt das Finanzamt die Umsatzsteuer selbst (Schätzung) – meist nicht zu Ihren Gunsten."
           }
         ]
       },
@@ -79263,9 +79350,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Schwellen korrigiert (seit 2025): monatlich ab 9 000 € Umsatzsteuer, Befreiung bis 2 000 €."
   },
   {
     "editorialVoice": "hackgermany",
@@ -80261,9 +80350,16 @@
         "lastVerified": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Ab 01.01.2027 steigt der Mindestlohn auf 14,60 €/Stunde (bereits per Verordnung festgelegt), damit erhöht sich die Minijob-Grenze auf 633 € im Monat, der Midijob-Bereich reicht dann von 633,01 bis 2 000 €. Zudem soll laut Regierungsentwurf (Kabinett 02.09.2026, noch nicht beschlossen) die vom Arbeitgeber gezahlte Pauschalsteuer von 2 % auf 5 % steigen.",
+      "sourceUrl": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/fuenfte-mindestlohnanpassungsverordnung-milov5.html",
+      "expectedDate": "2027-01-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Ab 2027 liegt die Minijob-Grenze bei 633 € (Mindestlohn 14,60 €)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -81707,11 +81803,11 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-09-01",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Gesetzentwurf (Kabinett 06.07.2026): Ab 2027 sollen die planmäßige Wohngeld-Erhöhung entfallen, die Heizkostenkomponente gekürzt und die Formel verschärft werden (Beträge unter 15 €/Monat entfallen). Noch NICHT beschlossen — 2026 gelten die aktuellen Beträge.",
+      "summary": "Gesetzentwurf (Kabinett 06.07.2026): Ab 2027 sollen die planmäßige Wohngeld-Erhöhung entfallen, die Heizkostenkomponente gekürzt und die Formel verschärft werden (Beträge unter 15 €/Monat entfallen). Noch NICHT beschlossen — 2026 gelten die aktuellen Beträge. Der Bundesrat hat am 25.09.2026 kritisch Stellung genommen; der Bundestag hat noch nicht abgestimmt.",
       "expectedDate": "2027-01-01",
       "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/neuordnung-wohngeld-2445796"
     }
@@ -84718,6 +84814,7 @@
               "Frist: 14 Tage ab Erhalt der Ware (Widerrufsfrist)",
               "Den Grund müssen Sie NICHT angeben",
               "Es genügt eine eindeutige Widerrufserklärung (Formular, E-Mail, Rücksende-Button) – fristgerecht abschicken",
+              "Seit 19.06.2026 müssen Online-Shops einen gut sichtbaren Widerrufsbutton anbieten (§356a BGB) – der Widerruf gelingt mit wenigen Klicks",
               "Das Geld wird innerhalb von 14 Tagen nach dem Widerruf erstattet, einschließlich der Kosten der Standard-Hinsendung",
               "Wenn der Händler nicht über das Widerrufsrecht informiert hat – verlängert sich die Frist auf bis zu 12 Monate",
               "Die Rücksendung der Ware selbst – innerhalb von 14 Tagen nach der Widerrufserklärung"
@@ -84849,7 +84946,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -85570,13 +85667,13 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -86759,13 +86856,13 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
       "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.asyl.net/view/veroeffentlichungen-verschiedener-gesetzesaenderungen-im-bundesgesetzblatt"
+      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
     }
   },
   {
@@ -87800,7 +87897,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "Für die meisten Teilnehmenden ist der Kurs kostenlos. Ein Kostenbeitrag fällt in der Regel an, wenn Ihr jährliches zu versteuerndes Einkommen über der Schwelle liegt (orientierend 20 000 € bei Einzelveranlagung oder 40 000 € bei gemeinsamer Veranlagung mit dem Ehepartner) oder Sie sozialversicherungspflichtig beschäftigt sind; der Satz beträgt rund 2,42 € pro Unterrichtsstunde. Empfängerinnen und Empfänger von Sozialleistungen sowie vom Jobcenter oder von der Agentur für Arbeit zugewiesene Personen sind in der Regel vollständig befreit. Genaue Zahlen und Schwellen erfragen Sie beim Träger oder beim BAMF."
+            "text": "Für die meisten Teilnehmenden ist der Kurs kostenlos. Nach dem geänderten §4 DeuFöV (seit 30.04.2026) zahlen Beschäftigte einen Kostenbeitrag (50 % des Kostenerstattungssatzes) nur, wenn ihr jährliches Bruttoentgelt 33 % der Beitragsbemessungsgrenze der Rentenversicherung übersteigt – 2026 rund 33 462 €; mit einem Kind erhöht sich die Schwelle um 10 % der Grenze (≈ 43 602 €), mit zwei oder mehr um 20 % (≈ 53 742 €). Leistungsbeziehende (Grundsicherung, Arbeitslosengeld, AsylbLG) und Auszubildende sind befreit. Genaue Zahlen erfragen Sie beim Träger oder beim BAMF."
           },
           {
             "kind": "warning",
@@ -87864,7 +87961,7 @@
         "label": "Kostenbeitrag pro Unterrichtsstunde bei Einkommen über der Schwelle",
         "amountEURMin": 2.42,
         "amountEURMax": 2.42,
-        "note": "Orientierend 2,42 € pro Stunde bei zu versteuerndem Einkommen über der Schwelle (≈20 000/40 000 €) oder bei sozialversicherungspflichtiger Beschäftigung; 50 % sind nach bestandener Prüfung erstattbar. Oft übernimmt der Arbeitgeber die Kosten. Beim BAMF erfragen."
+        "note": "Kostenbeitrag 50 % des Kostenerstattungssatzes (orientierend 2,42 € pro Stunde) – nur für Beschäftigte mit Bruttoentgelt über ≈ 33 462 € im Jahr (2026; mit Kindern höher); 50 % sind nach bestandener Prüfung erstattbar. Oft übernimmt der Arbeitgeber die Kosten. Beim BAMF erfragen."
       },
       {
         "label": "telc-Prüfung B2/C1 bei Wiederholung außerhalb des Kurses",
@@ -87904,7 +88001,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -89700,7 +89797,7 @@
               "Die eID im Personalausweis — der wichtigste digitale Identitätsnachweis für Online-Behördenleistungen",
               "BundID — das gemeinsame digitale Konto für Anträge bei Behörden",
               "Mein ELSTER — Steuerangelegenheiten vollständig online",
-              "i-Kfz — Kfz-Zulassung online (aber das ist kein „Führerschein im Handy“)",
+              "i-Kfz — Kfz-Zulassung online; seit November 2025 kann die i-Kfz-App den digitalen Fahrzeugschein speichern, der das Papierdokument ersetzt (aber das ist kein „Führerschein im Handy“)",
               "E-Rezept und ePA — Rezepte und Patientenakte in digitaler Form"
             ]
           },
@@ -89755,7 +89852,7 @@
             "items": [
               "Aktivieren Sie die eID im Personalausweis — sie deckt Online-Behördenleistungen schon heute ab",
               "Installieren Sie die AusweisApp und erstellen Sie eine BundID",
-              "Führen Sie den Führerschein im Original und (bei Bedarf) die Zulassungsbescheinigung Teil I im Auto mit",
+              "Führen Sie den Führerschein im Original und (bei Bedarf) die Zulassungsbescheinigung Teil I (auf Papier oder digital in der i-Kfz-App) im Auto mit",
               "Werfen Sie die Plastikdokumente nicht in Erwartung der digitalen weg — der Übergang dauert Jahre"
             ]
           }
@@ -89814,7 +89911,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -94870,9 +94967,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Ab 01.01.2027 erhalten Selbstständige erstmals Zugang zur geförderten privaten Vorsorge – dem neuen Altersvorsorgedepot (Riester-Reform): bis zu 540 € Förderung pro Jahr (+ bis 300 € je Kind). Vergleichen Sie es vor Vertragsabschluss mit der Rürup-Rente.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/reform-private-altersvorsorge-2400072",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -98848,7 +98950,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Ukrainische Staatsangehörige mit vorübergehendem Schutz nach §24 AufenthG (EU-Massenzustrom-Richtlinie) dürfen in Deutschland mit ihrem gültigen ukrainischen nationalen Führerschein fahren. Der vorübergehende Schutz in der EU und in Deutschland ist bis zum 4. März 2027 verlängert. Für Personen mit vorübergehendem Schutz hat der Verordnungsgeber besondere Regelungen eingeführt: Die Frist, in der ukrainische Führerscheine ohne verpflichtende Umschreibung anerkannt werden, wurde durch einzelne Verordnungen verlängert. Das unterscheidet sich von der allgemeinen „6-Monats“-Regel, die für übrige Ausländer gilt."
+            "text": "Ukrainische Staatsangehörige mit vorübergehendem Schutz nach §24 AufenthG (EU-Massenzustrom-Richtlinie) dürfen in Deutschland mit ihrem gültigen ukrainischen nationalen Führerschein fahren. Der vorübergehende Schutz in der EU ist bis zum 4. März 2028 verlängert. Für Personen mit vorübergehendem Schutz hat der Verordnungsgeber besondere Regelungen eingeführt: Die Frist, in der ukrainische Führerscheine ohne verpflichtende Umschreibung anerkannt werden, wurde durch einzelne Verordnungen verlängert. Das unterscheidet sich von der allgemeinen „6-Monats“-Regel, die für übrige Ausländer gilt."
           },
           {
             "kind": "warning",
@@ -98989,7 +99091,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -100018,7 +100120,7 @@
     "id": "de-anlage-vorsorge",
     "categoryId": "taxes",
     "title": "Anlage Vorsorgeaufwand: Versicherungsbeiträge",
-    "tldr": "Die Anlage Vorsorgeaufwand ist die Anlage zur Steuererklärung, in der Sie Versicherungsbeiträge als Abzug geltend machen (§10 EStG): Renten-, Kranken-, Pflege- und Arbeitslosenversicherung sowie die Haftpflicht. Die Basisabsicherung in der Kranken- und Pflegeversicherung wird vollständig abgezogen. Beiträge zur Altersvorsorge werden bis zu einer Höchstgrenze abgezogen – rund 27.566€ pro Person im Jahr 2026 (das Doppelte bei Zusammenveranlagung). Das ist einer der größten Abzüge eines Arbeitnehmers.",
+    "tldr": "Die Anlage Vorsorgeaufwand ist die Anlage zur Steuererklärung, in der Sie Versicherungsbeiträge als Abzug geltend machen (§10 EStG): Renten-, Kranken-, Pflege- und Arbeitslosenversicherung sowie die Haftpflicht. Die Basisabsicherung in der Kranken- und Pflegeversicherung wird vollständig abgezogen. Beiträge zur Altersvorsorge werden bis zu einer Höchstgrenze abgezogen – rund 30.826€ pro Person im Jahr 2026 (das Doppelte bei Zusammenveranlagung). Das ist einer der größten Abzüge eines Arbeitnehmers.",
     "tags": [
       "anlage-vorsorge",
       "versicherung",
@@ -100055,7 +100157,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "Seit 2023 werden die Beiträge zur Basis-Altersvorsorge bis zum Höchstabzug zu 100 % berücksichtigt. Im Jahr 2026 liegt der Höchstbetrag für die Altersvorsorge bei rund 27.566€ pro Person (das Doppelte bei zusammen veranlagten Ehegatten). Von dieser Summe wird auch der Arbeitgeberanteil zur Rentenversicherung abgezogen – die Software und ELSTER berechnen das automatisch."
+            "text": "Seit 2023 werden die Beiträge zur Basis-Altersvorsorge bis zum Höchstabzug zu 100 % berücksichtigt. Im Jahr 2026 liegt der Höchstbetrag für die Altersvorsorge bei rund 30.826€ pro Person (das Doppelte bei zusammen veranlagten Ehegatten). Von dieser Summe wird auch der Arbeitgeberanteil zur Rentenversicherung abgezogen – die Software und ELSTER berechnen das automatisch."
           },
           {
             "kind": "checklist",
@@ -100155,7 +100257,7 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
@@ -101052,9 +101154,14 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "pendingLaw": {
+      "summary": "Gesetzentwurf (Kabinett 02.09.2026, noch nicht beschlossen): Ab 2027 soll der Arbeitnehmer-Pauschbetrag von 1 230 auf 1 430 € und der Grundfreibetrag auf 12 564 € steigen. Für die Erklärung 2026 gelten 1 230 €.",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/einkommensteuerreform-2027-2451192",
+      "expectedDate": "2027-01-01"
+    }
   },
   {
     "editorialVoice": "hackgermany",
@@ -103030,7 +103137,7 @@
     "id": "de-ev-charging-emobility",
     "categoryId": "auto_driving",
     "title": "Elektroautos: Laden und Förderung",
-    "tldr": "Das Laden eines Elektroautos in Deutschland erfolgt an öffentlichen Ladesäulen (~0,40–0,60 €/kWh und höher an DC-Schnellladern) und an einer heimischen Wallbox. Ladekarten/Apps (EnBW mobility+, ADAC e-Charge u. a.) geben Zugang zu den Netzen. Die staatliche Kaufprämie (Umweltbonus) für den Kauf eines EV endete im Dezember 2023 – es gibt sie nicht mehr. Halter eines EV können jedoch die THG-Quote verkaufen und ~80–300 € pro Jahr erhalten. Prüfen Sie lokale Förderprogramme für die Wallbox.",
+    "tldr": "Das Laden eines Elektroautos in Deutschland erfolgt an öffentlichen Ladesäulen (~0,40–0,60 €/kWh und höher an DC-Schnellladern) und an einer heimischen Wallbox. Ladekarten/Apps (EnBW mobility+, ADAC e-Charge u. a.) geben Zugang zu den Netzen. Der alte Umweltbonus endete im Dezember 2023, doch seit 2026 gibt es eine neue Bundesförderung (E-Auto-Förderung): bis zu 6 000 € für ein neues Elektroauto (Kauf oder Leasing, Zulassung ab 01.01.2026) für Haushalte mit zu versteuerndem Einkommen bis 80 000 € (+5 000 € je Kind, max. 90 000 €); Antrag über das Portal foerderzentrale.gov.de (BAFA). Zudem können Halter eines EV die THG-Quote verkaufen und ~80–300 € pro Jahr erhalten. Prüfen Sie lokale Förderprogramme für die Wallbox.",
     "tags": [
       "elektroauto",
       "ev",
@@ -103103,11 +103210,11 @@
       },
       {
         "id": "foerderung-thg",
-        "title": "Schritt 4. Förderung: Umweltbonus beendet, THG-Quote läuft",
+        "title": "Schritt 4. Förderung: neue E-Auto-Förderung 2026 und THG-Quote",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Wichtig fürs Budget: Die bundesweite Kaufprämie (Umweltbonus) für den Kauf eines neuen Elektroautos wurde im Dezember 2023 eingestellt – Anträge werden nicht mehr angenommen. Auf eine staatliche „Kaufprämie für ein EV“ sollten Sie also derzeit nicht setzen. Die Historie des Programms führte das BAFA."
+            "text": "Wichtig fürs Budget: Der alte Umweltbonus endete im Dezember 2023, doch seit 2026 gibt es die neue E-Auto-Förderung für Haushalte mit kleinen und mittleren Einkommen. Elektroauto (BEV): 3 000 € Basis, +1 000 € bei Einkommen bis 60 000 € und weitere +1 000 € bis 45 000 €, +500 € je Kind (max. zwei) – insgesamt bis 6 000 €; Plug-in-Hybrid (PHEV) – bis 4 500 €. Voraussetzungen: zu versteuerndes Haushaltseinkommen bis 80 000 € (+5 000 € je Kind, max. 90 000 €), Neufahrzeug, Kauf oder Leasing, Zulassung ab 01.01.2026. Beantragt wird über das Portal foerderzentrale.gov.de, ausgezahlt vom BAFA; das Budget ist begrenzt – stellen Sie den Antrag zeitnah."
           },
           {
             "kind": "paragraph",
@@ -103116,7 +103223,7 @@
           {
             "kind": "checklist",
             "items": [
-              "Umweltbonus (Kaufprämie) – im Dezember 2023 beendet, keine neuen Auszahlungen",
+              "Neue E-Auto-Förderung 2026: bis 6 000 € (BEV) / 4 500 € (PHEV) bei Einkommen bis 80 000–90 000 € – Antrag über foerderzentrale.gov.de",
               "THG-Quote – verfügbar für Halter von BEV (rein elektrisch), nicht für Hybride",
               "Sie brauchen die Zulassungsbescheinigung Teil I (Foto) und eine Registrierung beim Quoten-Anbieter",
               "Auszahlung einmal jährlich; vergleichen Sie Anbieter und Konditionen (Fixbetrag vs. Marktanteil)",
@@ -103140,19 +103247,19 @@
         "note": "Jährlicher Ertrag für BEV-Halter; die Summe schwankt mit dem Marktpreis der Quote."
       },
       {
-        "label": "Umweltbonus (Kaufprämie)",
-        "amountEURMin": 0,
-        "amountEURMax": 0,
-        "note": "Die bundesweite Kaufprämie für EV wurde im Dezember 2023 eingestellt – wird nicht mehr ausgezahlt."
+        "label": "E-Auto-Förderung 2026",
+        "amountEURMin": 1500,
+        "amountEURMax": 6000,
+        "note": "Einmalige Bundesförderung für ein neues E-Auto (BEV bis 6 000 €, PHEV bis 4 500 €) bei Haushaltseinkommen bis 80 000 € (+5 000 € je Kind). Antrag über das BAFA."
       }
     ],
     "sources": [
       {
-        "title": "BAFA — Elektromobilität / Umweltbonus (historisches Programm)",
+        "title": "BAFA — E-Auto-Förderung (neues Programm 2026)",
         "url": "https://www.bafa.de/DE/Energie/Energieeffizienz/Elektromobilitaet/elektromobilitaet_node.html",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-09-25"
       },
       {
         "title": "Umweltbundesamt (UBA) — THG-Quote im Verkehr",
@@ -103176,9 +103283,11 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Neue E-Auto-Förderung 2026: bis 6 000 € bei Einkommen bis 80–90 Tsd. € (Antrag über BAFA)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -103300,9 +103409,16 @@
         "lastRetrieved": "2026-06-03"
       }
     ],
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "pendingLaw": {
+      "summary": "Tankrabatt: Bundestag und Bundesrat haben am 25.09.2026 die Senkung der Energiesteuer auf Benzin und Diesel um 14,04 ct/l (inkl. MwSt. rund 17 ct/l) für den Zeitraum 01.10.–31.12.2026 beschlossen. Sie gilt nach Verkündung im BGBl; ob die Tankstellen die Senkung voll weitergeben, hängt vom Markt ab.",
+      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html",
+      "expectedDate": "2026-10-01"
+    },
+    "recentlyChangedAt": "2026-09-25",
+    "changeSummary": "Energiesteuer auf Kraftstoff sinkt um ~17 ct/l für 01.10.–31.12.2026 (beschlossen 25.09.2026)."
   },
   {
     "editorialVoice": "hackgermany",
@@ -106523,7 +106639,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "Auf vielen Säften, Wein, Milch und manchen Getränken gibt es gar kein Pfand — solche Behälter kommen in die normale Mülltrennung (Glas in den Altglascontainer, PET ohne Pfand in den Gelben Sack / die Gelbe Tonne)."
+            "text": "Ohne Pfand sind meist Säfte, Wein und Milch in Glasflaschen oder Getränkekartons (Tetra Pak) — solche Verpackungen kommen in die normale Mülltrennung (Glas in den Altglascontainer, Kartons in den Gelben Sack / die Gelbe Tonne). Einweg-Plastikflaschen und Dosen für Getränke sind dagegen fast immer pfandpflichtig (25 ct): Säfte seit 2022, Milch und Milchmischgetränke seit dem 01.01.2024."
           }
         ]
       },
@@ -106586,7 +106702,7 @@
             "items": [
               "Ein Geschäft muss die Art von Pfand-Leergut zurücknehmen, die es verkauft (Einweg/Mehrweg)",
               "Kleine Geschäfte (< 200 m²) dürfen nur die Marken/Materialien zurücknehmen, die sie selbst verkaufen",
-              "Flaschen von Milchgetränken und manchen Säften sind oft ohne Pfand — prüfen Sie das Symbol",
+              "Milch und Milchgetränke in Einweg-Plastikflaschen sind seit 2024 ebenfalls pfandpflichtig (25 ct) — achten Sie auf das DPG-Symbol",
               "Zerbrochenes oder stark zerdrücktes Leergut nimmt der Automat nicht an — es wird, wenn möglich, an der Kasse von Hand zurückgegeben",
               "Glas ohne Pfand gibt man in den Altglascontainer auf der Straße und trennt nach Farbe (Weiß/Grün/Braun)"
             ]
@@ -106650,7 +106766,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false
   },
@@ -110162,7 +110278,7 @@
     "id": "de-university-tuition-fees",
     "categoryId": "education_children",
     "title": "Studiengebühren: Gibt es sie in Deutschland?",
-    "tldr": "Die gute Nachricht: Öffentliche Hochschulen in Deutschland sind überwiegend kostenlos – Studiengebühren gibt es selbst für Ausländerinnen und Ausländer nicht. Studierende zahlen nur einen Semesterbeitrag von rund 150–350 €, in dem üblicherweise ein Semesterticket und studentische Dienstleistungen enthalten sind. Ausnahmen: Das Bundesland Baden-Württemberg erhebt von Studierenden aus Nicht-EU/EWR-Staaten rund 1500 € pro Semester, und private Hochschulen sind immer kostenpflichtig. Eine Promotion ist in der Regel ebenfalls gebührenfrei. Die maßgebliche Quelle zum Studium für Ausländerinnen und Ausländer ist der Deutsche Akademische Austauschdienst (DAAD).",
+    "tldr": "Die gute Nachricht: Öffentliche Hochschulen in Deutschland sind überwiegend kostenlos – Studiengebühren gibt es selbst für Ausländerinnen und Ausländer nicht. Studierende zahlen nur einen Semesterbeitrag von rund 150–350 €, in dem üblicherweise ein Semesterticket und studentische Dienstleistungen enthalten sind. Ausnahmen: Baden-Württemberg erhebt von Studierenden aus Nicht-EU/EWR-Staaten rund 1500 € pro Semester; in Bayern dürfen Hochschulen selbst Gebühren für Nicht-EU-Studierende erheben – etwa die TUM (meist 2 000–6 000 € pro Semester), die THI und die FAU (ab Sommersemester 2027); private Hochschulen sind immer kostenpflichtig. Eine Promotion ist in der Regel ebenfalls gebührenfrei. Die maßgebliche Quelle zum Studium für Ausländerinnen und Ausländer ist der Deutsche Akademische Austauschdienst (DAAD).",
     "tags": [
       "hochschule",
       "studiengebühren",
@@ -110227,7 +110343,7 @@
       },
       {
         "id": "exceptions",
-        "title": "Ausnahmen: Baden-Württemberg und private Hochschulen",
+        "title": "Ausnahmen: Baden-Württemberg, Bayern und private Hochschulen",
         "content": [
           {
             "kind": "paragraph",
@@ -110268,7 +110384,7 @@
           },
           {
             "kind": "warning",
-            "text": "Die Regeln zu Studiengebühren sind Sache der Länder und ändern sich: Neben Baden-Württemberg diskutieren einzelne Länder von Zeit zu Zeit Gebühren für Nicht-EU-Studierende. Prüfen Sie immer die aktuellen Bedingungen auf der Website der jeweiligen Hochschule und beim DAAD. Verwechseln Sie den Semesterbeitrag (zahlen alle, ~150–350 €) nicht mit echten Studiengebühren. Und denken Sie daran: Für das Visum und die Verlängerung des Aufenthaltstitels muss man in der Regel die Finanzierung nachweisen (Finanzierungsnachweis), oft über ein Sperrkonto."
+            "text": "Die Regeln zu Studiengebühren sind Sache der Länder und ändern sich: Neben Baden-Württemberg führen bayerische Hochschulen Gebühren für Nicht-EU-Studierende ein (TUM seit 2024/25, THI, FAU ab Sommersemester 2027; Grundlage Art. 13 BayHIG), andere Länder diskutieren darüber. Prüfen Sie immer die aktuellen Bedingungen auf der Website der jeweiligen Hochschule und beim DAAD. Verwechseln Sie den Semesterbeitrag (zahlen alle, ~150–350 €) nicht mit echten Studiengebühren. Und denken Sie daran: Für das Visum und die Verlängerung des Aufenthaltstitels muss man in der Regel die Finanzierung nachweisen (Finanzierungsnachweis), oft über ein Sperrkonto."
           }
         ]
       }
@@ -110322,7 +110438,7 @@
       }
     ],
     "lastRetrieved": "2026-06-03",
-    "lastVerified": "2026-06-03",
+    "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true
   },
