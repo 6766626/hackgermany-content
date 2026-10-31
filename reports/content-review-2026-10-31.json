@@ -1,0 +1,3481 @@
+{
+  "reviewDate": "2026-10-31",
+  "scope": "Inventory and change-sensitive official-source review of 620 Portugal and 600 Germany guides; not a claim that every statement in all guides was reverified. Existing lastVerified dates retained for partial updates.",
+  "projects": {
+    "DE": {
+      "updatedGuideIds": [
+        "de-bundid-account",
+        "de-citizenship-criminal-record",
+        "de-deutschlandticket-2026",
+        "de-deutschlandticket-49",
+        "de-deutschlandticket-buy-cancel",
+        "de-doctor-approbation",
+        "de-fuel-types-prices",
+        "de-gkv-income-threshold",
+        "de-kenntnispruefung",
+        "de-kenntnispruefung-doctors",
+        "de-medical-approbation",
+        "de-online-shopping-returns",
+        "de-paypal-klarna-payment"
+      ],
+      "newGuideIds": [
+        "de-digital-fuehrungszeugnis",
+        "de-ees-etias-entry"
+      ],
+      "countBefore": 600,
+      "countAfter": 602,
+      "pastFullReviewInterval": [
+        {
+          "id": "de-apostille-belarus-documents",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-apostille-russia-documents",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-apply-via-auswaertiges-amt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-beglaubigte-uebersetzung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-birth-cert-international",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bring-meds-prescription",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bringing-pets",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-cash-import-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-checklist-3-months-before",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-customs-mitbringsel",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-divorce-cert-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-financing-declaration-verpflichtung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-first-week-checklist",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-german-consulate-booking-vfs",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-marriage-cert-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-medical-insurance-incoming",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-police-clearance-russia",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-abmeldung-leaving-germany",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-airbnb-hostel",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-at-friends",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-berlin-termin",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-cologne",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-deadline-14-days",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-documents-checklist",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-frankfurt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-hamburg",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-leipzig",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-munich",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-newborn",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-second-residence",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-walk-in-cities",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-what-is-it",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-with-family",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-without-contract",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-erweiterte-meldebescheinigung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ummeldung-moving",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-wohnungsgeberbestaetigung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-abh-termin-strategy",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-asylum-application",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-asylum-interview",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-aufenthaltskarte-eu-family",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-aufenthaltstitel-types",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-blue-card-eu-2026",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-blue-card-family-reunion",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-blue-card-shortage-occupations",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-blue-card-to-niederlassung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-chancenkarte-points",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-change-purpose-zweckwechsel",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-extension-aufenthaltstitel",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fiktionsbescheinigung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-freelancer-visa-berlin",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-freizuegigkeit-eu-citizens",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-job-seeker-visa-18c",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-paragraph-16a-vocational",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-paragraph-16b-study",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-paragraph-16d-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-paragraph-16f-school",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-paragraph-17-au-pair",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-paragraph-18a-skilled-worker",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-daueraufenthalt-eu",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-daueraufenthalt-eu-mobility",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-3-years-spouse",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-5-years-standard",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-after-ausbildung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-blue-card-21",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-blue-card-27",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-children",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-fees",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-language-b1",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-by-descent",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-marriage-3-years",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-rejection-appeal",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-russians-2026",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-3-years-special",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-5-years-standard",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-application-where",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-belarus-keep",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-berlin",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-c1-for-3-years",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-children-mitein",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-cost-fees",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-dual-citizenship",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-hamburg",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-income-sicher",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-language-b1",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-loyalty-declaration",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-munich",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-a1-pre-marriage-visa",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-b2-c1-job-search",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-cologne-dialect",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-dsh-german-language-exam",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-goethe-a1-a2-b1",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-integrationskurs-bamf-list",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-integrationskurs-overview",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-integrationskurs-vs-private",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-medical-german-fachsprachpruefung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-oesd-austrian-exam",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-online-german-apps",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-aok-by-region",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-arztruf-116117",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-barmer-application",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bkk-employer-specific",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-dak-app-features",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-e-rezept-app",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-egk-elektronische-gesundheitskarte",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-emergency-room-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-english-speaking-doctors",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-find-hausarzt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-freelancer-insurance",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gkv-cost-calculation",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gkv-vs-pkv-decision",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gkv-which-krankenkasse",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hkk-low-zusatzbeitrag",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ikk-craftsmen",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mental-health-therapy",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-application-package-mappe",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-besichtigung-viewing-tips",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-buying-property-overview",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-eigenbedarf-eviction",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-grundversorgung-trap",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-housing-market-2026",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-immoscout-vs-wg-gesucht",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-internet-installation",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kaution-3-monatsmieten",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kautionskonto-or-buergschaft",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kuendigung-mietvertrag",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mieterbund-help",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mieterselbstauskunft",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mietspiegel-check",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-schoenheitsreparaturen",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-wbs-social-housing",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-best-bank-newcomers",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bic-swift",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bonify-credit-monitoring",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-c24-bank",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-comdirect-no-fee",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-credit-card-germany",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-debit-card-girocard",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-deutsche-bank-account",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-dkb-online-bank",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-freistellungsauftrag",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-girokonto-vs-tagesgeld",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-iban-format",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ing-account",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-schufa-score-improve",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-aussergewoehnliche-belastung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-capital-gains-tax",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-change-steuerklasse",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-double-tax-treaty-russia",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-double-tax-treaty-ukraine",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-double-tax-treaty-usa",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elster-mobile-app",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elster-registration",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elster-vs-paid-software",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-finanzamt-by-postcode",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fristverlaengerung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-homeoffice-pauschale",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kirchensteuer",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-leave-church-austritt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-lohnsteuerermaessigung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pendlerpauschale",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-progressionsvorbehalt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-13-monatsgehalt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-abfindung-severance",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anschreiben-cover-letter",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-arbeitsagentur-registration",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-arbeitslosengeld-1",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-arbeitsvertrag-key-clauses",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-betriebsrat-works-council",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bewerbungsbild-photo",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kuendigungsschutz",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-probezeit-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bilanz-vs-eur",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bookkeeping-eur",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-coworking-spaces",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-finanzkonzept-business-plan",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fragebogen-steuerliche-erfassung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-freie-berufe-list",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gbr-partnership",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gewerbeanmeldung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gmbh-foundation",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-grants-startups-exist",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-handelsregister-eintrag",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hwk-handwerkskammer",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ihk-membership-fees",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kuenstlersozialkasse",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-meisterpflicht-trades",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-rechnung-invoice-requirements",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-scheinselbststaendigkeit",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anabin-database",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anerkennung-overview",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anerkennungsfinanzierung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-architect-anerkennung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-belarus-diploma",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-driver-license-pro",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-engineer-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fachsprachenpruefung-medics",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-it-recognition-not-needed",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-lawyer-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-nurse-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-abitur-explained",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bilingual-schools",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elterngeld-basis-plus",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elterngeld-calculation",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elternzeit-job-protection",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-grundschule-enrollment",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gymnasium-vs-gesamtschule",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kinderzuschlag",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kita-platz-search",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-acv-avd-alternatives",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-adac-membership",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-asu-emissions",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-autobahn-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-buying-used-car",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-car-check-buying",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-dekra-alternative",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-flensburg-points",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fuehrerschein-belarus-umtausch",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fuehrerschein-deadline-6-months",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fuehrerschein-full-driving-school",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fuehrerschein-russia-umtausch",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fuehrerschein-uk-umtausch",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fuehrerschein-ukraine-umtausch",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-9-euro-ticket-history",
+          "lastVerified": "2026-06-16",
+          "ageDays": 137,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-airport-berlin-ber",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-airport-frankfurt-fra",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-berlin-bvg-tickets",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-call-a-bike-nextbike",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-cologne-kvb",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-db-bahn-cards",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-db-navigator-app",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fahrrad-mitnahme",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hamburg-hvv",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ausweisapp2",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bundid-account",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-data-protection-dsgvo",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-de-mail",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-digital-passport-application",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-digital-signature-qes",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-digitales-amt-app",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elektronische-akte-gerichte",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elektronische-rechnung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-esim-de",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-german-tv-channels",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-internet-providers-dsl",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mobile-contract-cancellation",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mobile-provider-comparison",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-portierung-rufnummer",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-prepaid-best-deals",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-roaming-eu-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-best-bakery-baeckerei",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bio-stores",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-cash-vs-card",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-cleaning-service",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-dog-license-hundefuehrerschein",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-drugstore-dm-rossmann",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-feiertage-2026",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-furniture-ikea-alternatives",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-grocery-stores-comparison",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hausordnung-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-laundry-self-service",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-muelltrennung-overview",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bildungspaket-children",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-divorce-procedure",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-divorce-with-children",
+          "lastVerified": "2026-06-16",
+          "ageDays": 137,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-domestic-violence-help",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ehefaehigkeitszeugnis",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-eingetragene-lebenspartnerschaft",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-family-counselling-free",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-frauenhaus",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-funeral-bestattung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-grundsicherung-alter",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-inheritance-erbschaft",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-marriage-foreigners-docs",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-berufsunfaehigkeitsversicherung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-betriebliche-altersvorsorge",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-erwerbsminderungsrente",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hausratversicherung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pension-info-online",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pension-points-calculation",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pension-russia-export",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-private-haftpflicht",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-rechtsschutzversicherung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-zahnzusatzversicherung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ambulance-rettungsdienst",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anwaltssuche-bar",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-arbeitsgericht-employment",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-arrest-rights",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-beratungshilfe-low-income",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-blackout-prep",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-consumer-protection-vz",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-debt-counselling",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-deportation-abschiebung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-discrimination-agg",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-duldung-tolerated-stay",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-emergency-numbers-110-112",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fire-brigade-feuerwehr",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-insolvency-personal",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-lost-documents",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-lost-passport",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-lost-residence-permit",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mahnverfahren",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-prozesskostenhilfe",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-armenia-citizens",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-belarus-asylum-grounds",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-belarus-consulate-berlin",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-belarus-no-return",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-belarus-passport-renewal",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-georgia-citizens-visa",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-iran-citizens",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kazakhstan-citizens",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kazakhstan-driving-license",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-banks-sanctions",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-consulate-berlin",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-driving-changes",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-passport-renewal",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-pension-payment",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-power-of-attorney",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-school-attestat",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-vnj-confirmation",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-turkey-citizens",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-uk-after-brexit",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-uk-driving-license",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-d-visa-application-russia",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-d-visa-from-turkey",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fachkraefte-visa-19c",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-family-reunion-children",
+          "lastVerified": "2026-06-16",
+          "ageDays": 137,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-family-reunion-spouse",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fiktionsbescheinigung-extension",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-children-ius-soli",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-conditions-7",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-fee-discounts",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-language-c1",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-loyalty",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerung-russians-2026",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-einbuergerungstest-prep",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-eu-ehic-card",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gkv-vs-pkv",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hkk-cheap-kasse",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-impfungen-pflicht",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-krankenkasse-zusatzbeitrag",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elster-account",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elster-zertifikatsdatei",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-grunderwerbsteuer",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-grundsteuer-2025",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-haushaltsdienstleistungen",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-no-appointment",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anmeldung-stuttgart",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-meldebescheinigung-uses",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-second-residence-zweitwohnsitz",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-consulate-germany",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-driver-license-exchange",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-mobilization-asylum",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-passport-renewal-germany",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-usa-citizens",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kaltmiete-warmmiete",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kaution-deposit-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-nebenkostenabrechnung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-untermiete-sublet",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kfz-anmeldung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kfz-steuer",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kfz-versicherung-sf",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-license-exchange-eu",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-license-exchange-noneu",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-license-fuehrerschein-new",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-winter-tires-rule",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-girokonto-opening",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-basiskonto-right",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-broker-trade-republic",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-etf-sparplan",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-money-transfer-wise",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-schufa-selbstauskunft",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-sparkasse-vs-direktbank",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gmbh-ug-founding",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kleinunternehmer-19ustg",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ksk-kuenstlersozialkasse",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-rechnung-invoice-rules",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-vat-id-ustidnr",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elterngeld-job-return",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kuendigung-notice-periods",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-lebenslauf-cv",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-lohnabrechnung-payslip",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-urlaub-vacation-days",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kita-gutschein",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-studium-university-apply",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-tagesmutter-childcare",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-vocational-ausbildung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-marriage-standesamt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-unterhalt-child-support",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pflegegrad-care-levels",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pflegeversicherung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-jugendamt-role",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-betreuung-legal-guardianship",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-sozialhilfe-grundsicherung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-emergency-numbers",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-fire-brandschutz",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mietrecht-disputes",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-police-report-anzeige",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-victim-support-weisser-ring",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-discrimination-agg-claim",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mall-shopping-hours",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-furniture-ikea-secondhand",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-muelltrennung-recycling",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-supermarkets-comparison",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-haustier-pet-keeping",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gardening-schrebergarten",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-weather-clothing-seasons",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-nurse-pflege-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-teacher-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-it-no-degree-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-zeugnisbewertung-zab",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anpassungslehrgang",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-munich-mvv-tickets",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-flixbus-intercity",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-night-trains-tickets",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-regional-tickets-laender",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-schwarzfahren-fines",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-taxi-uber-bolt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-free-language-apps",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-language-cafe-tandem",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-orientierungskurs-100h",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-vhs-volkshochschule",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-integration-leben-deutschland-test",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-c1-hochschule-studienkolleg",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-language-level-self-assess",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elster-steuer-id",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-online-termin-booking",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-personalausweis-eid-functions",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-elektronische-patientenakte-epa",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-online-ummeldung-auto",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mein-elster-features",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-buergeramt-apps-cities",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-rundfunkbeitrag-befreiung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-streaming-services",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-internet-umzug-mitnahme",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-handyvertrag-vs-prepaid",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-festnetz-landline",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-data-roaming-non-eu",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-spam-calls-blocking",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-wlan-public-hotspots",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anabin-check-before",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-document-checklist-master",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-driving-license-prepare",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-health-insurance-incoming",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-job-search-from-abroad",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-relocation-companies",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-school-recognition-kids",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-sperrkonto-blocked-account",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-pension-60-months",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-income-proof",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-self-employed",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-document-list",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-daueraufenthalt-vs-einbuergerung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-after-studium",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-niederlassung-loss-conditions",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-witwenrente-survivors",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-rechtsschutz-insurance",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-unfallversicherung-private",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pension-contribution-voluntary",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-student-visa-16b",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-study-prep-16a",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ausbildung-visa-16a",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-au-pair-visa",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-research-visa-18d",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ict-card-intra-corporate",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-westbalkan-regelung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-settlement-self-employed-21",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-facharzt-specialist-referral",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-termin-service-116117",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hospital-krankenhaus-stay",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pregnancy-care-hebamme",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-vaccination-records",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pharmacy-notdienst",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pflege-care-application",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-spaetaussiedler-bvfg",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-jewish-contingent-refugees",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-ukraine-pension-recognition",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-russia-military-service-evasion",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-india-blue-card-it",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-vietnam-citizens",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-uk-citizens-post-brexit",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anlage-kap-kapital",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-church-tax-kirchensteuer",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-freelancer-tax-quarterly",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-solidaritaetszuschlag",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-tax-deadline-fristen",
+          "lastVerified": "2026-06-16",
+          "ageDays": 137,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-tax-software-comparison",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-income-requirement",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-processing-time",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-documents-full",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-name-change",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-children-included",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-passport-after-citizenship",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-criminal-record",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-citizenship-b1-exemptions",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-accident-unfall-procedure",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-car-leasing-vs-buy",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-carsharing-services",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-kennzeichen-license-plate",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-parking-rules-fines",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-selling-car-private",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-buying-process-notar",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-baufinanzierung-mortgage",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-wg-shared-flat-living",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-moving-umzug-checklist",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-strom-gas-anbieter",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hausverwaltung-issues",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mietminderung-defects",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-tenant-insurance-haftpflicht",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-sepa-lastschrift",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-dispo-overdraft",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-tagesgeld-festgeld",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-paypal-klarna-payment",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-crypto-tax-germany",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-joint-account-couples",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-bank-fees-avoid",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-pfaendungsschutzkonto",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-hausordnung-quiet-hours",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-post-dhl-packages",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-second-hand-flohmarkt",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-tipping-restaurant-culture",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-festivals-events-calendar",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-winter-heating-tips",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-emergency-supplies-prepping",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-arbeitszeugnis-reference",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gehaltsverhandlung-salary",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-teilzeit-part-time",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-homeoffice-remote-rights",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-krankmeldung-sick-leave",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-tarifvertrag-collective",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-gewerkschaft-union",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-job-portals-germany",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-anerkennung-foreign-work-exp",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-mobbing-workplace",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-realschule-hauptschule",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-school-supplies-einschulung",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-nachhilfe-tutoring",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-special-needs-foerderschule",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-student-jobs-werkstudent",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-numerus-clausus-nc",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-erasmus-exchange",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-vocational-school-berufsschule",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        },
+        {
+          "id": "de-childcare-tax-deduction",
+          "lastVerified": "2026-06-03",
+          "ageDays": 150,
+          "intervalDays": 90
+        }
+      ],
+      "fullReviewOverdueCount": 543
+    }
+  },
+  "openSourceConflicts": [
+    {
+      "topic": "AIMA ARI renewal window",
+      "detail": "Dedicated ARI FAQ says 31 December 2026; separate portal news page says 31 October 2026. Both cited, discrepancy shown in affected guides."
+    },
+    {
+      "topic": "Portugal HPP VAT transitional deadline",
+      "detail": "DL 97/2026 art.18(8) specifies first three quarters; AT July guidance paragraph13 specifies first half. Law and guidance both cited; July–September cases advised to seek written AT clarification."
+    }
+  ],
+  "pendingPublication": [
+    "Portugal implementing IRS decree-law approved 29 October 2026",
+    "Portugal nationality regulation approved 29 October 2026",
+    "Germany final 2027 social-insurance thresholds ordinance"
+  ],
+  "sources": [
+    {
+      "title": "AIMA — Portal de Renovações: documentos permanentes UE",
+      "url": "https://aima.gov.pt/pt/noticias/portal-de-renovacoes-certificados-e-cartoes-de-residencia-permanentes-de-nacionais-ue-e-familiares",
+      "kind": "official",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "AIMA — ARI FAQ",
+      "url": "https://aima.gov.pt/pt/a-aima/perguntas-frequentes-faqs/autorizacao-de-residencia-para-investimento-ari",
+      "kind": "official",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "European Commission — EES exemptions, 27.07.2026",
+      "url": "https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en",
+      "kind": "official",
+      "language": "en",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Governo — Conselho de Ministros, 29.10.2026",
+      "url": "https://portugal.gov.pt/gc25/governo/comunicados-do-conselho-de-ministros/comunicado-do-conselho-de-ministros-de-29-de-outubro-de-2026",
+      "kind": "official",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Council of the EU — small parcels, reviewed 23.10.2026",
+      "url": "https://www.consilium.europa.eu/en/policies/eu-action-influx-of-small-parcels/",
+      "kind": "official",
+      "language": "en",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Dutch Customs — EU handling fee, updated 22.10.2026",
+      "url": "https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/",
+      "kind": "official",
+      "language": "en",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Council of the EU — how the Entry/Exit System works",
+      "url": "https://www.consilium.europa.eu/en/policies/entryexit-system/",
+      "kind": "official",
+      "language": "en",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "European Union — ETIAS FAQ and launch status",
+      "url": "https://travel-europe.europa.eu/etias/faq",
+      "kind": "official",
+      "language": "en",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Lei 64-B/2026 — autorização legislativa IRS",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/64-b-2026-1184484177",
+      "kind": "law",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "AT — Circular 5/2026: retenção no continente em novembro",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/atualidades/instrucoesadmin/Paginas/Circular_5_2026.aspx",
+      "kind": "official",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "AT — Circular 6/2026: retenção nos Açores em novembro",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/atualidades/instrucoesadmin/Paginas/Circular_6_2026.aspx",
+      "kind": "official",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Decreto-Lei 97/2026 — anexo II e artigo 18.º",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227",
+      "kind": "law",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "AT — Ofício-circulado 25118/2026: restituição IVA em construção HPP",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio-Circulado-25118-2026.pdf",
+      "kind": "official",
+      "language": "pt",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "BfJ — digital Führungszeugnis FAQ",
+      "url": "https://bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fragen/Fragen_node.html?docId=259056",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Bundesportal — Führungszeugnis application",
+      "url": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99049001001000",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Deutsche Bahn — Deutschlandticket contractual changes for 2027",
+      "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "BMG — recognition reform for health professions",
+      "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+      "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Bundesregierung — changes in October 2026",
+      "url": "https://www.bundesregierung.de/breg-de/suche/gesetzliche-neuregelungen-oktober-2026-2454624",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "BMAS — Sozialversicherungsrechengrößen-Verordnung 2027",
+      "url": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Bundestag DIP — consumer credit law, BGBl. 2026 I No. 139",
+      "url": "https://dip.bundestag.de/vorgang/gesetz-zur-umsetzung-der-richtlinie-eu-2023-2225-%C3%BCber-verbraucherkreditvertr%C3%A4ge-und/325529",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "Bundesregierung — consumer credit protection",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/schutz-kreditvertraege-2382528",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "VR Bank Rhein-Neckar — giropay ended on 31.12.2024",
+      "url": "https://www.vrbank.de/privatkunden/girokonto-und-karten/service-und-mehr/ratgeber/giropay-paydirekt.html",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    },
+    {
+      "title": "DB — cancellation by the 10th for the current month",
+      "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/kuendigung",
+      "kind": "official",
+      "language": "de",
+      "lastRetrieved": "2026-10-31"
+    }
+  ],
+  "validation": {
+    "portugalPipeline": "npm test passed: schema, regressions, translations, parity",
+    "appModelDecode": "Actual Swift Guide models decoded all 622 PT and 602 DE guides in all 3 languages; IDs and block types validated",
+    "integrity": "All manifest file sizes and SHA-256 hashes match",
+    "simulator": "Simulator unavailable during device discovery; no simulator UI test result claimed"
+  }
+}

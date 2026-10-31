@@ -22227,6 +22227,13 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMAS — Sozialversicherungsrechengrößen-Verordnung 2027",
+        "url": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
@@ -22234,10 +22241,12 @@
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Referentenentwurf des BMAS (21.09.2026, Kabinett und Bundesrat stehen aus): 2027 soll die Versicherungspflichtgrenze 84 150 € pro Jahr und die Beitragsbemessungsgrenze in der Kranken- und Pflegeversicherung 6 375 € im Monat (76 500 € im Jahr) betragen.",
-      "sourceUrl": "https://www.bmas.de/DE/Service/Presse/Meldungen/2026/referentenentwurf-zur-sozialversicherungsrechengroessen-verordnung-2027.html",
+      "summary": "Das Kabinett hat den Entwurf am 07.10.2026 beschlossen. Am 31.10. war auf der BMAS-Seite die endgültige Verordnung noch nicht veröffentlicht; das Verfahren unter Beteiligung des Bundesrates muss abgeschlossen werden. Vorgesehen für 2027: allgemeine Versicherungspflichtgrenze 84.150 €/Jahr; Beitragsbemessungsgrenze GKV/PV 76.500 €/Jahr (6.375 €/Monat). Diese Größen sind zu unterscheiden; bis zum Inkrafttreten gelten die Werte für 2026.",
+      "sourceUrl": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html",
       "expectedDate": "2027-01-01"
-    }
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Stand des Entwurfs der Versicherungsgrenzen 2027 aktualisiert."
   },
   {
     "editorialVoice": "hackgermany",
@@ -40753,7 +40762,7 @@
     "id": "de-kenntnispruefung-doctors",
     "categoryId": "qualification_recognition",
     "title": "Kenntnisprüfung für Ärztinnen und Ärzte",
-    "tldr": "Die Kenntnisprüfung (KP) ist die staatliche Wissensprüfung, die Ärztinnen und Ärzte aus Drittstaaten ablegen, wenn ihre im Ausland erworbene medizinische Ausbildung NICHT als vollständig gleichwertig zur deutschen anerkannt wird (keine vollständige Gleichwertigkeit der Qualifikation). Sie ist der Weg zur vollen ärztlichen Approbation. Geprüft wird der Stand des deutschen Staatsexamens: innere Medizin, Chirurgie und angrenzende Fächer plus deutsches Medizinrecht; sie läuft mündlich-praktisch ab, unter anderem mit einer Patientin oder einem Patienten. Vor der KP sind nötig: nachgewiesene Deutschkenntnisse (in der Regel allgemeines B2 + medizinisches C1 / Fachsprachprüfung), häufig eine befristete Berufserlaubnis für die Zeit der Vorbereitung und die bei der Approbationsbehörde des Landes eingereichten Unterlagen. Die Zahl der Versuche ist begrenzt (in der Regel höchstens drei). Eine Alternative zur Prüfung ist der Anpassungslehrgang, für Ärztinnen und Ärzte aus Nicht-EU-Staaten ist die KP aber meist der Hauptweg.",
+    "tldr": "Die Kenntnisprüfung (KP) prüft Fachkenntnisse zur Anerkennung ärztlicher Qualifikationen. Ab 01.11.2026 ist die direkte Prüfung der Regelweg für Drittstaatsabschlüsse; die dokumentenbasierte Prüfung bleibt wählbar. Format und Übergangsregeln sind bei der Landesbehörde zu klären. Die KP ersetzt nicht die übrigen Approbationsvoraussetzungen; ein Anpassungslehrgang ist keine allgemeine ärztliche Alternative.",
     "tags": [
       "kenntnispruefung",
       "arzt",
@@ -40765,21 +40774,11 @@
     "steps": [
       {
         "id": "when-kp",
-        "title": "Wann eine Kenntnisprüfung nötig ist",
+        "title": "Anerkennung ab 1. November 2026: Verfahrenswahl",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Die Approbationsbehörde vergleicht zunächst Ihre Ausbildung mit der deutschen. Wird sie als vollständig gleichwertig anerkannt, ist keine KP nötig, sondern direkt die Approbation. Werden wesentliche Unterschiede festgestellt, lassen sie sich entweder über die Kenntnisprüfung oder über einen Anpassungszeitraum ausgleichen. Für Ärztinnen und Ärzte aus Drittstaaten ist die KP der häufigste Weg."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Vollständige Gleichwertigkeit – keine KP nötig, direkt die Approbation",
-              "Wesentliche Unterschiede – Wahl zwischen Kenntnisprüfung und Anpassungslehrgang",
-              "Für Ärztinnen und Ärzte aus Nicht-EU-Staaten wird meist die KP verlangt",
-              "Die KP prüft den Stand des deutschen Staatsexamens (eines Medizinabsolventen)",
-              "Das erfolgreiche Bestehen der KP führt zur vollen Approbation, nicht zur befristeten Berufserlaubnis"
-            ]
+            "text": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein."
           }
         ]
       },
@@ -40902,6 +40901,20 @@
         "kind": "law",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
@@ -40909,10 +40922,12 @@
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "summary": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Anerkennung ab 1. November 2026: Verfahrenswahl"
   },
   {
     "editorialVoice": "hackgermany",
@@ -41115,7 +41130,7 @@
     "id": "de-medical-approbation",
     "categoryId": "qualification_recognition",
     "title": "Ärztliche Approbation",
-    "tldr": "Die Approbation ist die volle und unbefristete staatliche Erlaubnis, eigenständig und ohne Einschränkungen als Ärztin oder Arzt in Deutschland zu arbeiten (Grundlage ist § 3 Bundesärzteordnung, BÄO). Ohne sie darf man nur auf Grundlage einer befristeten Berufserlaubnis arbeiten, beschränkt nach Dauer, Ort und unter Aufsicht. Der Weg zur Approbation für eine Ärztin oder einen Arzt aus einem Drittstaat: (1) Antrag bei der Approbationsbehörde des Landes stellen, wo die Ausbildung verglichen wird (Gleichwertigkeitsprüfung); (2) Sprache nachweisen – allgemeines B2 plus medizinisches C1 (Fachsprachprüfung); (3) bei unvollständiger Gleichwertigkeit die Kenntnisprüfung ablegen oder einen Anpassungslehrgang absolvieren; (4) Zuverlässigkeit und Gesundheit nachweisen. Für Bürgerinnen und Bürger der EU/des EWR wird die Ausbildung meist automatisch nach der Richtlinie 2005/36/EG anerkannt. Die Approbation erteilt das jeweilige Land, sie gilt aber in ganz Deutschland.",
+    "tldr": "Die Approbation ist die bundesweit gültige volle ärztliche Zulassung; das Verfahren führt die Landesbehörde. Ab 01.11.2026 ist die direkte Kenntnisprüfung der Regelweg bei Drittstaatsabschlüssen, mit der Möglichkeit einer dokumentenbasierten Gleichwertigkeitsprüfung. Sprache, Gesundheit und Zuverlässigkeit bleiben erforderlich; bei früheren Anträgen sind Übergangsregeln zu prüfen. Eine befristete Berufserlaubnis ist keine Approbation.",
     "tags": [
       "approbation",
       "arztlizenz",
@@ -41147,46 +41162,11 @@
       },
       {
         "id": "the-path",
-        "title": "Der Weg zur Approbation: Schritte",
+        "title": "Anerkennung ab 1. November 2026: Verfahrenswahl",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Das Verfahren hängt vom Land des Diploms ab. Für die EU/den EWR – die vereinfachte automatische Anerkennung nach der Richtlinie 2005/36/EG. Für Drittstaaten – eine individuelle Gleichwertigkeitsprüfung und bei Bedarf eine Prüfung."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "eu",
-                "title": "1. Bürgerinnen und Bürger der EU/des EWR",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Eine Ausbildung aus der EU wird in der Regel automatisch anerkannt (Richtlinie 2005/36/EG)",
-                      "Nötig sind die Sprache sowie Nachweise zu Zuverlässigkeit und Gesundheit",
-                      "Eine Kenntnisprüfung ist in der Regel nicht erforderlich",
-                      "Antrag bei der Approbationsbehörde des Landes"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "third-country",
-                "title": "2. Drittstaaten",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Gleichwertigkeitsprüfung: Vergleich der Ausbildung mit der deutschen",
-                      "Bei wesentlichen Unterschieden – Kenntnisprüfung oder Anpassungslehrgang",
-                      "Sprache: allgemeines B2 plus medizinisches C1 (Fachsprachprüfung)",
-                      "Möglicher Start mit einer Berufserlaubnis für die Zeit der Vorbereitung"
-                    ]
-                  }
-                ]
-              }
-            ]
+            "text": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein."
           }
         ]
       },
@@ -41205,7 +41185,7 @@
               "Nachweis der ärztlichen Praxis und der Berufserfahrung",
               "Sprachzertifikate: allgemeines B2 plus medizinisches C1 (Fachsprachprüfung)",
               "Führungszeugnis und ärztliches Gesundheitszeugnis",
-              "Für Drittstaatsangehörige – ein gültiger Aufenthaltstitel, der die ärztliche Tätigkeit erlaubt"
+              "Drittstaatsangehörige benötigen zur tatsächlichen Arbeit einen passenden Aufenthaltsstatus; das Anerkennungsverfahren kann aus dem Ausland begonnen werden."
             ]
           },
           {
@@ -41263,6 +41243,20 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
@@ -41270,10 +41264,12 @@
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "summary": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Anerkennung ab 1. November 2026: Verfahrenswahl"
   },
   {
     "editorialVoice": "hackgermany",
@@ -48827,7 +48823,7 @@
     "id": "de-deutschlandticket-49",
     "categoryId": "public_transport",
     "title": "Deutschlandticket: 63 €/Monat - was es ist und was enthalten ist",
-    "tldr": "Das Deutschlandticket (D-Ticket) ist ein einheitliches Abo für den gesamten regionalen und städtischen öffentlichen Nahverkehr in ganz Deutschland. Seit dem 1. Januar 2026 kostet es 63 € im Monat; 2025 lag der Preis bei 58 €, bis Ende 2024 bei 49 €. Damit kann man bundesweit alle Regionalzüge (RE, RB), die S-Bahn, U-Bahn, Straßenbahnen und Busse nutzen, aber NICHT die Fernzüge (ICE, IC, EC) und NICHT den FlixBus. Das Ticket ist immer personengebunden, digital (in der App oder als Chipkarte) und wird als monatliches Abo mit Kündigungsmöglichkeit abgeschlossen. Über den Arbeitgeber (Jobticket) gibt es einen zusätzlichen Rabatt.",
+    "tldr": "Das Deutschlandticket (D-Ticket) ist ein einheitliches Abo für den gesamten regionalen und städtischen öffentlichen Nahverkehr in ganz Deutschland. Seit dem 1. Januar 2026 kostet es 63 € im Monat; 2025 lag der Preis bei 58 €, bis Ende 2024 bei 49 €. Damit kann man bundesweit alle Regionalzüge (RE, RB), die S-Bahn, U-Bahn, Straßenbahnen und Busse nutzen, aber NICHT die Fernzüge (ICE, IC, EC) und NICHT den FlixBus. Das Ticket ist immer personengebunden, digital (in der App oder als Chipkarte) und wird als monatliches Abo mit Kündigungsmöglichkeit abgeschlossen. Über den Arbeitgeber (Jobticket) gibt es einen zusätzlichen Rabatt. Ab Januar 2027: 66,80 €; bestehende DB-Abonnenten sollten die unten erläuterte Zustimmungsfrist zum 30. November 2026 beachten.",
     "tags": [
       "deutschlandticket",
       "oepnv",
@@ -48890,6 +48886,16 @@
             "text": "Für sozial benachteiligte Gruppen führen viele Städte und Regionen vergünstigte Varianten ein, die günstiger als 63 € sind (Sozialticket / D-Ticket für Studierende, Schülerinnen und Schüler, Bürgergeld-Beziehende). Erkundigen Sie sich nach den lokalen Tarifen bei Ihrem Verkehrsverbund."
           }
         ]
+      },
+      {
+        "id": "price-2027-consent",
+        "title": "Preis 2027 und Zustimmung bis 30. November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Das Standardticket kostet 2026 monatlich 63 €, ab 01.01.2027 66,80 €. Bei früher abgeschlossenen DB-Abos muss die bestellende Person bis 30.11.2026 im Abo-Portal oder DB Navigator der Preisanpassung und den ergänzenden Bedingungen zustimmen („Vertragsänderung zustimmen“). Ohne Zustimmung endet das DB-Abo am 31.12.2026. Für Bestellungen ab 15.10.2026 ist keine gesonderte Zustimmung erforderlich. Bei anderen Anbietern gilt deren Mitteilung; die DB-Frist gilt nicht automatisch für alle Verkehrsunternehmen."
+          }
+        ]
       }
     ],
     "costs": [
@@ -48939,24 +48945,28 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-16"
+      },
+      {
+        "title": "Deutsche Bahn — Deutschlandticket contractual changes for 2027",
+        "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-16",
     "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "Ab 2027 wird der Preis des Deutschlandtickets über ein Indexmodell bestimmt (Beschluss der Verkehrsministerkonferenz, März 2026); der neue Preis wird bis zum 30.09.2026 verkündet. Bis Ende 2026 bleibt es bei 63 €/Monat.",
-      "expectedDate": "2027-01-01",
-      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
-    }
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Preis 2027 und Zustimmung bis 30. November"
   },
   {
     "editorialVoice": "hackgermany",
     "id": "de-deutschlandticket-buy-cancel",
     "categoryId": "public_transport",
     "title": "Deutschlandticket kaufen und kündigen",
-    "tldr": "Das Deutschlandticket gibt es nur als monatliches Abo - ein Einzelticket wird nicht verkauft. Abschließen kann man es über die App DB Navigator, die Website bahn.de, die App des eigenen regionalen Verkehrsverbunds (VRR, RMV, BVG u. a.) oder beim Verkehrsunternehmen. Das Ticket gilt für einen Kalendermonat (vom 1. bis zum Letzten), nicht 30 Tage ab Kauf. Die Kündigung erfolgt bis zum 10. des laufenden Monats, dann endet das Abo zum Ende desselben Monats. Kündigen kann man in derselben App / im selben Portal, wo man es abgeschlossen hat.",
+    "tldr": "Das Deutschlandticket gibt es nur als monatliches Abo - ein Einzelticket wird nicht verkauft. Abschließen kann man es über die App DB Navigator, die Website bahn.de, die App des eigenen regionalen Verkehrsverbunds (VRR, RMV, BVG u. a.) oder beim Verkehrsunternehmen. Das Ticket gilt für einen Kalendermonat (vom 1. bis zum Letzten), nicht 30 Tage ab Kauf. Die Kündigung erfolgt bis zum 10. des laufenden Monats, dann endet das Abo zum Ende desselben Monats. Kündigen kann man in derselben App / im selben Portal, wo man es abgeschlossen hat. Ab Januar 2027: 66,80 €; bestehende DB-Abonnenten sollten die unten erläuterte Zustimmungsfrist zum 30. November 2026 beachten.",
     "tags": [
       "deutschlandticket",
       "abo",
@@ -49046,6 +49056,16 @@
             "text": "Das Abo lässt sich monatsweise pausieren und wieder aktivieren - praktisch, wenn Sie für einen Monat verreisen. Achten Sie aber jedes Mal auf die Kündigungsfrist bis zum 10., sonst wird für den nächsten Monat abgebucht."
           }
         ]
+      },
+      {
+        "id": "price-2027-consent",
+        "title": "Preis 2027 und Zustimmung bis 30. November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Das Standardticket kostet 2026 monatlich 63 €, ab 01.01.2027 66,80 €. Bei früher abgeschlossenen DB-Abos muss die bestellende Person bis 30.11.2026 im Abo-Portal oder DB Navigator der Preisanpassung und den ergänzenden Bedingungen zustimmen („Vertragsänderung zustimmen“). Ohne Zustimmung endet das DB-Abo am 31.12.2026. Für Bestellungen ab 15.10.2026 ist keine gesonderte Zustimmung erforderlich. Bei anderen Anbietern gilt deren Mitteilung; die DB-Frist gilt nicht automatisch für alle Verkehrsunternehmen."
+          }
+        ]
       }
     ],
     "costs": [
@@ -49088,17 +49108,21 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-16"
+      },
+      {
+        "title": "Deutsche Bahn — Deutschlandticket contractual changes for 2027",
+        "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-16",
     "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "Ab 2027 wird der Preis des Deutschlandtickets über ein Indexmodell bestimmt (Beschluss der Verkehrsministerkonferenz, März 2026); der neue Preis wird bis zum 30.09.2026 verkündet. Bis Ende 2026 bleibt es bei 63 €/Monat.",
-      "expectedDate": "2027-01-01",
-      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
-    }
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Preis 2027 und Zustimmung bis 30. November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -49846,6 +49870,16 @@
             "text": "Verwechseln Sie die BundID nicht mit De-Mail (dieses System wird abgewickelt und bis Ende 2026 endgültig abgeschaltet) und nicht mit dem ELSTER-Portal (das ist ein eigener Steuerdienst)."
           }
         ]
+      },
+      {
+        "id": "digital-criminal-record",
+        "title": "Neuer Dienst: Führungszeugnis als PDF",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Seit Oktober 2026 stellt das BfJ digitale Führungszeugnisse für private Zwecke über BundID zu. Onlineantrag und digitale Zustellung sind unterschiedliche Optionen: Wählen Sie das passende Format im offiziellen Portal. Für Behördenführungszeugnisse gelten andere Regeln. Siehe „Digitales Führungszeugnis über BundID“."
+          }
+        ]
       }
     ],
     "costs": [
@@ -49888,11 +49922,27 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BfJ — digital Führungszeugnis FAQ",
+        "url": "https://bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fragen/Fragen_node.html?docId=259056",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesportal — Führungszeugnis application",
+        "url": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99049001001000",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Neuer Dienst: Führungszeugnis als PDF"
   },
   {
     "editorialVoice": "hackgermany",
@@ -84873,6 +84923,16 @@
             "text": "Tipp: Wählen Sie bei den ersten Käufen den Kauf auf Rechnung oder PayPal. So zahlen und riskieren Sie erst, nachdem Sie sich überzeugt haben, dass die Ware angekommen ist und passt. Die Kosten der Rücksendung können laut Gesetz beim Käufer liegen, wenn der Händler vorher darauf hingewiesen hat; in der Praxis machen die großen Geschäfte (Zalando, Amazon, Otto) die Rücksendung aber meist kostenlos."
           }
         ]
+      },
+      {
+        "id": "eu-parcel-fee-november",
+        "title": "Nicht-EU-Pakete: Gebühr ab 1. November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Für Onlinebestellungen, die aus Nicht-EU-Ländern direkt an Verbraucher versandt werden, gilt seit 01.07.2026 der vorübergehende Zoll von 3 € je Warenkategorie bei Kleinsendungen bis 150 €. Ab 01.11.2026 kommt eine EU-Bearbeitungsgebühr von 2 € je Zollanmeldungsposition (Warenkategorie) hinzu, nicht einfach je Paket; laut niederländischem Zoll erfasst sie auch E-Commerce-Sendungen über 150 €. Umsatzsteuer und eine separate Dienstleistungsgebühr des Beförderers können hinzukommen. Prüfen Sie die Gesamtkosten: IOSS betrifft die Umsatzsteuer und beseitigt die anderen Abgaben nicht. Übertragen Sie die Regeln für Fernverkäufe nicht automatisch auf private Geschenke oder Reisegepäck. Öffnen Sie Sendungsverfolgung und Zahlung direkt auf der offiziellen Website des Beförderers statt über eine unerwartete SMS."
+          }
+        ]
       }
     ],
     "costs": [
@@ -84943,12 +85003,28 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Council of the EU — small parcels, reviewed 23.10.2026",
+        "url": "https://www.consilium.europa.eu/en/policies/eu-action-influx-of-small-parcels/",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Dutch Customs — EU handling fee, updated 22.10.2026",
+        "url": "https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Nicht-EU-Pakete: Gebühr ab 1. November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -85486,40 +85562,11 @@
       },
       {
         "id": "gleichwertigkeit-kenntnispruefung",
-        "title": "Gleichwertigkeitsprüfung und Kenntnisprüfung",
+        "title": "Anerkennung ab 1. November 2026: Verfahrenswahl",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Kern der Anerkennung ist die Prüfung, ob Ihre Ausbildung dem deutschen Medizinstudium gleichwertig ist. Es gibt zwei Wege, und welcher davon auf Sie zutrifft, entscheidet die Approbationsbehörde."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "doc-comparison",
-                "title": "1. Gleichwertigkeitsprüfung – Vergleich anhand der Unterlagen",
-                "content": [
-                  {
-                    "kind": "paragraph",
-                    "text": "Die Behörde prüft Ihr Diplom, den Studienplan (Stundenzahl pro Fach), das Diplomzusatzblatt und Ihre Berufserfahrung. Bestätigen diese, dass die Ausbildung im Wesentlichen dem deutschen Abschluss entspricht, erfolgt die Anerkennung ohne Prüfung. Zur Bewertung wird oft ein Gutachten herangezogen; dessen Erstellung ist der größte Kostenpunkt in diesem Schritt."
-                  }
-                ]
-              },
-              {
-                "id": "knowledge-exam",
-                "title": "2. Kenntnisprüfung – bei wesentlichen Unterschieden",
-                "content": [
-                  {
-                    "kind": "paragraph",
-                    "text": "Werden wesentliche Unterschiede festgestellt oder sind die Unterlagen unvollständig oder nicht überprüfbar, legen Sie statt des Vergleichs eine Kenntnisprüfung ab – eine staatliche medizinische Prüfung auf dem Niveau eines deutschen Absolventen. Es handelt sich um eine mündlich-praktische Prüfung am Patienten in Innerer Medizin und Chirurgie sowie Fragen zu angrenzenden Fächern. Ein Fehlversuch lässt sich in der Regel wiederholen (meist bis zu dreimal)."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "Verwechseln Sie die Kenntnisprüfung nicht mit der Gleichwertigkeitsprüfung. Erstere ist eine Prüfung, die den Unterlagenvergleich ersetzt, wenn dieser unmöglich ist oder die Unterschiede zu groß sind. Letztere ist die Auswertung der Unterlagen ohne Prüfung. Den Weg wählen Sie nicht selbst: Die Behörde legt ihn nach Bewertung Ihrer Akte fest."
+            "text": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein."
           }
         ]
       },
@@ -85586,7 +85633,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "Praktische Reihenfolge: 1) Bundesland wählen und dessen Approbationsbehörde kontaktieren; 2) Unterlagen zusammenstellen und übersetzen lassen; 3) Antrag stellen und die Bewertung abwarten (Gleichwertigkeit oder Verweis auf die Kenntnisprüfung); 4) die Fachsprachprüfung bei der Landesärztekammer ablegen; 5) bei Bedarf die Kenntnisprüfung ablegen; 6) die Approbation erhalten oder zunächst eine Berufserlaubnis, um während des Verfahrens zu arbeiten. Bei der Orientierung hilft kostenlos eine IQ-Beratungsstelle."
+            "text": "Wählen Sie zuerst das Bundesland und erfragen Sie die aktuelle Unterlagenliste und die für Ihr Antragsdatum möglichen Anerkennungswege. Stellen Sie den Antrag, erfüllen Sie Sprach- und Fachanforderungen und warten Sie auf die Approbationsentscheidung. Eine Tätigkeit vorher erfordert eine gesonderte rechtliche Erlaubnis; die Eingangsbestätigung allein erlaubt keine ärztliche Tätigkeit."
           }
         ]
       }
@@ -85665,16 +85712,32 @@
         "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "summary": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Anerkennung ab 1. November 2026: Verfahrenswahl"
   },
   {
     "editorialVoice": "hackgermany",
@@ -86670,7 +86733,7 @@
     "id": "de-kenntnispruefung",
     "categoryId": "qualification_recognition",
     "title": "Kenntnisprüfung gegen Gleichwertigkeit",
-    "tldr": "Bei der Anerkennung reglementierter Berufe gibt es zwei verschiedene Mechanismen. Die Gleichwertigkeitsprüfung ist ein Vergleich Ihrer Unterlagen mit dem deutschen Standard ohne Prüfung: Wird die Ausbildung als gleichwertig anerkannt, erfolgt die Anerkennung anhand der Unterlagen. Die Kenntnisprüfung ist eine Prüfung, die feststellt, dass Ihre Kenntnisse denen eines deutschen Absolventen entsprechen; sie wird angeordnet, wenn die Unterlagen unvollständig/nicht überprüfbar sind oder die Unterschiede zu groß sind. Das sind keine zwei Etappen, sondern eine Weggabelung. Für Ärzte und Pflegekräfte ist die Kenntnisprüfung die übliche Alternative bei großen Unterschieden. Sie kostet etwa 400–1100 €.",
+    "tldr": "Die Gleichwertigkeitsprüfung vergleicht Ausbildungsunterlagen; die Kenntnisprüfung prüft Fachkenntnisse. Ablauf und Ausgleichsmaßnahmen hängen von Beruf, Herkunft des Abschlusses und Antragsdatum ab. Ab 01.11.2026 ist die direkte Prüfung der Regelweg für ärztliche, zahnärztliche und pharmazeutische Drittstaatsabschlüsse; eine Dokumentenprüfung bleibt unter ihren Voraussetzungen wählbar.",
     "tags": [
       "kenntnispruefung",
       "gleichwertigkeitspruefung",
@@ -86682,113 +86745,41 @@
     "steps": [
       {
         "id": "two-paths",
-        "title": "Zwei Mechanismen der Anerkennung",
+        "title": "Anerkennung ab 1. November 2026: Verfahrenswahl",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Wenn Sie die Anerkennung eines reglementierten Berufs beantragen, muss sich die Behörde vergewissern, dass Ihre Qualifikation der deutschen gleichwertig ist. Das geht auf zwei Wegen: die Unterlagen prüfen (Gleichwertigkeitsprüfung) oder die Kenntnisse per Prüfung feststellen (Kenntnisprüfung). Den Unterschied zu verstehen ist wichtig: Davon hängen Dauer, Kosten und Vorbereitung ab."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Gleichwertigkeitsprüfung – Vergleich anhand der Unterlagen, ohne Prüfung",
-              "Kenntnisprüfung – Prüfung zur Gleichwertigkeit der Kenntnisse",
-              "Das sind Alternativen und keine aufeinanderfolgenden Etappen",
-              "Welcher Weg – entscheidet die Behörde nach Bewertung Ihrer Akte",
-              "Betrifft reglementierte Berufe (Arzt, Pflegekraft u. a.)"
-            ]
+            "text": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein."
           }
         ]
       },
       {
         "id": "gleichwertigkeit",
-        "title": "Gleichwertigkeitsprüfung: der Weg über die Unterlagen",
+        "title": "Was die Dokumentenprüfung klärt",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Die Gleichwertigkeitsprüfung ist die Auswertung Ihrer Unterlagen: des Diploms, des Studienplans mit den Stunden pro Fach, des Zusatzblatts und der Berufserfahrung. Die Behörde (oft unter Heranziehung eines Gutachtens) gleicht sie mit dem deutschen Programm ab und entscheidet, ob wesentliche Unterschiede bestehen."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "gw-need",
-                "title": "1. Was für den Vergleich nötig ist",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Vollständiges Diplom und Zusatzblatt mit Auflistung der Fächer und Stunden",
-                      "Beschreibung der Programminhalte (Module/Curriculum)",
-                      "Nachweis von Praxis und Berufserfahrung",
-                      "Beglaubigte Übersetzungen aller Unterlagen"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "gw-result",
-                "title": "2. Mögliche Ergebnisse",
-                "content": [
-                  {
-                    "kind": "paragraph",
-                    "text": "Gibt es keine Unterschiede – sofort die volle Anerkennung. Gibt es wesentliche Unterschiede – bietet die Behörde einen Ausgleich an (Anpassungslehrgang oder Kenntnisprüfung). Sind die Unterlagen nicht überprüfbar – werden Sie höchstwahrscheinlich auf die Kenntnisprüfung verwiesen."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "kind": "paragraph",
-            "text": "Der Vorteil dieses Wegs – Sie müssen keine Prüfung ablegen, wenn die Unterlagen überzeugend sind. Der Nachteil – er hängt von der Vollständigkeit und Qualität der Unterlagen ab: Je ausführlicher der Studienplan, desto höher die Chance auf eine Anerkennung ohne Prüfung."
+            "text": "Die Behörde vergleicht Abschluss, Curriculum und Berufserfahrung mit den deutschen Anforderungen. Gleichwertigkeit erspart den Ausgleich von Ausbildungsunterschieden, nicht die übrigen Berufszulassungsvoraussetzungen. Je nach Beruf und Herkunft des Abschlusses kommen KP, Eignungsprüfung oder Anpassungszeit in Betracht. Diese Maßnahmen sind nicht beliebig austauschbar."
           }
         ]
       },
       {
         "id": "kenntnispruefung",
-        "title": "Kenntnisprüfung: der Weg über die Prüfung",
+        "title": "Was die Prüfung bewertet",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Die Kenntnisprüfung ist eine Prüfung, die feststellt, ob Sie über Kenntnisse und Fertigkeiten auf dem Niveau eines deutschen Absolventen Ihres Berufs verfügen. Sie wird angeordnet, wenn der Vergleich der Unterlagen unmöglich ist (sie sind unvollständig, verloren, nicht überprüfbar) oder wenn die Unterschiede zu groß sind, um sie durch die Auswertung der Unterlagen auszugleichen."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Wird bei unvollständigen/nicht überprüfbaren Unterlagen oder großen Unterschieden angeordnet",
-              "Prüft praktische und theoretische Kenntnisse des deutschen Standards",
-              "Bei Ärzten – eine mündlich-praktische Prüfung (Innere Medizin, Chirurgie u. a.)",
-              "Bei Pflegekräften – praktischer und mündlicher Teil zur Pflege",
-              "Bei Nichtbestehen lässt sich der Versuch in der Regel wiederholen (meist bis zu dreimal)"
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "Die Kenntnisprüfung prüft nicht die Sprache, sondern die fachlichen Kenntnisse – sie wird aber auf Deutsch abgenommen und erfordert daher auch gute Sprachkenntnisse. Bereiten Sie sich fachlich darauf vor (Vorbereitungskurs) und nicht nur mit dem Wiederholen allgemeiner Theorie."
+            "text": "Die KP bewertet Kenntnisse und Fähigkeiten nach den Regeln des jeweiligen Berufs. Bei Ärzten umfasst sie mündliche und praktische Teile; ab November 2026 zählt die professionelle Kommunikation ausdrücklich zu den Inhalten. Übertragen Sie das ärztliche Format nicht auf Pflege oder Pharmazie. Holen Sie vor kostenpflichtiger Vorbereitung die schriftlichen Anforderungen und das Anmeldeverfahren der Landesbehörde ein."
           }
         ]
       },
       {
         "id": "choose-path",
-        "title": "Wie Sie erkennen, welcher Weg auf Sie zutrifft",
+        "title": "Wie Sie das Verfahren wählen",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Sie wählen den Mechanismus nicht beliebig – ihn legt die Anerkennungsbehörde nach Bewertung Ihrer Akte fest. Auf das Ergebnis können Sie aber mit der Qualität der Unterlagen einwirken: Je vollständiger und verständlicher Ihr Studienplan, desto höher die Chance, über die Gleichwertigkeitsprüfung ohne Prüfung anerkannt zu werden."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Stellen Sie einen möglichst ausführlichen Studienplan mit Stunden und Inhalten zusammen",
-              "Sind die Unterlagen verloren oder nicht überprüfbar – bereiten Sie sich auf die Kenntnisprüfung vor",
-              "Bei wesentlichen Unterschieden wählen Sie oft: Prüfung oder Anpassungslehrgang",
-              "Bis zum Ergebnis dürfen Sie mit einer befristeten Berufserlaubnis arbeiten (zum Beispiel die Berufserlaubnis bei Ärzten)",
-              "Fristen: Unterlagen – schneller, Prüfung – plus die Zeit für die Vorbereitung"
-            ]
-          },
-          {
-            "kind": "paragraph",
-            "text": "Fazit: Die Gleichwertigkeitsprüfung ist die „Anerkennung anhand der Unterlagen“, die Kenntnisprüfung die „Anerkennung per Prüfung“. Der Anpassungslehrgang steht für sich als praktische Maßnahme zum Ausgleich ausgleichbarer Unterschiede. Wenn Sie wissen, worin sie sich unterscheiden, planen Sie Zeit und Budget für den gesamten Anerkennungsweg genauer. Für eine kostenlose Beratung wenden Sie sich an eine IQ-Beratungsstelle."
+            "text": "Nennen Sie der Behörde Beruf, Herkunft des Abschlusses und Antragsdatum. Erfragen Sie getrennt die Unterlagen für direkte Prüfung und Dokumentenbewertung sowie Gebühren und Übergangsbedingungen. Vergleichen Sie tatsächliche Wartezeiten und Kosten; lassen Sie das vollständige Curriculum erst nach Klärung der Notwendigkeit übersetzen. Arbeit vor Approbation erfordert eine gesonderte Erlaubnis."
           }
         ]
       }
@@ -86854,23 +86845,39 @@
         "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "Am 01.11.2026 tritt das Gesetz zur Beschleunigung der Anerkennung medizinischer Qualifikationen in Kraft (BGBl. 2026 I Nr. 225): einheitliche Verfahren für Ärzte, Zahnärzte, Apotheker und Hebammen; die Kenntnisprüfung wird zum Standardweg statt langwieriger Dokumentenprüfung.",
+      "summary": "Ab 01.11.2026 wird die direkte Kenntnisprüfung zum Regelfall für ärztliche, zahnärztliche und pharmazeutische Drittstaatsqualifikationen; die dokumentenbasierte Gleichwertigkeitsprüfung bleibt unter ihren Voraussetzungen wählbar. Für bereits gestellte Anträge ist die Übergangsregelung bei der Landesbehörde zu klären. Sprache, abgeschlossene Ausbildung, Gesundheit und Zuverlässigkeit bleiben erforderlich. Für Pflege und Hebammen gelten andere Regeln: Ein Anpassungslehrgang ist nicht automatisch eine ärztliche Alternative. Die bestandene KP allein erteilt noch keine Approbation; auch die übrigen Voraussetzungen müssen erfüllt sein.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Anerkennung ab 1. November 2026: Verfahrenswahl"
   },
   {
     "editorialVoice": "hackgermany",
     "id": "de-deutschlandticket-2026",
     "categoryId": "public_transport",
     "title": "Deutschlandticket 63€: So beantragen Sie es",
-    "tldr": "Das Deutschlandticket (bundesweites Monatsticket) kostet 2026 63€ im Monat und bietet unbegrenzte Fahrten im gesamten öffentlichen Nahverkehr (ÖPNV) in ganz Deutschland: U-Bahn, S-Bahn, Tram, Busse und Regionalzüge RB/RE. Es gilt nicht im ICE, IC/EC und in Fernbussen (FlixBus). Es ist ein Abo mit monatlicher Kündigung: abgeschlossen wird es über die Deutsche Bahn (DB), regionale Apps (BVG, MVG, HVV) oder günstiger über den Arbeitgeber (Jobticket). Das Ticket ist digital (in der App) oder auf einer Chipkarte. Fast immer ist es günstiger als ein gewöhnliches Monatsticket.",
+    "tldr": "Das Deutschlandticket (bundesweites Monatsticket) kostet 2026 63€ im Monat und bietet unbegrenzte Fahrten im gesamten öffentlichen Nahverkehr (ÖPNV) in ganz Deutschland: U-Bahn, S-Bahn, Tram, Busse und Regionalzüge RB/RE. Es gilt nicht im ICE, IC/EC und in Fernbussen (FlixBus). Es ist ein Abo mit monatlicher Kündigung: abgeschlossen wird es über die Deutsche Bahn (DB), regionale Apps (BVG, MVG, HVV) oder günstiger über den Arbeitgeber (Jobticket). Das Ticket ist digital (in der App) oder auf einer Chipkarte. Fast immer ist es günstiger als ein gewöhnliches Monatsticket. Ab Januar 2027: 66,80 €; bestehende DB-Abonnenten sollten die unten erläuterte Zustimmungsfrist zum 30. November 2026 beachten.",
     "tags": [
       "deutschlandticket",
       "monatsticket",
@@ -86966,7 +86973,7 @@
             "kind": "checklist",
             "items": [
               "Das Ticket gilt ab dem 1. eines Kalendermonats",
-              "Die Kündigung des Abos meist bis zum 10. zum Folgemonat",
+              "Bei der DB bis einschließlich zum 10. kündigen, damit das Abo zum Ende des laufenden Monats endet. Bei anderen Anbietern deren Bedingungen prüfen.",
               "Bei Kündigung funktioniert das Ticket bis zum Ende des bezahlten Monats",
               "Halten Sie das Telefon geladen: ein leerer Bildschirm = kein Ticket bei der Kontrolle"
             ]
@@ -86976,6 +86983,16 @@
             "text": "Das D-Ticket ist personengebunden: Nutzen darf es nur der im Ticket genannte Inhaber. Eine Weitergabe an eine andere Person ist nicht erlaubt – bei der Kontrolle wird das wie Schwarzfahren behandelt."
           }
         ]
+      },
+      {
+        "id": "price-2027-consent",
+        "title": "Preis 2027 und Zustimmung bis 30. November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Das Standardticket kostet 2026 monatlich 63 €, ab 01.01.2027 66,80 €. Bei früher abgeschlossenen DB-Abos muss die bestellende Person bis 30.11.2026 im Abo-Portal oder DB Navigator der Preisanpassung und den ergänzenden Bedingungen zustimmen („Vertragsänderung zustimmen“). Ohne Zustimmung endet das DB-Abo am 31.12.2026. Für Bestellungen ab 15.10.2026 ist keine gesonderte Zustimmung erforderlich. Bei anderen Anbietern gilt deren Mitteilung; die DB-Frist gilt nicht automatisch für alle Verkehrsunternehmen."
+          }
+        ]
       }
     ],
     "costs": [
@@ -86983,7 +87000,7 @@
         "label": "Deutschlandticket (Standard)",
         "amountEURMin": 63,
         "amountEURMax": 63,
-        "note": "Fester Preis im Jahr 2026, monatliches Abo mit Kündigungsmöglichkeit."
+        "note": "63 €/Monat bis 31.12.2026; 66,80 €/Monat ab 01.01.2027."
       },
       {
         "label": "Deutschlandticket Jobticket",
@@ -87020,16 +87037,20 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Deutsche Bahn — Deutschlandticket contractual changes for 2027",
+        "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "Ab 2027 wird der Preis des Deutschlandtickets über ein Indexmodell bestimmt (Beschluss der Verkehrsministerkonferenz, März 2026); der neue Preis wird bis zum 30.09.2026 verkündet. Bis Ende 2026 bleibt es bei 63 €/Monat.",
-      "expectedDate": "2027-01-01",
-      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
-    }
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Preis 2027 und Zustimmung bis 30. November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -102338,6 +102359,16 @@
             "text": "Verschweigen Sie eine Vorstrafe niemals im Antrag: Die Behörde sieht das Bundeszentralregister ohnehin, und falsche Angaben sind ein Grund für die Ablehnung und für die spätere Rücknahme der Staatsangehörigkeit nach §35 StAG. Die ehrliche Angabe einer kleinen Strafe unter der Schwelle des §12a StAG ist sicherer als das Verschweigen."
           }
         ]
+      },
+      {
+        "id": "digital-certificate-scope",
+        "title": "Privates PDF ersetzt keine Behördenprüfung",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Die digitale Führungszeugnis-Ausgabe über BundID seit Oktober 2026 betrifft private Zwecke. Sie ersetzt weder die Registerprüfung bei Einbürgerung noch garantiert ein eintragsfreies Zeugnis die Einbürgerungsfähigkeit. Folgen Sie den Anforderungen der Einbürgerungsbehörde, auch zu ausländischen Verurteilungen."
+          }
+        ]
       }
     ],
     "costs": [
@@ -102395,12 +102426,21 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BfJ — digital Führungszeugnis FAQ",
+        "url": "https://bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fragen/Fragen_node.html?docId=259056",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Privates PDF ersetzt keine Behördenprüfung"
   },
   {
     "editorialVoice": "hackgermany",
@@ -103363,6 +103403,16 @@
             ]
           }
         ]
+      },
+      {
+        "id": "fuel-tax-q4-2026",
+        "title": "Befristete Steuersenkung: Oktober–Dezember",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Vom 01.10. bis 31.12.2026 ist die Energiesteuer auf Benzin und Diesel um 14,04 Cent/Liter gesenkt, einschließlich Umsatzsteuer rund 17 Cent. Das ist eine Steuersenkung, keine garantierte Preissenkung an jeder Tankstelle. Vergleichen Sie die tatsächlichen Preise und rechnen Sie nicht automatisch mit einer Fortsetzung 2027."
+          }
+        ]
       }
     ],
     "costs": [
@@ -103407,18 +103457,20 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Bundesregierung — changes in October 2026",
+        "url": "https://www.bundesregierung.de/breg-de/suche/gesetzliche-neuregelungen-oktober-2026-2454624",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "Tankrabatt: Bundestag und Bundesrat haben am 25.09.2026 die Senkung der Energiesteuer auf Benzin und Diesel um 14,04 ct/l (inkl. MwSt. rund 17 ct/l) für den Zeitraum 01.10.–31.12.2026 beschlossen. Sie gilt nach Verkündung im BGBl; ob die Tankstellen die Senkung voll weitergeben, hängt vom Markt ab.",
-      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html",
-      "expectedDate": "2026-10-01"
-    },
-    "recentlyChangedAt": "2026-09-25",
-    "changeSummary": "Energiesteuer auf Kraftstoff sinkt um ~17 ct/l für 01.10.–31.12.2026 (beschlossen 25.09.2026)."
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Befristete Steuersenkung: Oktober–Dezember"
   },
   {
     "editorialVoice": "hackgermany",
@@ -105606,7 +105658,7 @@
     "id": "de-paypal-klarna-payment",
     "categoryId": "banking_finance",
     "title": "PayPal, Klarna: Online-Zahlungen",
-    "tldr": "Beim Einkauf in deutschen Onlineshops begegnen Ihnen ständig PayPal und Klarna. PayPal ist eine Wallet mit Käuferschutz: Bei Nichtlieferung oder nicht vertragsgemäßer Ware bekommen Sie das Geld in der Regel zurück; für den Käufer ist der Dienst kostenlos. Klarna umfasst mehrere Zahlarten: Kauf auf Rechnung nach Erhalt der Ware (in Deutschland sehr beliebt), Ratenkauf („buy now, pay later“) und die Sofortüberweisung (Sofort). Wichtig: Kauf auf Rechnung und besonders der Ratenkauf sind eine Form von Kredit, Klarna stellt eine Anfrage bei der SCHUFA (der größten Kreditauskunftei) und kann beim Ratenkauf Zinsen berechnen. Es gibt auch Banklösungen — Giropay (früher paydirekt) — die Zahlung direkt über Ihr Online-Banking. Grundregel: „Zahlung später“ ist eine Schuld; zahlen Sie pünktlich, sonst folgen Mahnungen, Gebühren und ein Eintrag bei der SCHUFA.",
+    "tldr": "PayPal und Klarna bieten unterschiedliche Zahlungsprodukte: sofortige Zahlung, spätere Zahlung und Ratenkauf. Vergleichen Sie das konkrete Produkt, Kosten und Käuferschutzbedingungen. BNPL begründet eine Zahlungspflicht; Bonitätsprüfung und Datenübermittlung hängen vom Produkt ab. Giropay wurde zum 31.12.2024 eingestellt. Ab 20.11.2026 wird der Verbraucherkreditschutz auf bestimmte BNPL-Verträge erweitert.",
     "tags": [
       "paypal",
       "klarna",
@@ -105642,89 +105694,31 @@
       },
       {
         "id": "klarna",
-        "title": "Klarna: Rechnung, Ratenkauf, Sofort",
+        "title": "Klarna: das konkrete Produkt vergleichen",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Klarna vereint mehrere Zahlarten, und es ist wichtig, den Unterschied zu verstehen, denn ein Teil davon ist Kredit."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "rechnung",
-                "title": "1. Rechnung — Kauf auf Rechnung",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Die Ware kommt zuerst, die Zahlung erfolgt innerhalb der angegebenen Frist (meist 14-30 Tage)",
-                      "Praktisch: Sie können zuerst anprobieren/prüfen und dann zahlen",
-                      "Klarna stellt eine weiche oder vollständige Anfrage bei der SCHUFA",
-                      "Zahlungsverzug führt zu Mahnungen und Gebühren"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "ratenkauf",
-                "title": "2. Ratenkauf — Ratenzahlung (BNPL)",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Zahlung in Raten über mehrere Monate — das ist ein Verbraucherkredit",
-                      "Auf die Raten kann ein Zins (Sollzins) anfallen",
-                      "Klarna stellt eine Anfrage bei der SCHUFA, und der Kredit selbst wird in der SCHUFA erfasst",
-                      "Mehrere parallele Ratenkäufe verschlechtern Ihr Kreditprofil"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "sofort",
-                "title": "3. Sofort — die Sofortüberweisung",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Zahlung sofort über die Daten Ihres Online-Bankings",
-                      "Das Geld geht umgehend ab, wie eine gewöhnliche Überweisung",
-                      "Das ist kein Kredit und erfordert in der Regel keine SCHUFA-Anfrage",
-                      "Geben Sie die Online-Banking-Daten nur auf einer geprüften Zahlungsseite ein"
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "Klarna Rechnung (Kauf auf Rechnung) und Ratenkauf (Ratenzahlung) sind „buy now, pay later“, also eine Schuld. Jeder Ratenkauf ist ein Kredit, der in der SCHUFA sichtbar ist; mehrere gleichzeitige Ratenkäufe führen leicht zum Verlust der Ausgabenkontrolle und zu Zahlungsverzug. Nutzen Sie BNPL nicht für Impulskäufe und zahlen Sie die Klarna-Rechnung immer fristgerecht: Verzug bedeutet Mahnungen, Gebühren und einen negativen SCHUFA-Eintrag, der die Wohnungssuche und Kredite erschwert."
+            "text": "Rechnungskauf und Ratenzahlung unterscheiden sich bei Fristen, Zinsen und Bonitätsprüfung. Nicht jede Bestellung erzeugt automatisch einen negativen SCHUFA-Eintrag: Produkt, Anfrageart und Bedingungen der Datenübermittlung sind entscheidend. Speichern Sie Vertrag und Zahlungsplan und richten Sie Erinnerungen ein. Informieren Sie bei Problemen mit der Ware Händler und Zahlungsdienst und prüfen Sie, ob die Zahlungsfrist tatsächlich pausiert wurde."
           }
         ]
       },
       {
         "id": "bank-based",
-        "title": "Banklösungen und Sicherheit",
+        "title": "Bankzahlungen und Einstellung von Giropay",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Neben den Wallets gibt es die Zahlung direkt über Ihre Bank: Giropay (in das der frühere paydirekt integriert ist) ermöglicht die Zahlung über die Oberfläche Ihres Online-Bankings mit Bestätigung per TAN, ohne dass dem Verkäufer Kartendaten übermittelt werden. Auch die klassische SEPA-Überweisung und die Lastschrift bleiben für viele Shops und Abos der Standard."
-          },
+            "text": "Giropay/paydirekt wurde zum 31.12.2024 eingestellt. Für Bankzahlungen kommen angebotene SEPA-Überweisungen oder Lastschriften infrage; Rückgabe- und Erstattungsregeln unterscheiden sich. Prüfen Sie Empfänger und Verwendungszweck. Bestätigen Sie keine TAN-Anfrage, die ein Unbekannter als „Stornierung“ oder „Erstattung“ bezeichnet."
+          }
+        ]
+      },
+      {
+        "id": "consumer-credit-november",
+        "title": "BNPL: neue Regeln ab 20. November",
+        "content": [
           {
-            "kind": "checklist",
-            "items": [
-              "Giropay — Zahlung über Ihr Online-Banking mit Bestätigung per TAN",
-              "SEPA-Überweisung — für Vorkasse und Rechnungen",
-              "Zahlen Sie nur auf geprüften Seiten mit https und bei bekanntem Verkäufer",
-              "Bevorzugen Sie für Abos eine Zahlart, die sich leicht kündigen lässt",
-              "Prüfen Sie Ihren Kontoauszug regelmäßig auf unbekannte Abbuchungen"
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "Zahlungsdaten (Login zum Online-Banking, TAN-Codes, Kartendaten) geben Sie nur auf der offiziellen Zahlungsseite des Shops oder der Bank ein. Betrüger fälschen die Oberflächen von Klarna, PayPal und Giropay. Kein echter Dienst fordert je einen TAN-Code „zur Stornierung einer Zahlung“ oder „für eine Rückerstattung“ — solche Aufforderungen bedeuten immer einen Versuch, Geld zu stehlen."
+            "kind": "paragraph",
+            "text": "Ab 20.11.2026 erweitert das veröffentlichte Gesetz den Verbraucherkreditschutz auf kleine, zinsfreie und bestimmte BNPL-Produkte. Vorvertragliche Informationen und Kreditwürdigkeitsprüfungen sind wichtig; maßgeblich sind der konkrete Vertrag und gesetzliche Ausnahmen. Prüfen Sie vor Abschluss Gesamtbetrag, Zinsen, Fälligkeiten und Widerrufsbedingungen. Stellen Sie bei einer Retoure Zahlungen nicht einfach ein: Informieren Sie Händler und Kreditgeber, bewahren Sie Nachweise auf und prüfen Sie, ob die Rechnung pausiert oder angepasst wurde."
           }
         ]
       }
@@ -105742,11 +105736,10 @@
       },
       {
         "label": "Klarna Ratenkauf (Ratenzahlung)",
-        "amountEUR": 0,
-        "note": "Es kann ein Zins (Sollzins) anfallen; das ist ein Verbraucherkredit und in der SCHUFA sichtbar."
+        "note": "Die Kosten hängen vom Produkt ab: effektiven Jahreszins, Gesamtbetrag und vertragliche Gebühren prüfen."
       },
       {
-        "label": "Giropay / SEPA-Überweisung",
+        "label": "SEPA-Überweisung",
         "amountEUR": 0,
         "note": "Für den Käufer in der Regel kostenlos; Zahlung direkt über die Bank."
       }
@@ -105783,12 +105776,35 @@
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
+      },
+      {
+        "title": "Bundestag DIP — consumer credit law, BGBl. 2026 I No. 139",
+        "url": "https://dip.bundestag.de/vorgang/gesetz-zur-umsetzung-der-richtlinie-eu-2023-2225-%C3%BCber-verbraucherkreditvertr%C3%A4ge-und/325529",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesregierung — consumer credit protection",
+        "url": "https://www.bundesregierung.de/breg-de/aktuelles/schutz-kreditvertraege-2382528",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "VR Bank Rhein-Neckar — giropay ended on 31.12.2024",
+        "url": "https://www.vrbank.de/privatkunden/girokonto-und-karten/service-und-mehr/ratgeber/giropay-paydirekt.html",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "BNPL: neue Regeln ab 20. November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -111224,5 +111240,164 @@
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
     "premium": true
+  },
+  {
+    "editorialVoice": "hackgermany",
+    "id": "de-ees-etias-entry",
+    "categoryId": "before_arrival",
+    "title": "EES und ETIAS: Was Sie an der Grenze brauchen",
+    "tldr": "Am 31.10.2026 ist EES in Betrieb; ETIAS nimmt noch keine Anträge an. Es sind unterschiedliche Systeme. Ein Aufenthaltstitel oder nationales Langzeitvisum eines EES-Staates befreit von der EES-Registrierung; führen Sie das Dokument mit.",
+    "tags": [
+      "EES",
+      "ETIAS",
+      "Schengen"
+    ],
+    "estimatedReadMinutes": 4,
+    "steps": [
+      {
+        "id": "which-system",
+        "title": "Die beiden Systeme unterscheiden",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "EES erfasst Ein- und Ausreisen von Drittstaatsangehörigen bei Kurzaufenthalten an Außengrenzen. Die vollständige Einführung endete am 10.04.2026. ETIAS ist eine künftige Reisegenehmigung für bestimmte visumbefreite Reisende, kein Grenzübertrittsregister."
+          }
+        ]
+      },
+      {
+        "id": "resident-documents",
+        "title": "Gültigen Aufenthaltstitel vorzeigen",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "EU-/EWR-/Schweizer Staatsangehörige und Inhaber gültiger Aufenthaltstitel oder Langzeitvisa von EES-Staaten werden nicht als Kurzzeitbesucher registriert. Bei portugiesischem oder deutschem Titel zeigen Sie Pass und Karte. Bei abgelaufener Karte und Verlängerungsbeleg müssen die Wiedereinreiseregeln gesondert geprüft werden."
+          }
+        ]
+      },
+      {
+        "id": "visitor-border",
+        "title": "Bei Reisen als Besucher",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Halten Sie Pass, gegebenenfalls Visum und Unterlagen zum Reisezweck bereit. EES erfasst Passdaten und Biometrie; Kinder unter zwölf geben keine Fingerabdrücke ab. EES verlängert keinen erlaubten Aufenthalt und hebt die 90/180-Regel nicht auf. Planen Sie Zeit für die Grenzkontrolle ein."
+          }
+        ]
+      },
+      {
+        "id": "etias-status",
+        "title": "ETIAS: noch keinen Antrag stellen",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Am 31.10.2026 erklärt das offizielle EU-Portal, dass ETIAS noch nicht in Betrieb ist und keine Anträge entgegennimmt. Bezahlen Sie keinen Vermittler für eine angeblich bereits verpflichtende Genehmigung. Prüfen Sie vor der nächsten Reise erneut travel-europe.europa.eu: Die EU kündigt Start und Übergangsregeln an."
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "European Commission — EES exemptions, 27.07.2026",
+        "url": "https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Council of the EU — how the Entry/Exit System works",
+        "url": "https://www.consilium.europa.eu/en/policies/entryexit-system/",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "European Union — ETIAS FAQ and launch status",
+        "url": "https://travel-europe.europa.eu/etias/faq",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "verifyIntervalDays": 30,
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Neuer Leitfaden auf Grundlage offizieller Quellen."
+  },
+  {
+    "editorialVoice": "hackgermany",
+    "id": "de-digital-fuehrungszeugnis",
+    "categoryId": "digital_gov",
+    "title": "Digitales Führungszeugnis über BundID",
+    "tldr": "Seit Oktober 2026 kann das Führungszeugnis für private Zwecke als PDF an die BundID zugestellt werden. Die reguläre Gebühr beträgt 13 €. Ein Führungszeugnis zur Vorlage bei einer Behörde wird nicht in dieser digitalen Ausgabeform erteilt.",
+    "tags": [
+      "Führungszeugnis",
+      "BundID",
+      "eAT"
+    ],
+    "estimatedReadMinutes": 4,
+    "steps": [
+      {
+        "id": "choose-type",
+        "title": "Zuerst die benötigte Art klären",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Klären Sie mit dem Empfänger, ob ein einfaches, erweitertes oder Behördenführungszeugnis nötig ist. Die PDF-Ausgabe ist für private Zwecke möglich, bei Vorliegen der Voraussetzungen auch erweitert. Halten Sie dafür die Bestätigung der anfordernden Stelle bereit. Ersetzen Sie das für Einbürgerung oder Berufszulassung verlangte Behördenverfahren nicht eigenmächtig durch ein privates PDF."
+          }
+        ]
+      },
+      {
+        "id": "prepare",
+        "title": "Online-Ausweis und BundID vorbereiten",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Benötigt werden Personalausweis, elektronischer Aufenthaltstitel oder eID-Karte mit aktivierter Onlinefunktion und PIN, geeignetes Smartphone/Kartenlesegerät und AusweisApp. Bereiten Sie Ihr BundID-Konto vor; es lässt sich auch im Antragsprozess erstellen. Ohne Online-Identifikation steht das reguläre Verfahren über das Bürgeramt zur Verfügung."
+          }
+        ]
+      },
+      {
+        "id": "apply",
+        "title": "Das offizielle Portal verwenden",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Beginnen Sie auf fuehrungszeugnis.bund.de und wählen Sie die digitale Ausgabe. Prüfen Sie Personalien und Zeugnisart. Laut BfJ-FAQ erfolgt die Onlinezahlung per Kreditkarte; regulär werden 13 € fällig. Ein Anbieter, der lediglich eine Anleitung verkauft, stellt keinen Antrag für Sie. Speichern Sie die Bestätigung."
+          }
+        ]
+      },
+      {
+        "id": "receive",
+        "title": "PDF empfangen und weitergeben",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Das Zeugnis kommt ins BundID-Postfach. Laden Sie das Original-PDF herunter: Es ist rechtlich gleichwertig mit der Papierfassung; der QR-Code dient der Echtheitsprüfung. Das BfJ nennt im Regelfall wenige Stunden, Rückfragen und ausländische Registerauskünfte können länger dauern. Bei europäischen Führungszeugnissen hat die ausländische Stelle bis zu 20 Arbeitstage zur Antwort. Versprechen Sie Arbeitgebern keine garantierte Zustellung in 30 Minuten."
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "BfJ — digital Führungszeugnis FAQ",
+        "url": "https://bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fragen/Fragen_node.html?docId=259056",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesportal — Führungszeugnis application",
+        "url": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99049001001000",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "verifyIntervalDays": 30,
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Neuer Leitfaden auf Grundlage offizieller Quellen."
   }
 ]

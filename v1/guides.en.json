@@ -22227,6 +22227,13 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMAS — Sozialversicherungsrechengrößen-Verordnung 2027",
+        "url": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
@@ -22234,10 +22241,12 @@
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "BMAS draft ordinance (21.09.2026, not yet approved by the cabinet and the Bundesrat): in 2027 the threshold for leaving GKV (Versicherungspflichtgrenze) would be €84,150 a year and the health/care contribution ceiling (Beitragsbemessungsgrenze) €6,375 a month (€76,500 a year).",
-      "sourceUrl": "https://www.bmas.de/DE/Service/Presse/Meldungen/2026/referentenentwurf-zur-sozialversicherungsrechengroessen-verordnung-2027.html",
+      "summary": "The cabinet approved the draft on 7 October 2026. As of 31 October, BMAS had not published the final ordinance; the procedure involving the Bundesrat must still be completed. Proposed 2027 figures: general compulsory-GKV threshold €84,150/year; GKV/PV contribution ceiling €76,500/year (€6,375/month). These are different measures; 2026 figures remain applicable until the new rules take effect.",
+      "sourceUrl": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html",
       "expectedDate": "2027-01-01"
-    }
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Updated the status of the proposed 2027 insurance thresholds."
   },
   {
     "editorialVoice": "hackgermany",
@@ -40753,7 +40762,7 @@
     "id": "de-kenntnispruefung-doctors",
     "categoryId": "qualification_recognition",
     "title": "The knowledge exam (Kenntnisprüfung) for doctors",
-    "tldr": "The Kenntnisprüfung (KP) is a state knowledge exam taken by doctors from third countries when their foreign medical education is recognised as NOT fully equivalent to the German one (no full equivalence of qualification, Gleichwertigkeit). It is the route to a full medical licence (Approbation). The exam tests the level of a graduate of a German medical faculty (Stand des deutschen Staatsexamens): internal medicine, surgery and related subjects plus German medical law; it is held in an oral-practical format (mündlich-praktisch) that includes an examination with a patient. Before the KP you need: proof of German (as a rule B2 general + C1 medical / Fachsprachprüfung), often a temporary permit to practise the profession (Berufserlaubnis) during preparation, and documents submitted to the state's Approbationsbehörde. The number of attempts is limited (as a rule, no more than three). An alternative to the exam is an adaptation course (Anpassungslehrgang), but for non-EU doctors the KP is usually the main route.",
+    "tldr": "Kenntnisprüfung (KP) assesses professional knowledge for recognition of medical qualifications. From 1 November 2026, a direct examination becomes the standard route for third-country qualifications, with documentary assessment still available as an option. Check format and transitional rules with the state authority. KP does not replace the other Approbation conditions; an adaptation course is not a general alternative for doctors.",
     "tags": [
       "kenntnisprüfung",
       "doctor",
@@ -40765,21 +40774,11 @@
     "steps": [
       {
         "id": "when-kp",
-        "title": "When you need a Kenntnisprüfung",
+        "title": "Recognition from 1 November 2026: choosing the procedure",
         "content": [
           {
             "kind": "paragraph",
-            "text": "The Approbationsbehörde first compares your education with the German one. If it is recognised as fully equivalent, no KP is needed and you go straight to the Approbation. If substantial differences (wesentliche Unterschiede) are found, they can be closed either through the knowledge exam (Kenntnisprüfung) or through an adaptation period. For doctors from third countries the KP is the most common route."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Full equivalence (Gleichwertigkeit) — no KP needed, straight to the licence (Approbation)",
-              "Substantial differences (wesentliche Unterschiede) — a choice between the exam (Kenntnisprüfung) and an adaptation course (Anpassungslehrgang)",
-              "For non-EU doctors the KP is the more common requirement",
-              "The KP tests the level of the German Staatsexamen (a medical-faculty graduate)",
-              "Passing the KP leads to a full licence (Approbation), not to a temporary permit (Berufserlaubnis)"
-            ]
+            "text": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met."
           }
         ]
       },
@@ -40902,6 +40901,20 @@
         "kind": "law",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
@@ -40909,10 +40922,12 @@
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "summary": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Recognition from 1 November 2026: choosing the procedure"
   },
   {
     "editorialVoice": "hackgermany",
@@ -41115,7 +41130,7 @@
     "id": "de-medical-approbation",
     "categoryId": "qualification_recognition",
     "title": "Medical licence (Approbation)",
-    "tldr": "The medical licence (Approbation) is a full and indefinite state licence granting the right to work as a doctor in Germany independently and without restriction (the basis is §3 Bundesärzteordnung, BÄO). Without it, a doctor can only work under a temporary permit to practise (Berufserlaubnis) that is limited in time and place and requires supervision. The path to the Approbation for a doctor from a third country: (1) submit an application to the state's Approbationsbehörde, which compares the education (Gleichwertigkeitsprüfung); (2) prove your language — general B2 plus medical C1 (Fachsprachprüfung); (3) in case of incomplete equivalence, sit the knowledge exam (Kenntnisprüfung) or complete an adaptation course (Anpassungslehrgang); (4) prove good standing and health. For EU/EEA citizens, education is more often recognised automatically under Directive 2005/36/EG. The Approbation is issued by a specific state, but it is valid throughout Germany.",
+    "tldr": "Approbation is the full medical licence valid throughout Germany, issued through a state authority. From 1 November 2026, the standard route for third-country qualifications is direct Kenntnisprüfung, with documentary equivalence assessment available as an option. Language, health and reliability requirements also apply; check transitional rules for earlier applications. A temporary Berufserlaubnis is not Approbation.",
     "tags": [
       "approbation",
       "medical licence",
@@ -41147,46 +41162,11 @@
       },
       {
         "id": "the-path",
-        "title": "The path to the Approbation: steps",
+        "title": "Recognition from 1 November 2026: choosing the procedure",
         "content": [
           {
             "kind": "paragraph",
-            "text": "The procedure depends on the country of the diploma. For the EU/EEA — simplified automatic recognition under Directive 2005/36/EG. For third countries — an individual equivalence check and, if necessary, an exam."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "eu",
-                "title": "1. EU/EEA citizens",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Education from the EU is usually recognised automatically (Directive 2005/36/EG)",
-                      "You need language, and certificates of good standing and health",
-                      "A Kenntnisprüfung is, as a rule, not required",
-                      "Submission to the state's Approbationsbehörde"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "third-country",
-                "title": "2. Third countries",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Gleichwertigkeitsprüfung: comparison of the education with the German one",
-                      "In case of substantial differences (wesentliche Unterschiede) — Kenntnisprüfung or Anpassungslehrgang",
-                      "Language: general B2 plus medical C1 (Fachsprachprüfung)",
-                      "You can start with a Berufserlaubnis during preparation"
-                    ]
-                  }
-                ]
-              }
-            ]
+            "text": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met."
           }
         ]
       },
@@ -41205,7 +41185,7 @@
               "Proof of medical practice and work experience",
               "Language certificates: general B2 plus medical C1 (Fachsprachprüfung)",
               "a certificate of good conduct (Führungszeugnis) and a medical health certificate (ärztliches Gesundheitszeugnis)",
-              "For third-country nationals — a valid residence permit (Aufenthaltstitel) allowing work as a doctor"
+              "Third-country nationals need suitable immigration permission to work; recognition can be initiated from abroad."
             ]
           },
           {
@@ -41263,6 +41243,20 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
@@ -41270,10 +41264,12 @@
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "summary": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Recognition from 1 November 2026: choosing the procedure"
   },
   {
     "editorialVoice": "hackgermany",
@@ -48827,7 +48823,7 @@
     "id": "de-deutschlandticket-49",
     "categoryId": "public_transport",
     "title": "Deutschlandticket: 63 €/month — what it is and what's included",
-    "tldr": "The Deutschlandticket (D-Ticket) is a single subscription covering all regional and local public transport across Germany. Since 1 January 2026 it costs 63 € per month; in 2025 the price was 58 €, and until the end of 2024 it was 49 €. With it you can ride any regional trains (RE, RB), the S-Bahn, U-Bahn, trams and buses anywhere in the country, but NOT long-distance trains (ICE, IC, EC) and NOT FlixBus coaches. The ticket is always personal, digital (in an app or as a chip card) and set up as a cancellable monthly subscription (Abo). Through your employer (corporate travel pass, Jobticket) you can get an extra discount.",
+    "tldr": "The Deutschlandticket (D-Ticket) is a single subscription covering all regional and local public transport across Germany. Since 1 January 2026 it costs 63 € per month; in 2025 the price was 58 €, and until the end of 2024 it was 49 €. With it you can ride any regional trains (RE, RB), the S-Bahn, U-Bahn, trams and buses anywhere in the country, but NOT long-distance trains (ICE, IC, EC) and NOT FlixBus coaches. The ticket is always personal, digital (in an app or as a chip card) and set up as a cancellable monthly subscription (Abo). Through your employer (corporate travel pass, Jobticket) you can get an extra discount. From January 2027: €66.80; existing DB subscribers should check the 30 November 2026 consent deadline below.",
     "tags": [
       "deutschlandticket",
       "oepnv",
@@ -48890,6 +48886,16 @@
             "text": "For socially vulnerable groups, many cities and regions offer discounted versions (a social tariff Sozialticket / a D-Ticket for university students, school pupils, or recipients of the basic income benefit Bürgergeld) cheaper than 63 €. Check local fares with your transport association (Verkehrsverbund)."
           }
         ]
+      },
+      {
+        "id": "price-2027-consent",
+        "title": "2027 price and consent by 30 November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "The standard ticket costs €63/month in 2026 and €66.80 from 1 January 2027. For an earlier DB subscription, the person who ordered it must accept the new price and supplementary terms by 30 November 2026 in Abo-Portal or DB Navigator (“Vertragsänderung zustimmen”). Without consent, DB ends the subscription on 31 December 2026. Orders placed from 15 October 2026 need no separate consent. Other sellers have their own notices; the DB deadline is not universal."
+          }
+        ]
       }
     ],
     "costs": [
@@ -48939,24 +48945,28 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-16"
+      },
+      {
+        "title": "Deutsche Bahn — Deutschlandticket contractual changes for 2027",
+        "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-16",
     "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "From 2027 the Deutschlandticket price is set by an index model (transport ministers' decision, March 2026); the new price will be announced by 30.09.2026. Until the end of 2026 it stays at €63/month.",
-      "expectedDate": "2027-01-01",
-      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
-    }
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "2027 price and consent by 30 November"
   },
   {
     "editorialVoice": "hackgermany",
     "id": "de-deutschlandticket-buy-cancel",
     "categoryId": "public_transport",
     "title": "Buying and cancelling the Deutschlandticket",
-    "tldr": "The Deutschlandticket is sold only as a monthly subscription (Abo) — there's no single-trip version. You can set it up through the DB Navigator app, the bahn.de website, your regional transport association's app (VRR, RMV, BVG and others) or a transport company. The ticket is valid for a calendar month (from the 1st to the last day), not for 30 days from purchase. To cancel, do so by the 10th of the current month and the subscription then ends at the end of that same month. Cancel in the same app/portal where you signed up.",
+    "tldr": "The Deutschlandticket is sold only as a monthly subscription (Abo) — there's no single-trip version. You can set it up through the DB Navigator app, the bahn.de website, your regional transport association's app (VRR, RMV, BVG and others) or a transport company. The ticket is valid for a calendar month (from the 1st to the last day), not for 30 days from purchase. To cancel, do so by the 10th of the current month and the subscription then ends at the end of that same month. Cancel in the same app/portal where you signed up. From January 2027: €66.80; existing DB subscribers should check the 30 November 2026 consent deadline below.",
     "tags": [
       "deutschlandticket",
       "abo",
@@ -49046,6 +49056,16 @@
             "text": "The subscription can be paused and resumed month by month — handy if you're away for a month. But each time, watch the cancellation deadline of the 10th, or you'll be charged for the next month."
           }
         ]
+      },
+      {
+        "id": "price-2027-consent",
+        "title": "2027 price and consent by 30 November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "The standard ticket costs €63/month in 2026 and €66.80 from 1 January 2027. For an earlier DB subscription, the person who ordered it must accept the new price and supplementary terms by 30 November 2026 in Abo-Portal or DB Navigator (“Vertragsänderung zustimmen”). Without consent, DB ends the subscription on 31 December 2026. Orders placed from 15 October 2026 need no separate consent. Other sellers have their own notices; the DB deadline is not universal."
+          }
+        ]
       }
     ],
     "costs": [
@@ -49088,17 +49108,21 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-16"
+      },
+      {
+        "title": "Deutsche Bahn — Deutschlandticket contractual changes for 2027",
+        "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-16",
     "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "From 2027 the Deutschlandticket price is set by an index model (transport ministers' decision, March 2026); the new price will be announced by 30.09.2026. Until the end of 2026 it stays at €63/month.",
-      "expectedDate": "2027-01-01",
-      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
-    }
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "2027 price and consent by 30 November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -49846,6 +49870,16 @@
             "text": "Don't confuse BundID with De-Mail (that system is being wound down and will be fully shut off by the end of 2026) or with the ELSTER tax portal (that's a separate tax service)."
           }
         ]
+      },
+      {
+        "id": "digital-criminal-record",
+        "title": "New service: certificate of conduct as PDF",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Since October 2026, BfJ delivers digital certificates of conduct for private purposes to BundID. Online application and digital delivery are different options: select the required format in the official portal. Authority-directed certificates follow different rules. See “Digital certificate of conduct through BundID”."
+          }
+        ]
       }
     ],
     "costs": [
@@ -49888,11 +49922,27 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BfJ — digital Führungszeugnis FAQ",
+        "url": "https://bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fragen/Fragen_node.html?docId=259056",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesportal — Führungszeugnis application",
+        "url": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99049001001000",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "New service: certificate of conduct as PDF"
   },
   {
     "editorialVoice": "hackgermany",
@@ -84873,6 +84923,16 @@
             "text": "Tip: for your first purchases, choose purchase by invoice (Kauf auf Rechnung) or PayPal. That way you only pay, and only take on the risk, after you've confirmed the goods arrived and fit. By law the cost of return shipping can fall on the buyer if the seller gave advance notice, but in practice large shops (Zalando, Amazon, Otto) more often make returns free."
           }
         ]
+      },
+      {
+        "id": "eu-parcel-fee-november",
+        "title": "Non-EU parcels: fee from 1 November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "For online orders shipped directly to consumers from outside the EU, the transitional €3 duty per goods category in small consignments up to €150 has applied since 1 July 2026. From 1 November 2026 an additional EU handling fee of €2 per customs declaration line (goods category), rather than simply per box, applies; Dutch Customs explains that it also covers e-commerce consignments above €150. VAT and a separate carrier service charge may be added. Check the total-price breakdown: IOSS concerns VAT and does not remove the other charges. Do not automatically apply distance-selling rules to private gifts or travellers’ luggage. Open tracking and payment manually on the carrier’s official website instead of following an unsolicited text-message link."
+          }
+        ]
       }
     ],
     "costs": [
@@ -84943,12 +85003,28 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Council of the EU — small parcels, reviewed 23.10.2026",
+        "url": "https://www.consilium.europa.eu/en/policies/eu-action-influx-of-small-parcels/",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Dutch Customs — EU handling fee, updated 22.10.2026",
+        "url": "https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Non-EU parcels: fee from 1 November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -85486,40 +85562,11 @@
       },
       {
         "id": "gleichwertigkeit-kenntnispruefung",
-        "title": "Equivalence assessment (Gleichwertigkeitsprüfung) and knowledge test (Kenntnisprüfung)",
+        "title": "Recognition from 1 November 2026: choosing the procedure",
         "content": [
           {
             "kind": "paragraph",
-            "text": "The core of recognition is checking that your education is equivalent (gleichwertig) to German medical training. There are two routes, and which one you get is decided by the licensing authority (Approbationsbehörde)."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "doc-comparison",
-                "title": "1. Equivalence assessment (Gleichwertigkeitsprüfung) — comparison by documents",
-                "content": [
-                  {
-                    "kind": "paragraph",
-                    "text": "The authority examines your degree, the curriculum (hours per subject), the diploma supplement and your work experience. If they confirm that your education essentially matches the German one, recognition is granted without an exam. An expert opinion (Gutachten) is often commissioned for the assessment; preparing it is the main cost at this stage."
-                  }
-                ]
-              },
-              {
-                "id": "knowledge-exam",
-                "title": "2. Knowledge test (Kenntnisprüfung) — when there are substantial differences",
-                "content": [
-                  {
-                    "kind": "paragraph",
-                    "text": "If substantial differences (wesentliche Unterschiede) are identified, or the documents are incomplete or unverifiable, instead of a document comparison you take a test of professional knowledge (Kenntnisprüfung) — a state medical exam at the level of a German graduate. It is an oral and practical exam with a patient in internal medicine and surgery, plus questions on related subjects. A failed attempt can usually be repeated (typically up to three times)."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "Do not confuse the knowledge test (Kenntnisprüfung) with the equivalence assessment (Gleichwertigkeitsprüfung). The first is an exam that replaces the document comparison when that is not possible or the differences are too great. The second is an analysis of the paperwork without an exam. You do not choose the route yourself: the authority determines it after assessing your file."
+            "text": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met."
           }
         ]
       },
@@ -85586,7 +85633,7 @@
           },
           {
             "kind": "paragraph",
-            "text": "A practical order: 1) choose a state and contact its licensing authority (Approbationsbehörde); 2) gather and translate the documents; 3) submit the application and wait for the decision (equivalence, Gleichwertigkeit, or a referral to the knowledge test, Kenntnisprüfung); 4) take the language exam (Fachsprachprüfung) at the medical chamber (Landesärztekammer); 5) if required, sit the knowledge test (Kenntnisprüfung); 6) obtain the licence (Approbation) or first the authorisation to practise (Berufserlaubnis) so you can work during the process. The IQ network advice service (IQ-Beratungsstelle) can help you find your bearings for free."
+            "text": "First choose the state and request its current document checklist and recognition routes for your application date. Submit the application, meet the language and professional requirements and await the Approbation decision. Working before that decision requires a separate lawful authorisation; an application receipt alone is not permission to practise."
           }
         ]
       }
@@ -85665,16 +85712,32 @@
         "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "summary": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Recognition from 1 November 2026: choosing the procedure"
   },
   {
     "editorialVoice": "hackgermany",
@@ -86670,7 +86733,7 @@
     "id": "de-kenntnispruefung",
     "categoryId": "qualification_recognition",
     "title": "Knowledge test (Kenntnisprüfung) versus equivalence (Gleichwertigkeit)",
-    "tldr": "Recognition of regulated professions has two different mechanisms. An equivalence assessment (Gleichwertigkeitsprüfung) is a comparison of your documents against the German standard, without an exam: if your education is recognised as equivalent, recognition is granted on paper. A test of professional knowledge (Kenntnisprüfung) is an exam that checks whether your knowledge matches that of a German graduate; it is set when the documents are incomplete or unverifiable, or the differences are too great. These are not two stages but a fork in the road. For doctors and nurses, the knowledge test (Kenntnisprüfung) is the usual alternative when the differences are large. It costs roughly 400–1100 €.",
+    "tldr": "Equivalence assessment compares training documents; a Kenntnisprüfung tests professional knowledge. The sequence and available compensatory measures depend on the profession, qualification’s country and application date. From 1 November 2026, a direct examination is the standard route for third-country medical, dental and pharmacy qualifications; documentary assessment can be chosen subject to its requirements.",
     "tags": [
       "kenntnispruefung",
       "gleichwertigkeitspruefung",
@@ -86682,113 +86745,41 @@
     "steps": [
       {
         "id": "two-paths",
-        "title": "Two recognition mechanisms",
+        "title": "Recognition from 1 November 2026: choosing the procedure",
         "content": [
           {
             "kind": "paragraph",
-            "text": "When you apply for recognition of a regulated profession, the authority must make sure your qualification is equivalent to the German one. This can be done in two ways: by reviewing the documents (equivalence assessment, Gleichwertigkeitsprüfung) or by testing knowledge in an exam (Kenntnisprüfung). The difference matters: it determines the timeline, the cost and the preparation."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Equivalence assessment (Gleichwertigkeitsprüfung) — a comparison by documents, without an exam",
-              "Knowledge test (Kenntnisprüfung) — an exam testing the equivalence of knowledge",
-              "These are alternatives, not sequential stages",
-              "Which route applies is decided by the authority after reviewing your file",
-              "Concerns regulated professions (doctor, nurse, etc.)"
-            ]
+            "text": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met."
           }
         ]
       },
       {
         "id": "gleichwertigkeit",
-        "title": "Equivalence assessment (Gleichwertigkeitsprüfung): the document route",
+        "title": "What documentary assessment establishes",
         "content": [
           {
             "kind": "paragraph",
-            "text": "An equivalence assessment (Gleichwertigkeitsprüfung) is a review of your paperwork: the degree, the curriculum with hours per subject, the supplement and your work experience. The authority (often with the help of an expert opinion, Gutachten) compares them against the German programme and decides whether there are substantial differences."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "gw-need",
-                "title": "1. What is needed for the comparison",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "The full degree and supplement with a list of subjects and hours",
-                      "A description of the programme content (modules/Curriculum)",
-                      "Proof of practical training and work experience",
-                      "Certified translations of all documents"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "gw-result",
-                "title": "2. Possible outcomes",
-                "content": [
-                  {
-                    "kind": "paragraph",
-                    "text": "If there are no differences — full recognition straight away. If there are substantial differences — the authority proposes a compensatory measure (an adaptation course, Anpassungslehrgang, or a knowledge test, Kenntnisprüfung). If the documents are unverifiable — you will most likely be referred to the knowledge test (Kenntnisprüfung)."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "kind": "paragraph",
-            "text": "The advantage of this route is that you do not have to take an exam if the paperwork is convincing. The drawback is that it depends on the completeness and quality of the documents: the more detailed the curriculum, the higher your chance of recognition without an exam."
+            "text": "The authority compares the qualification, curriculum and experience with German requirements. Equivalence removes the need to compensate for training differences, but not the other licensing conditions. Remaining differences may require a KP, aptitude test or adaptation period depending on the profession and origin of the qualification. These measures are not interchangeable."
           }
         ]
       },
       {
         "id": "kenntnispruefung",
-        "title": "Knowledge test (Kenntnisprüfung): the exam route",
+        "title": "What the examination assesses",
         "content": [
           {
             "kind": "paragraph",
-            "text": "A test of professional knowledge (Kenntnisprüfung) is an exam that checks whether you have the knowledge and skills of a German graduate in your profession. It is set when comparing the documents is not possible (they are incomplete, lost or unverifiable) or when the differences are too great to bridge through the paperwork alone."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Assigned when documents are incomplete/unverifiable or differences are large",
-              "Checks the practical and theoretical knowledge of the German standard",
-              "For doctors — an oral-practical exam (internal medicine, surgery, etc.)",
-              "For nurses — practical and oral parts on care",
-              "If you fail, the attempt can usually be repeated (typically up to three times)"
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "The knowledge test (Kenntnisprüfung) tests professional knowledge, not language — but it is held in German, so it also demands a good command of the language. Prepare for it specifically (with a preparatory course, Vorbereitungskurs), not just by reviewing general theory."
+            "text": "KP assesses knowledge and skills under the rules for the profession. Medical examinations include oral and practical components; professional communication is expressly included among the elements from November 2026. Do not apply the medical format to nursing or pharmacy. Obtain the state authority’s written requirements and booking procedure before paying for preparation."
           }
         ]
       },
       {
         "id": "choose-path",
-        "title": "How to tell which route you will get",
+        "title": "How to choose a procedure",
         "content": [
           {
             "kind": "paragraph",
-            "text": "You do not pick the route yourself — the recognition authority determines it after reviewing your file. But you can influence the outcome through the quality of your documents: the fuller and clearer your curriculum, the better your chance of passing through the equivalence assessment (Gleichwertigkeitsprüfung) without an exam."
-          },
-          {
-            "kind": "checklist",
-            "items": [
-              "Gather the most detailed curriculum possible, with hours and content",
-              "If the documents are lost or unverifiable — prepare for the knowledge test (Kenntnisprüfung)",
-              "Where there are substantial differences you can often choose: the exam or an adaptation course (Anpassungslehrgang)",
-              "Until the result you can work on a temporary authorisation to practise (for example, Berufserlaubnis for doctors)",
-              "Timelines: the document route is faster; the exam adds preparation time"
-            ]
-          },
-          {
-            "kind": "paragraph",
-            "text": "In short: the equivalence assessment (Gleichwertigkeitsprüfung) is 'recognition on paper', the knowledge test (Kenntnisprüfung) is 'recognition by exam'. The adaptation course (Anpassungslehrgang) stands apart as a practical measure for closing differences that can be made up. Once you know how they differ, you can plan the time and budget for the whole recognition path more accurately. For free advice, turn to the IQ network advice service (IQ-Beratungsstelle)."
+            "text": "Tell the authority your profession, qualification’s country and application date. Request the required documents for direct examination and, separately, documentary assessment, plus fees and transitional conditions. Compare actual waiting times and costs; do not translate a full curriculum before checking it is needed. Work before Approbation requires separate authorisation."
           }
         ]
       }
@@ -86854,23 +86845,39 @@
         "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BMG — recognition reform for health professions",
+        "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Regierungspräsidium Stuttgart — Kenntnisprüfung / Gutachten",
+        "url": "https://rp.baden-wuerttemberg.de/ua/themen/bildung/ausbildung/seiten/faq-akad-heilberufe/kenntnispruefung-/-gutachten/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": true,
     "pendingLaw": {
-      "summary": "On 01.11.2026 the law accelerating recognition of medical qualifications enters into force (BGBl. 2026 I Nr. 225): uniform procedures for physicians, dentists, pharmacists and midwives; the Kenntnisprüfung exam becomes the standard route instead of lengthy document review.",
+      "summary": "From 1 November 2026, direct Kenntnisprüfung becomes the standard route for third-country medical, dental and pharmacy qualifications; documentary equivalence assessment remains an option subject to its requirements. Ask your state authority about transitional treatment of existing applications. Language, completed training, health and reliability requirements remain. Nursing and midwifery rules differ: an adaptation-course option cannot automatically be applied to doctors. Passing the KP alone does not grant Approbation; the other conditions must also be met.",
       "expectedDate": "2026-11-01",
-      "sourceUrl": "https://www.recht.bund.de/bgbl/1/2026/225/VO.html"
-    }
+      "sourceUrl": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/berufsanerkennung-heilberufe-bundestag-26-03-26"
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Recognition from 1 November 2026: choosing the procedure"
   },
   {
     "editorialVoice": "hackgermany",
     "id": "de-deutschlandticket-2026",
     "categoryId": "public_transport",
     "title": "Deutschlandticket 63€: how to get it",
-    "tldr": "The Deutschlandticket (a single monthly travel pass for the whole country) costs 63€ a month in 2026 and gives unlimited use of all local public transport (öPNV) across Germany: the metro (U-Bahn), city trains (S-Bahn), trams (Tram), buses and regional RB/RE trains. It is not valid on the ICE, IC/EC or long-distance coaches (FlixBus). It is a subscription that can be cancelled monthly: you sign up through Deutsche Bahn (German Railways, DB), regional apps (BVG, MVG, HVV) or, more cheaply, through your employer (a company travel pass, Jobticket). The ticket is digital (in the app) or on a chip card (Chipkarte). It is almost always cheaper than an ordinary monthly pass.",
+    "tldr": "The Deutschlandticket (a single monthly travel pass for the whole country) costs 63€ a month in 2026 and gives unlimited use of all local public transport (öPNV) across Germany: the metro (U-Bahn), city trains (S-Bahn), trams (Tram), buses and regional RB/RE trains. It is not valid on the ICE, IC/EC or long-distance coaches (FlixBus). It is a subscription that can be cancelled monthly: you sign up through Deutsche Bahn (German Railways, DB), regional apps (BVG, MVG, HVV) or, more cheaply, through your employer (a company travel pass, Jobticket). The ticket is digital (in the app) or on a chip card (Chipkarte). It is almost always cheaper than an ordinary monthly pass. From January 2027: €66.80; existing DB subscribers should check the 30 November 2026 consent deadline below.",
     "tags": [
       "deutschlandticket",
       "travel-pass",
@@ -86966,7 +86973,7 @@
             "kind": "checklist",
             "items": [
               "The ticket is valid from the 1st of the calendar month",
-              "The subscription can usually be cancelled by the 10th of the month, taking effect the following month",
+              "At DB, cancel by the 10th inclusive to end the subscription at the end of the current month. Check other sellers’ terms separately.",
               "Once cancelled, the ticket remains valid until the end of the month you have paid for",
               "Keep your phone charged: a dead screen means no ticket during an inspection"
             ]
@@ -86976,6 +86983,16 @@
             "text": "The D-Ticket is personal: only the holder named on it may use it. It cannot be handed to anyone else — during an inspection this counts as travelling without a valid ticket."
           }
         ]
+      },
+      {
+        "id": "price-2027-consent",
+        "title": "2027 price and consent by 30 November",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "The standard ticket costs €63/month in 2026 and €66.80 from 1 January 2027. For an earlier DB subscription, the person who ordered it must accept the new price and supplementary terms by 30 November 2026 in Abo-Portal or DB Navigator (“Vertragsänderung zustimmen”). Without consent, DB ends the subscription on 31 December 2026. Orders placed from 15 October 2026 need no separate consent. Other sellers have their own notices; the DB deadline is not universal."
+          }
+        ]
       }
     ],
     "costs": [
@@ -86983,7 +87000,7 @@
         "label": "Deutschlandticket (standard)",
         "amountEURMin": 63,
         "amountEURMax": 63,
-        "note": "Fixed price in 2026, a monthly subscription that can be cancelled."
+        "note": "€63/month through 31 December 2026; €66.80/month from 1 January 2027."
       },
       {
         "label": "Deutschlandticket Jobticket",
@@ -87020,16 +87037,20 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Deutsche Bahn — Deutschlandticket contractual changes for 2027",
+        "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-01",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "From 2027 the Deutschlandticket price is set by an index model (transport ministers' decision, March 2026); the new price will be announced by 30.09.2026. Until the end of 2026 it stays at €63/month.",
-      "expectedDate": "2027-01-01",
-      "sourceUrl": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074"
-    }
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "2027 price and consent by 30 November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -102338,6 +102359,16 @@
             "text": "Never conceal a conviction in your application: the authority (Behörde) sees the federal central register of convictions (Bundeszentralregister) anyway, and false information is grounds for rejection and for a subsequent withdrawal (Rücknahme) of citizenship under §35 StAG. Honestly declaring a minor penalty below the threshold of §12a StAG is safer than staying silent."
           }
         ]
+      },
+      {
+        "id": "digital-certificate-scope",
+        "title": "A personal PDF does not replace the authority’s checks",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Digital Führungszeugnis delivery through BundID since October 2026 concerns private-purpose certificates. It does not replace register checks for naturalisation or make a clear certificate a guarantee of citizenship eligibility. Follow the Einbürgerungsbehörde’s request, including information on foreign convictions."
+          }
+        ]
       }
     ],
     "costs": [
@@ -102395,12 +102426,21 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "BfJ — digital Führungszeugnis FAQ",
+        "url": "https://bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fragen/Fragen_node.html?docId=259056",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "A personal PDF does not replace the authority’s checks"
   },
   {
     "editorialVoice": "hackgermany",
@@ -103363,6 +103403,16 @@
             ]
           }
         ]
+      },
+      {
+        "id": "fuel-tax-q4-2026",
+        "title": "Temporary fuel tax reduction: October–December",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "From 1 October through 31 December 2026, energy tax on petrol and diesel is reduced by 14.04 cents/litre, roughly 17 cents including VAT. This is a tax reduction, not a guaranteed pump-price cut at every station. Compare actual prices and do not assume the relief continues in 2027."
+          }
+        ]
       }
     ],
     "costs": [
@@ -103407,18 +103457,20 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Bundesregierung — changes in October 2026",
+        "url": "https://www.bundesregierung.de/breg-de/suche/gesetzliche-neuregelungen-oktober-2026-2454624",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-25",
     "verifyIntervalDays": 90,
     "premium": false,
-    "pendingLaw": {
-      "summary": "Fuel tax cut (Tankrabatt): on 25.09.2026 the Bundestag and Bundesrat approved cutting the energy tax on petrol and diesel by 14.04 ct/l (about 17 ct/l including VAT) for 01.10–31.12.2026. It applies once published in the Federal Law Gazette; whether stations pass on the full cut depends on the market.",
-      "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html",
-      "expectedDate": "2026-10-01"
-    },
-    "recentlyChangedAt": "2026-09-25",
-    "changeSummary": "Fuel tax cut by ~17 ct/l for 01.10–31.12.2026 (approved 25.09.2026)."
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Temporary fuel tax reduction: October–December"
   },
   {
     "editorialVoice": "hackgermany",
@@ -105606,7 +105658,7 @@
     "id": "de-paypal-klarna-payment",
     "categoryId": "banking_finance",
     "title": "PayPal, Klarna: online payment",
-    "tldr": "When shopping in German online stores you constantly come across PayPal and Klarna. PayPal is a wallet with buyer protection (Käuferschutz): if an item isn't delivered or doesn't match the description, you usually get your money back; it's free for the buyer. Klarna is several payment methods: paying by invoice after receiving the goods (Rechnung, very popular in Germany), installments (Ratenkauf — \"buy now, pay later\") and instant bank transfer (Sofort). Important: paying by invoice and especially installments are a form of credit — Klarna makes an inquiry to SCHUFA (the largest credit bureau) and may charge interest on installments. There are also bank-based methods such as Giropay (the former paydirekt), which let you pay directly through your online banking. The main rule: \"pay later\" means debt — pay on time, otherwise there will be reminders, fees and a mark in SCHUFA.",
+    "tldr": "PayPal and Klarna offer different payment products: immediate payment, pay later and instalments. Compare the specific product, price and buyer-protection terms. BNPL creates a payment obligation; credit checks and data reporting depend on the product. Giropay closed on 31 December 2024. From 20 November 2026, consumer-credit protection extends to certain BNPL agreements.",
     "tags": [
       "paypal",
       "klarna",
@@ -105642,89 +105694,31 @@
       },
       {
         "id": "klarna",
-        "title": "Klarna: Rechnung, Ratenkauf, Sofort",
+        "title": "Klarna: compare the specific product",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Klarna combines several payment methods, and it's important to understand the difference, because some of them are credit."
-          },
-          {
-            "kind": "substeps",
-            "items": [
-              {
-                "id": "rechnung",
-                "title": "1. Rechnung — payment by invoice",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "The goods arrive first; payment follows within the stated period (usually 14-30 days)",
-                      "Convenient: you can try on or check the goods first, then pay",
-                      "Klarna makes a soft or full inquiry to SCHUFA",
-                      "Falling behind leads to payment reminders (Mahnung) and fees"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "ratenkauf",
-                "title": "2. Ratenkauf — installments (BNPL)",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Payment in parts over several months — this is a consumer loan",
-                      "Interest (Sollzins) may be charged on the installments",
-                      "Klarna makes an inquiry to SCHUFA, and the loan itself is recorded in SCHUFA",
-                      "Several parallel installment plans worsen your credit profile"
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "sofort",
-                "title": "3. Sofort — instant transfer",
-                "content": [
-                  {
-                    "kind": "checklist",
-                    "items": [
-                      "Payment right away using your online banking details",
-                      "The money leaves immediately, like an ordinary transfer",
-                      "This is not credit and usually doesn't require an inquiry to SCHUFA",
-                      "Enter your online banking details only on a verified payment page"
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "Klarna Rechnung (payment by invoice) and Ratenkauf (installments) are \"buy now, pay later\", i.e. debt. Each installment plan is a loan visible in SCHUFA; several installment plans at once can easily lead to losing control over your spending and to overdue payments. Don't use BNPL for impulse purchases, and always pay the Klarna invoice on time: falling behind means reminders, fees and a negative SCHUFA entry that will make renting a home and getting loans harder."
+            "text": "Invoice payment and instalments have different deadlines, interest and credit-check rules. Not every order automatically creates a negative SCHUFA entry: the product, type of enquiry and reporting terms matter. Save the agreement and schedule and set reminders. If goods are disputed, notify both the shop and payment provider and verify that the payment deadline has actually been paused."
           }
         ]
       },
       {
         "id": "bank-based",
-        "title": "Bank-based methods and security",
+        "title": "Bank payments and the closure of Giropay",
         "content": [
           {
             "kind": "paragraph",
-            "text": "Besides wallets, you can pay directly through your bank: Giropay (which incorporates the former paydirekt) lets you pay through your online banking interface, confirmed with a TAN code, without passing your card details to the seller. The classic bank transfer (SEPA-Überweisung) and direct debit (Lastschrift) also remain the standard for many stores and subscriptions."
-          },
+            "text": "Giropay/paydirekt ceased operating on 31 December 2024. Where offered, bank payments can use SEPA transfer or direct debit; their refund and reversal rules differ. Verify the recipient and payment reference. Do not approve a TAN request described by a stranger as a “cancellation” or “refund”."
+          }
+        ]
+      },
+      {
+        "id": "consumer-credit-november",
+        "title": "BNPL: new rules from 20 November",
+        "content": [
           {
-            "kind": "checklist",
-            "items": [
-              "Giropay — payment through your online banking, confirmed with a TAN code",
-              "Bank transfer (SEPA-Überweisung) — for prepayment and invoices",
-              "Pay only on verified sites with https and a known seller",
-              "For subscriptions, prefer a method that's easy to cancel",
-              "Check your statement regularly for unfamiliar debits"
-            ]
-          },
-          {
-            "kind": "warning",
-            "text": "Enter payment details (online banking login, TAN codes, card data) only on the official payment page of the store or bank. Scammers fake the screens of Klarna, PayPal and Giropay. No genuine service will ask for a TAN code \"to cancel a payment\" or \"for a refund\" — such requests are always an attempt to steal money."
+            "kind": "paragraph",
+            "text": "From 20 November 2026, the published law extends consumer-credit protection to small, interest-free and certain BNPL products. Pre-contract information and creditworthiness checks matter; applicability depends on the agreement and statutory exceptions. Before confirming, check the total payable, interest, due dates and withdrawal terms. Returning goods is not a reason simply to stop paying: notify both seller and lender, retain evidence and check that the bill has been paused or adjusted."
           }
         ]
       }
@@ -105742,11 +105736,10 @@
       },
       {
         "label": "Klarna Ratenkauf (installments)",
-        "amountEUR": 0,
-        "note": "Interest (Sollzins) may be charged; this is a consumer loan, visible in SCHUFA."
+        "note": "Cost depends on the product: check the APR, total payable and contractual fees."
       },
       {
-        "label": "Giropay / SEPA-Überweisung",
+        "label": "SEPA-Überweisung",
         "amountEUR": 0,
         "note": "Usually free for the buyer; payment directly through the bank."
       }
@@ -105783,12 +105776,35 @@
         "language": "de",
         "lastRetrieved": "2026-06-03",
         "lastVerified": "2026-06-03"
+      },
+      {
+        "title": "Bundestag DIP — consumer credit law, BGBl. 2026 I No. 139",
+        "url": "https://dip.bundestag.de/vorgang/gesetz-zur-umsetzung-der-richtlinie-eu-2023-2225-%C3%BCber-verbraucherkreditvertr%C3%A4ge-und/325529",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesregierung — consumer credit protection",
+        "url": "https://www.bundesregierung.de/breg-de/aktuelles/schutz-kreditvertraege-2382528",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "VR Bank Rhein-Neckar — giropay ended on 31.12.2024",
+        "url": "https://www.vrbank.de/privatkunden/girokonto-und-karten/service-und-mehr/ratgeber/giropay-paydirekt.html",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": false
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "BNPL: new rules from 20 November"
   },
   {
     "editorialVoice": "hackgermany",
@@ -111224,5 +111240,164 @@
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
     "premium": true
+  },
+  {
+    "editorialVoice": "hackgermany",
+    "id": "de-ees-etias-entry",
+    "categoryId": "before_arrival",
+    "title": "EES and ETIAS: what you need at the border",
+    "tldr": "As of 31 October 2026, EES is operating and ETIAS is not accepting applications. They are separate systems. A residence permit or long-stay visa from an EES country exempts you from EES registration; carry the document.",
+    "tags": [
+      "EES",
+      "ETIAS",
+      "Schengen"
+    ],
+    "estimatedReadMinutes": 4,
+    "steps": [
+      {
+        "id": "which-system",
+        "title": "Distinguish the two systems",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "EES records short-stay non-EU visitors entering and leaving at external borders. Full rollout was completed on 10 April 2026. ETIAS is a future travel authorisation for certain visa-exempt travellers, not a border-crossing record."
+          }
+        ]
+      },
+      {
+        "id": "resident-documents",
+        "title": "Show your valid residence permit",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "EU/EEA/Swiss citizens and holders of valid residence permits or long-stay visas from EES countries are not registered as short-stay visitors. With a Portuguese or German permit, present your passport and card. An expired card and renewal receipt require a separate check of re-entry rules."
+          }
+        ]
+      },
+      {
+        "id": "visitor-border",
+        "title": "If travelling as a visitor",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Prepare your passport, visa if required and documents showing the purpose of the trip. EES registration records passport details and biometrics; children under 12 do not provide fingerprints. EES does not extend permitted stays or remove the 90/180 rule. Allow time for border checks."
+          }
+        ]
+      },
+      {
+        "id": "etias-status",
+        "title": "ETIAS: no application yet",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "On 31 October 2026 the official EU portal says ETIAS is not operating and no applications are collected. Do not pay an intermediary for an allegedly mandatory authorisation now. Before your next trip, check travel-europe.europa.eu again: the EU announces the start date and transitional rules."
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "European Commission — EES exemptions, 27.07.2026",
+        "url": "https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Council of the EU — how the Entry/Exit System works",
+        "url": "https://www.consilium.europa.eu/en/policies/entryexit-system/",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "European Union — ETIAS FAQ and launch status",
+        "url": "https://travel-europe.europa.eu/etias/faq",
+        "kind": "official",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "verifyIntervalDays": 30,
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "New guide based on official sources."
+  },
+  {
+    "editorialVoice": "hackgermany",
+    "id": "de-digital-fuehrungszeugnis",
+    "categoryId": "digital_gov",
+    "title": "Digital certificate of conduct through BundID",
+    "tldr": "Since October 2026, a certificate for private purposes can be delivered as a PDF to BundID. The standard fee is €13. A certificate for direct submission to an authority is not issued through this digital delivery route.",
+    "tags": [
+      "Führungszeugnis",
+      "BundID",
+      "eAT"
+    ],
+    "estimatedReadMinutes": 4,
+    "steps": [
+      {
+        "id": "choose-type",
+        "title": "Check the required certificate type first",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Ask the recipient whether they need an ordinary, extended or authority-directed certificate. PDF delivery covers private purposes, including the extended version when eligible. For an extended certificate, prepare confirmation of the legal purpose from the requesting organisation. Do not substitute a personal PDF for an authority’s required citizenship or licensing procedure."
+          }
+        ]
+      },
+      {
+        "id": "prepare",
+        "title": "Prepare your electronic ID and BundID",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "You need a Personalausweis, electronic residence permit (eAT) or eID card with activated online identification and PIN, a compatible phone/card reader and AusweisApp. Prepare a BundID account; it can also be created during the application. If online identification is unavailable, use the standard Bürgeramt route."
+          }
+        ]
+      },
+      {
+        "id": "apply",
+        "title": "Use the official portal",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Start at fuehrungszeugnis.bund.de and select digital delivery. Check your personal details and certificate type. According to the BfJ FAQ, digital applications use credit-card payment; the standard fee is €13. An intermediary selling instructions does not submit the application for you. Save the application confirmation."
+          }
+        ]
+      },
+      {
+        "id": "receive",
+        "title": "Receive and share the PDF",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "The certificate arrives in your BundID inbox. Download the original PDF: it has the same legal validity as the paper certificate and a QR code for authenticity checks. BfJ describes a usual turnaround of a few hours, but clarification or foreign-register enquiries may take longer. For a European certificate, the foreign authority has up to 20 working days to respond. Do not promise an employer a guaranteed 30-minute delivery."
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "BfJ — digital Führungszeugnis FAQ",
+        "url": "https://bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fragen/Fragen_node.html?docId=259056",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesportal — Führungszeugnis application",
+        "url": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99049001001000",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "verifyIntervalDays": 30,
+    "premium": false,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "New guide based on official sources."
   }
 ]

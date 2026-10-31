@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 1781568096793,
+  "contentVersion": 1793471557909,
   "language": "ru",
-  "generatedAt": "2026-09-25T20:41:00.000Z",
+  "generatedAt": "2026-10-31T18:32:37.909Z",
   "counts": {
     "categories": 23,
-    "guides": 600,
+    "guides": 602,
     "catalogEntries": 50,
     "communityChannels": 12,
     "communityFbGroups": 12
@@ -18,8 +18,8 @@
     },
     {
       "name": "guides.ru.json",
-      "size": 7265335,
-      "sha256": "dcb5aa659a8b80b907f52def12c47b91e4751761aab283926a57fcbc2960a311"
+      "size": 7275687,
+      "sha256": "9d6b36d82a6cf71ddf695b9c561f90a95297f48b66436791a86eaf4119dd6239"
     },
     {
       "name": "catalog.ru.json",
@@ -37,7 +37,7 @@
       "tag": "ru",
       "counts": {
         "categories": 23,
-        "guides": 600,
+        "guides": 602,
         "catalogEntries": 50,
         "communityChannels": 12,
         "communityFbGroups": 12
@@ -50,8 +50,8 @@
         },
         {
           "name": "guides.ru.json",
-          "size": 7265335,
-          "sha256": "dcb5aa659a8b80b907f52def12c47b91e4751761aab283926a57fcbc2960a311"
+          "size": 7275687,
+          "sha256": "9d6b36d82a6cf71ddf695b9c561f90a95297f48b66436791a86eaf4119dd6239"
         },
         {
           "name": "catalog.ru.json",
@@ -69,7 +69,7 @@
       "tag": "en",
       "counts": {
         "categories": 23,
-        "guides": 600,
+        "guides": 602,
         "catalogEntries": 50,
         "communityChannels": 12,
         "communityFbGroups": 12
@@ -82,8 +82,8 @@
         },
         {
           "name": "guides.en.json",
-          "size": 5527280,
-          "sha256": "60f36ff5316849a0573b9eaaffc0e8afc077ed009c75df6af9bc71b1d38130b3"
+          "size": 5534985,
+          "sha256": "e5f33abdc97cafa0a175c7dad967ce22a8784c27b2d3a1059eb1e5a0c5096fc2"
         },
         {
           "name": "catalog.en.json",
@@ -101,7 +101,7 @@
       "tag": "de",
       "counts": {
         "categories": 23,
-        "guides": 600,
+        "guides": 602,
         "catalogEntries": 50,
         "communityChannels": 12,
         "communityFbGroups": 12
@@ -114,8 +114,8 @@
         },
         {
           "name": "guides.de.json",
-          "size": 5502618,
-          "sha256": "adf904b70f382808fc67d8e216f422243d3cf097b633c4c5cc17ab0495ed48d4"
+          "size": 5511891,
+          "sha256": "a02873f6b474ca8a46086103860c53a9bba1dcdcfcc11c343ba763d68528f72e"
         },
         {
           "name": "catalog.de.json",
