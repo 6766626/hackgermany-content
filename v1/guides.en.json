@@ -23568,7 +23568,7 @@
     "id": "de-buying-property-overview",
     "categoryId": "housing",
     "title": "Buying a home: a general overview for foreigners",
-    "tldr": "Any foreigner can buy a flat or house in Germany, with no restrictions tied to visa or residence. Add 9-15% in incidental purchase costs (Kaufnebenkosten) on top of the price: property transfer tax (Grunderwerbsteuer) 3,5-6,5% (depending on the federal state Land), notary fees (Notargebühren) ~1,5-2%, the land registry fee (Grundbuchgebühr) ~0,5%, and the agent's commission (Maklerprovision) ~3,57% from each side. The transaction goes through a notary (Notar), and an entry in the land register (Grundbucheintrag) is mandatory. KfW loans are open to non-residents too, but banks require 20-40% of your own equity (Eigenkapital).",
+    "tldr": "Any foreigner can buy a flat or house in Germany, with no restrictions tied to visa or residence. Add 9-15% in incidental purchase costs (Kaufnebenkosten) on top of the price: property transfer tax (Grunderwerbsteuer) 3,5-6,5% (depending on the federal state Land), notary fees (Notargebühren) ~1,5-2%, the land registry fee (Grundbuchgebühr) ~0,5%, and the agent's commission (Maklerprovision) ~3,57% from each side. The transaction goes through a notary (Notar), and an entry in the land register (Grundbucheintrag) is mandatory. KfW 124 supports buying or building an owner-occupied home in Germany, up to €100,000 per project, subject to programme and lender requirements.",
     "tags": [
       "property purchase",
       "grunderwerbsteuer",
@@ -23714,7 +23714,7 @@
                     "items": [
                       "Get a financing confirmation (Finanzierungsbestätigung) from the bank BEFORE making an offer",
                       "Compare mortgages: Interhyp, Dr. Klein, Hüttig & Rompf",
-                      "Building-society savings/KfW: KfW 124 (the home-ownership programme Wohneigentumsprogramm) — up to 100.000€ at a below-market rate, available to non-residents",
+                      "KfW 124: up to €100,000 for an owner-occupied home in Germany. Contact the financing partner before signing the notarised purchase contract; eligibility and rates depend on programme terms and the lender’s decision.",
                       "Own equity (Eigenkapital): 20-40% of the price plus all the incidental costs"
                     ]
                   }
@@ -23789,7 +23789,7 @@
               "Non-EU with a permanent residence permit (Niederlassungserlaubnis): ~70-80% of the value (LTV)",
               "Residence permit (Aufenthaltstitel) <2 years: 50-60% of the value, rates +0,3-0,5%",
               "Non-resident: 40-60% LTV, rates +0,5-1%, and not every bank will deal with you",
-              "KfW loans (KfW 124, 297, 298) are available to all residents and lower the effective rate"
+              "KfW 124, 297 and 298 have different requirements. Check the specific programme, use of the property and total financing cost; residence alone guarantees neither eligibility nor a lower rate."
             ]
           }
         ]
@@ -23817,6 +23817,16 @@
           {
             "kind": "warning",
             "text": "Do not sign a reservation agreement (Reservierungsvereinbarung) with an agent that comes with a 1-2% prepayment \"to hold it\". In most cases the BGH finds this void, but getting your money back means going through the courts. Just refuse."
+          }
+        ]
+      },
+      {
+        "id": "digital-property-2026",
+        "title": "Digital document exchange during a property transaction",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "According to the Bundesregierung announcement dated 1 October 2026, changes expanding digital exchanges between notaries, courts and authorities in the execution of property transactions have entered into force. Notarial form under Section 311b BGB and registration of ownership transfer remain required. Ask the notary how documents will be exchanged and which stages apply to your transaction; the reform does not guarantee a particular registration time."
           }
         ]
       }
@@ -23869,7 +23879,7 @@
         "url": "https://www.gesetze-im-internet.de/bgb/__311b.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-10-31"
       },
       {
         "title": "BGB §873 — Erwerb durch Einigung und Eintragung",
@@ -23898,11 +23908,27 @@
         "kind": "official",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "KfW — Wohneigentumsprogramm 124",
+        "url": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/F%C3%B6rderprodukte/Wohneigentumsprogramm-%28124%29/",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesregierung — Digitalisierung von Immobilienverträgen, 01.10.2026",
+        "url": "https://www.bundesregierung.de/breg-de/suche/digitalisierung-immobilienvertraege-2392190",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Clarified KfW 124 purpose and application timing; added digital document exchange while retaining notarial requirements."
   },
   {
     "editorialVoice": "hackgermany",
@@ -77090,6 +77116,16 @@
             "text": "Foreign tourists and newcomers often think the zones do not apply to them — they do. A low-emission zone applies to everyone; entering without a green sticker is punished with a 100 € fine in Germany."
           }
         ]
+      },
+      {
+        "id": "euro7-dates",
+        "title": "Euro 7 and city zones have different rules",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "As of 31 October 2026, the first general Euro 7 stage is still ahead: new car and light-van types (M1/N1) are covered from 29 November 2026, and new vehicles in those categories from 29 November 2027. This does not automatically ban already registered Euro 6 vehicles or replace local Umweltzone rules. Check the city’s access rules and emissions sticker separately for a particular trip."
+          }
+        ]
       }
     ],
     "costs": [
@@ -77133,6 +77169,20 @@
         "kind": "secondary",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Regulation (EU) 2024/1257 — Article 20, application dates",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02024R1257-20260923",
+        "kind": "law",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesregierung — Neuregelungen November 2026",
+        "url": "https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-november-2026-2459132",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastVerified": "2026-09-25",
@@ -77142,7 +77192,9 @@
     "pendingLaw": {
       "summary": "On 25.09.2026 the Bundesrat approved an amendment to the 35th BImSchV: electric cars with an \"E\" number plate (E-Kennzeichen) will no longer need an emissions sticker (Umweltplakette) to enter low-emission zones. It applies once published; EVs with foreign plates are not covered.",
       "sourceUrl": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1068/1068-node.html"
-    }
+    },
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Distinguished Euro 7 implementation dates from local environmental-zone rules."
   },
   {
     "editorialVoice": "hackgermany",
@@ -84819,7 +84871,7 @@
     "id": "de-online-shopping-returns",
     "categoryId": "daily_life",
     "title": "Online shopping: Amazon, returns",
-    "tldr": "Germany is a paradise for online shopping, with some of the strongest consumer protection anywhere. The main platforms: Amazon.de, Otto.de, Zalando (clothing/footwear), MediaMarkt/Saturn (electronics), eBay. By law, the right of withdrawal (Widerrufsrecht, §355 BGB) gives you 14 days to return goods bought at a distance, WITHOUT giving a reason — counted from the moment you receive them. Many shops (especially Zalando, Amazon) offer free returns and extend the window to 30–100 days. Payment: by invoice (Rechnung), direct debit (Lastschrift), PayPal, Klarna, or card. Paying by invoice (Rechnung, pay after receipt) is a typically German and very convenient option.",
+    "tldr": "Distance purchases from a business seller generally allow 14 days to declare withdrawal (Widerruf); for goods, the start normally depends on delivery and proper information. Goods generally must then be sent back within a further 14 days after withdrawal. Statutory exceptions apply. Retailers’ voluntary policies vary: as of 31 October 2026, Zalando offers 30 days for unused items under its terms, not 100. Check the seller’s conditions and return-shipping costs before buying.",
     "tags": [
       "online-shopping",
       "amazon",
@@ -84842,7 +84894,7 @@
             "items": [
               "Amazon.de — everything under the sun; Prime gives fast free delivery",
               "Otto.de — the second largest, with furniture, appliances, and clothing; purchase by invoice (Rechnung)",
-              "Zalando / About You — clothing and footwear, free returns for 100 days",
+              "Zalando — clothing and shoes: voluntary 30-day return policy for unused items under its terms; About You and other sellers have their own policies.",
               "MediaMarkt / Saturn — electronics, can be picked up in store",
               "eBay / Kleinanzeigen — new and used",
               "idealo.de / geizhals.de — price-comparison aggregators"
@@ -84856,7 +84908,7 @@
         "content": [
           {
             "kind": "paragraph",
-            "text": "This is your key right. Under §355 BGB, for a distance purchase (online or by phone) a consumer may withdraw from the contract within 14 days without giving a reason (the right of withdrawal, Widerrufsrecht). This is the law, not a shop's \"goodwill\" — it applies to any seller dealing with consumers in the EU."
+            "text": "A distance contract with a business seller generally carries a 14-day right of withdrawal. For goods, the period normally starts after delivery and proper information. This is separate from the subsequent period for returning the goods; statutory exceptions apply."
           },
           {
             "kind": "checklist",
@@ -84865,14 +84917,14 @@
               "You do NOT need to give a reason",
               "A clear withdrawal declaration is enough (a form, an e-mail, a return button) — send it within the period",
               "Since 19.06.2026 online shops must display a clearly visible withdrawal button (Widerrufsbutton, §356a BGB) — you can withdraw from a purchase in a couple of clicks",
-              "The money is refunded within 14 days of the withdrawal, including the standard outbound delivery",
-              "If the seller failed to inform you of the right of withdrawal, the period is extended to 12 months",
+              "Refunds are normally due within 14 days after withdrawal, including the cheapest standard outbound delivery; the seller may wait for the goods or proof of dispatch unless it offered to collect them.",
+              "Without proper withdrawal information, the right normally expires at the latest 12 months and 14 days after the statutory starting point (Section 356 BGB).",
               "Returning the goods themselves — within 14 days of the withdrawal declaration"
             ]
           },
           {
             "kind": "warning",
-            "text": "Exceptions to the right of withdrawal (Widerrufsrecht): custom-made goods (made to order), perishable products, opened hygiene products, unsealed discs or software, and digital content once the download has begun. The right to return does not apply to these."
+            "text": "Exceptions can cover personalised, perishable and certain unsealed goods. For paid digital content, merely starting a download is insufficient: loss of the right requires the conditions in Section 356 BGB, including express consent, acknowledgement of the loss and contract confirmation."
           }
         ]
       },
@@ -85002,7 +85054,7 @@
         "url": "https://www.gesetze-im-internet.de/bgb/__357.html",
         "kind": "official",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-10-31"
       },
       {
         "title": "Council of the EU — small parcels, reviewed 23.10.2026",
@@ -85017,6 +85069,20 @@
         "kind": "official",
         "language": "en",
         "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Zalando — AGB, freiwilliges Rückgaberecht",
+        "url": "https://www.zalando.de/zalando-terms/",
+        "kind": "company",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "BGB §356 — Fristbeginn und Erlöschen des Widerrufsrechts",
+        "url": "https://www.gesetze-im-internet.de/bgb/__356.html",
+        "kind": "law",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
@@ -85024,7 +85090,7 @@
     "verifyIntervalDays": 90,
     "premium": false,
     "recentlyChangedAt": "2026-10-31",
-    "changeSummary": "Non-EU parcels: fee from 1 November"
+    "changeSummary": "Corrected Zalando’s outdated 100-day policy to 30 days and distinguished withdrawal from return shipment."
   },
   {
     "editorialVoice": "hackgermany",
@@ -104046,6 +104112,16 @@
             "text": "The notary does NOT check the technical condition of the property or the fairness of the market price, and does not advise on taxes or the mortgage. They are responsible only for the legal correctness of the deal. Check the property's condition yourself (with an expert, Gutachter, if possible), and agree the mortgage terms with the bank in advance."
           }
         ]
+      },
+      {
+        "id": "digital-property-2026",
+        "title": "Digital document exchange during a property transaction",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "According to the Bundesregierung announcement dated 1 October 2026, changes expanding digital exchanges between notaries, courts and authorities in the execution of property transactions have entered into force. Notarial form under Section 311b BGB and registration of ownership transfer remain required. Ask the notary how documents will be exchanged and which stages apply to your transaction; the reform does not guarantee a particular registration time."
+          }
+        ]
       }
     ],
     "costs": [
@@ -104074,7 +104150,7 @@
         "url": "https://www.gesetze-im-internet.de/bgb/__311b.html",
         "kind": "law",
         "language": "de",
-        "lastRetrieved": "2026-06-03"
+        "lastRetrieved": "2026-10-31"
       },
       {
         "title": "§ 925 BGB — Auflassung (transfer of title)",
@@ -104103,12 +104179,21 @@
         "kind": "law",
         "language": "de",
         "lastRetrieved": "2026-06-03"
+      },
+      {
+        "title": "Bundesregierung — Digitalisierung von Immobilienverträgen, 01.10.2026",
+        "url": "https://www.bundesregierung.de/breg-de/suche/digitalisierung-immobilienvertraege-2392190",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
       }
     ],
     "lastRetrieved": "2026-06-03",
     "lastVerified": "2026-06-03",
     "verifyIntervalDays": 90,
-    "premium": true
+    "premium": true,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "Added the October reform of digital exchanges between notaries and authorities; notarial form remains compulsory."
   },
   {
     "editorialVoice": "hackgermany",
@@ -111399,5 +111484,82 @@
     "premium": false,
     "recentlyChangedAt": "2026-10-31",
     "changeSummary": "New guide based on official sources."
+  },
+  {
+    "editorialVoice": "hackgermany",
+    "id": "de-euro7-buying-2026",
+    "categoryId": "auto_driving",
+    "title": "Euro 7: what car buyers need to know from November 2026",
+    "tldr": "As of 31 October 2026, Euro 7 has been adopted, but its first general application date for new car and light-van types is still ahead: 29 November 2026. The next stage for new vehicles in those categories is 29 November 2027. These dates do not ban the use of already registered Euro 6 vehicles.",
+    "tags": [
+      "euro7",
+      "car",
+      "buying",
+      "emissions"
+    ],
+    "estimatedReadMinutes": 4,
+    "steps": [
+      {
+        "id": "dates",
+        "title": "Distinguish a type from an individual vehicle",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Regulation (EU) 2024/1257, Article 20: new M1/N1 types from 29 November 2026; new M1/N1 vehicles from 29 November 2027. A new model and a new unit of an already approved model are different cases. Other categories and exceptions have separate dates."
+          }
+        ]
+      },
+      {
+        "id": "before-buying",
+        "title": "Questions for the seller",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Ask for the particular vehicle’s documented emissions class and category, intended first-registration date and basis for approval. For delivery near a transition date, confirm compliance for your vehicle; a model’s marketing date is insufficient."
+          }
+        ]
+      },
+      {
+        "id": "used",
+        "title": "When buying used",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "New-type approval dates alone do not require replacing an already registered car. Check inspection, registration and local access restrictions separately. City Umweltzonen and Umweltplaketten are not replaced by the Euro 7 label."
+          }
+        ]
+      },
+      {
+        "id": "order",
+        "title": "Record the specification",
+        "content": [
+          {
+            "kind": "paragraph",
+            "text": "Keep the specification and the seller’s written confirmation of emissions class and planned registration. Recheck the rules if delivery slips. Do not assume a discount, tax benefit or guaranteed resale value merely from Euro 7."
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Regulation (EU) 2024/1257 — Article 20 and application dates",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02024R1257-20260923",
+        "kind": "law",
+        "language": "en",
+        "lastRetrieved": "2026-10-31"
+      },
+      {
+        "title": "Bundesregierung — Neuregelungen November 2026",
+        "url": "https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-november-2026-2459132",
+        "kind": "official",
+        "language": "de",
+        "lastRetrieved": "2026-10-31"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "verifyIntervalDays": 60,
+    "premium": true,
+    "recentlyChangedAt": "2026-10-31",
+    "changeSummary": "New guide to Euro 7 dates, types versus vehicles and checks before purchase."
   }
 ]

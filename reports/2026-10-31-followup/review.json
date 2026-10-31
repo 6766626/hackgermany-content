@@ -1,0 +1,19 @@
+{
+  "reviewDate": "2026-10-31",
+  "scope": "Whole-catalog inventory; targeted factual updates, not full reverification of all existing claims.",
+  "project": "DE",
+  "changes": {
+    "de-online-shopping-returns": "Исправлен устаревший срок Zalando 100 → 30 дней; разделены отказ от договора и отправка возврата.",
+    "de-buying-property-overview": "Уточнены назначение и порядок заявки KfW 124; добавлен цифровой обмен документами без отмены нотариальной формы.",
+    "de-buying-process-notar": "Добавлено октябрьское изменение цифрового обмена нотариусов и ведомств; обязательная нотариальная форма сохранена.",
+    "de-umweltplakette-zones": "Добавлено различие между сроками Euro 7 и местными экологическими зонами.",
+    "de-euro7-buying-2026": "Новый гайд: сроки Euro 7, различие новых типов и новых автомобилей, проверка перед покупкой."
+  },
+  "totals": {
+    "count": 603,
+    "new": 1,
+    "updated": 4,
+    "full_review_overdue": 543
+  },
+  "publication": "Draft review branch only; no Pages deployment authorized."
+}
